@@ -1,0 +1,56 @@
+{
+  "sentences": [
+    {
+      "finnish": "Hän asuu asunnossa ja maksaa vuokraa. → c. vuokralainen",
+      "english": "He lives in an apartment and pays rent. → c. tenant"
+    },
+    {
+      "finnish": "Vuokralainen maksaa 2 kk vuokran, kun hän muuttaa asuontoon. Hän saa rahat takaisin, kun hän muuttaa pois. → g. takuuvuokra",
+      "english": "The tenant pays 2 months' rent when he moves in to the apartment. He gets the money back when he moves out. → g. security deposit"
+    },
+    {
+      "finnish": "Tosi pieni keittiö. → h. keittokomeri",
+      "english": "A really small kitchen. → h. kitchenette"
+    },
+    {
+      "finnish": "Täällä voit käydä suihkussa. → m. kylpyhuone",
+      "english": "Here you can take a shower. → m. bathroom"
+    },
+    {
+      "finnish": "Kerrostalon portaat. Esimerkiksi A, B ja C. → a. rappu",
+      "english": "Stairs in an apartment building. For example A, B and C. → a. staircase"
+    },
+    {
+      "finnish": "Asunnossa on kolme huonetta. → b. kolmio",
+      "english": "The apartment has three rooms. → b. three-room apartment"
+    },
+    {
+      "finnish": "Kuuma huone. → l. sauna",
+      "english": "A hot room. → l. sauna"
+    },
+    {
+      "finnish": "Asunto on hänen ja vuokralainen maksaa hänelle vuokraa. → d. vuokranantaja",
+      "english": "The apartment belongs to him and the tenant pays him rent. → d. landlord"
+    },
+    {
+      "finnish": "Auton paikka pihalla. → e. parkkipaikka",
+      "english": "A parking space in the yard. → e. parking space"
+    },
+    {
+      "finnish": "Jos talo on korkea, siinä on monta ... → f. kerros",
+      "english": "If the building is tall, it has many... → f. floor"
+    },
+    {
+      "finnish": "Pieni huone talon kellarissa. Siellä ei voi asua. → i. kellarikomero",
+      "english": "A small room in the house's basement. You can't live there. → i. basement storage"
+    },
+    {
+      "finnish": "Asunnon hinta joka kuukausi. → j. vuokra",
+      "english": "The price of the apartment each month. → j. rent"
+    },
+    {
+      "finnish": "1 m pitkä ja 1 m leveä. → k. neliömetri",
+      "english": "1 meter long and 1 meter wide. → k. square meter"
+    }
+  ]
+}

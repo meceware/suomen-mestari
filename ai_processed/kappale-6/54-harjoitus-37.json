@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "finnish": "Lapsi on yksin kotona. Äiti soittaa hänelle. Mitä äiti sanoo?",
+      "english": "The child is alone at home. The mother is calling him. What does the mother say?"
+    },
+    {
+      "finnish": "Älä avaa ovea! Älä mene ulos! Tee läksyt! Soita minulle, jos tarvitset apua!",
+      "english": "Don't open the door! Don't go outside! Do your homework! Call me if you need help!"
+    },
+    {
+      "finnish": "Mitä suomen opettaja sanoo opiskelijoille?",
+      "english": "What does the Finnish teacher say to the students?"
+    },
+    {
+      "finnish": "Lukekaa teksti ja kirjoittakaa tehtävä.",
+      "english": "Read the text and do the task."
+    },
+    {
+      "finnish": "Sinun ystävä ei tiedä, mitä hän haluaisi tehdä viikonloppuna. Onko sinulla hyvä idea?",
+      "english": "Your friend doesn't know what he/she would like to do on the weekend. Do you have a good idea?"
+    },
+    {
+      "finnish": "Mennään elokuviin ja kahvilaan. Käydään uimassa.",
+      "english": "Let's go to the movies and a cafe. Let's go swimming."
+    }
+  ]
+}

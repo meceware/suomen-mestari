@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "finnish": "A. Minä haluan syödä jotain hyvää.",
+      "english": "A. I want to eat something good."
+    },
+    {
+      "finnish": "B. Niin minäkin. Ostetaanko jäätelöä?",
+      "english": "B. Me too. Shall we buy ice cream?"
+    },
+    {
+      "finnish": "A. Hmm, minä en halua jäätelöä. Haluan pullaa.",
+      "english": "A. Hmm, I don't want ice cream. I want a bun."
+    },
+    {
+      "finnish": "B. No, mennään sitten kahvilaan. Siellä sinä saat pullaa ja minä jäätelöä.",
+      "english": "B. Well, let's go to a cafe then. There you can get a bun and I'll get ice cream."
+    },
+    {
+      "finnish": "A. Joo, mennään vaan.",
+      "english": "A. Yes, let's go."
+    },
+    {
+      "finnish": "A. Hei Elina, tiedätkö sinä, missä päin Katja asuu?",
+      "english": "A. Hi Elina, do you know where Katja lives?"
+    },
+    {
+      "finnish": "B. En tiedä, mutta luulen että hän asuu Lehtelässä.",
+      "english": "B. I don't know, but I think she lives in Lehtelä."
+    },
+    {
+      "finnish": "A. Ahaa! Lehtelään on ihan lyhyt matka, vain 1,5 km.",
+      "english": "A. Aha! It's a short distance to Lehtelä, only 1.5 km."
+    },
+    {
+      "finnish": "B. Niin on. Voimme kävellä.",
+      "english": "B. It is. We can walk."
+    },
+    {
+      "finnish": "A. Kävellä? Mutta nyt sataa...",
+      "english": "A. Walk? But it's raining now..."
+    },
+    {
+      "finnish": "B. Ei se mitään! Kävellään silti.",
+      "english": "B. It's nothing! Let's walk anyway."
+    }
+  ]
+}

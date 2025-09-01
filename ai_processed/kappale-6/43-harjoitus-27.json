@@ -1,0 +1,100 @@
+{
+  "sentences": [
+    {
+      "finnish": "Mistä sinä tulet nyt?",
+      "english": "Where are you coming from now?"
+    },
+    {
+      "finnish": "Tulen Brysselistä, Belgiasta.",
+      "english": "I'm coming from Brussels, Belgium."
+    },
+    {
+      "finnish": "Aha! Minä tulen Roomasta.",
+      "english": "Aha! I'm coming from Rome."
+    },
+    {
+      "finnish": "Ai! Roomasta, voi! Rooma on niin kaunis vanha kaupunki.",
+      "english": "Oh! From Rome, oh! Rome is such a beautiful old city."
+    },
+    {
+      "finnish": "Joo, onhan se! Mutta täällä Frankfurtissa ei ole nyt ollenkaan kaunista kun sataa ja on sumuista. Tulitko sinä tänne lomalle?",
+      "english": "Yes, it is! But it's not beautiful at all now in Frankfurt when it's raining and foggy. Did you come here on vacation?"
+    },
+    {
+      "finnish": "En, minä jatkan matkaa illalla, entä sinä?",
+      "english": "No, I'm continuing my journey tonight, what about you?"
+    },
+    {
+      "finnish": "Minä olen Frankfurtissa työmatkalla. Olen täällä yhdessä konferenssissä.",
+      "english": "I'm on a business trip in Frankfurt. I'm here at a conference."
+    },
+    {
+      "finnish": "Aha!",
+      "english": "Aha!"
+    },
+    {
+      "finnish": "Mutta sinä matkustat eteenpäin. Mihin sinä lennät illalla?",
+      "english": "But you're continuing your journey. Where are you flying in the evening?"
+    },
+    {
+      "finnish": "Lennän ensin Helsingiin ja siellä olemme pari tuntia. Sitten lentokone jatkaa Tokioon Japaniin.",
+      "english": "I'm flying to Helsinki first, and we'll be there for a couple of hours. Then the plane continues to Tokyo, Japan."
+    },
+    {
+      "finnish": "Oi! Sinulla on sitten kaksi pitkää lentoa.",
+      "english": "Oh! You have then two long flights."
+    },
+    {
+      "finnish": "Niin on! Mutta entä sinä kun konferenssi loppuu, matkustatko takaisin Italiaan?",
+      "english": "That's right! But what about you, when the conference ends, are you traveling back to Italy?"
+    },
+    {
+      "finnish": "Ei, en palaa vielä Roomaan, vaan jatkan täältä perjantaina Pariisiin. Se on onneksi tosi lyhyt lento. Vain puoli tuntia.",
+      "english": "No, I'm not returning to Rome yet, but I'm continuing from here to Paris on Friday. It's fortunately a really short flight. Only half an hour."
+    },
+    {
+      "finnish": "Joo, niin on!",
+      "english": "Yes, that's right!"
+    },
+        {
+      "finnish": "Mistä mies tulee?",
+      "english": "Where does the man come from?"
+    },
+    {
+      "finnish": "Mies tulee Roomasta.",
+      "english": "The man comes from Rome."
+    },
+    {
+      "finnish": "Mistä nainen tulee?",
+      "english": "Where does the woman come from?"
+    },
+    {
+      "finnish": "Nainen tulee Brysselistä, Belgiasta.",
+      "english": "The woman comes from Brussels, Belgium."
+    },
+    {
+      "finnish": "Missä he ovat?",
+      "english": "Where are they?"
+    },
+    {
+      "finnish": "He ovat nyt Frankfurtissa.",
+      "english": "They are now in Frankfurt."
+    },
+    {
+      "finnish": "Mihin mies lentää?",
+      "english": "Where does the man fly?"
+    },
+    {
+      "finnish": "Mies lentää Pariisiin.",
+      "english": "The man flies to Paris."
+    },
+    {
+      "finnish": "Mihin nainen lentää?",
+      "english": "Where does the woman fly?"
+    },
+    {
+      "finnish": "Nainen lentää ensin Helsinkiin ja sitten Tokioon Japaniin.",
+      "english": "The woman flies first to Helsinki and then to Tokyo Japan."
+    }
+  ]
+}

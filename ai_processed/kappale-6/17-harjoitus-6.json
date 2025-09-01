@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    {
+      "finnish": "Tässä talossa on kahdeksan kerrosta.",
+      "english": "This house has eight floors."
+    },
+    {
+      "finnish": "Me menemme hissillä ylös.",
+      "english": "We go up in the elevator."
+    },
+    {
+      "finnish": "Tämä kauppaa on auki ma-pe klo 9-20.",
+      "english": "This store is open Monday to Friday from 9 am to 8 pm."
+    },
+    {
+      "finnish": "Tule sisään! Ovi on auki!",
+      "english": "Come in! The door is open!"
+    },
+    {
+      "finnish": "Meidän sauna on kellarissa. Kun menen saunaan, menen alas.",
+      "english": "Our sauna is in the basement. When I go to the sauna, I go down."
+    },
+    {
+      "finnish": "Kun sataa ja tulee, meidän ikkunat ovat kiinni.",
+      "english": "When it rains and is windy, our windows are closed."
+    },
+    {
+      "finnish": "Kun on lämmin ilma, haluan mennä ulos ja istua auringossa.",
+      "english": "When the weather is warm, I want to go outside and sit in the sun."
+    }
+  ]
+}

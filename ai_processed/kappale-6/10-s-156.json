@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "finnish": "mennä + mihin",
+      "english": "to go + to where"
+    },
+    {
+      "finnish": "Hän menee kauppaan.",
+      "english": "He goes to the store."
+    },
+    {
+      "finnish": "Hän menee torille.",
+      "english": "He goes to the market."
+    },
+    {
+      "finnish": "Käydä + missä",
+      "english": "to visit + to where"
+    },
+    {
+      "finnish": "Hän käy kaupassa.",
+      "english": "He visits the store."
+    },
+    {
+      "finnish": "Hän käy torilla.",
+      "english": "He visits the market."
+    },
+    {
+      "finnish": "Huoneessa on...",
+      "english": "In the room there is..."
+    },
+    {
+      "finnish": "Keittiössä on iso pöytä.",
+      "english": "There is a big table in the kitchen."
+    },
+    {
+      "finnish": "Lattialla on matto.",
+      "english": "There is a rug on the floor."
+    },
+    {
+      "finnish": "Huoneessa on sohva, pöytä ja hylly.",
+      "english": "There is a sofa, a table and a shelf in the room."
+    },
+    {
+      "finnish": "Suomessa on 5,5 miljoonaa ihmistä.",
+      "english": "There are 5.5 million people in Finland."
+    },
+    {
+      "finnish": "Huoneessa ei ole + partitiivi",
+      "english": "In the room there is not + partitive"
+    },
+    {
+      "finnish": "Keittiössä ei ole isoa pöytä.",
+      "english": "There isn't a big table in the kitchen."
+    },
+    {
+      "finnish": "Lattialla ei ole mattoa.",
+      "english": "There isn't a rug on the floor."
+    },
+    {
+      "finnish": "Suomessa ei ole kuningasta.",
+      "english": "There isn't a king in Finland."
+    }
+  ]
+}

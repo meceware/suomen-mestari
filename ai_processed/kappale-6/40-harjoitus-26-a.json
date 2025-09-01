@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "finnish": "Rouva Anneli Wigren on eläkkeellä.",
+      "english": "Mrs. Anneli Wigren is retired."
+    },
+    {
+      "finnish": "Hän asuu 1. *Turussa* (TURKU).",
+      "english": "She lives in Turku."
+    },
+    {
+      "finnish": "Koska hänellä on paljon aikaa, hän matkustaa paljon.",
+      "english": "Because she has a lot of time, she travels a lot."
+    },
+    {
+      "finnish": "Kesällä hän on yleensä 2. *lomalla* (LOMA) Italiassa ja talvella 3. *Lapissa* (LAPPI).",
+      "english": "In the summer, she is usually on vacation in Italy and in the winter in Lapland."
+    },
+    {
+      "finnish": "Tänä viikonloppuna hän matkustaa 4. *Turusta* (TURKU) 5. *Helsinkiin* (HELSINKI) junalla.",
+      "english": "This weekend she is traveling from Turku to Helsinki by train."
+    },
+    {
+      "finnish": "Matka kestää 2 tuntia.",
+      "english": "The journey takes 2 hours."
+    },
+    {
+      "finnish": "*Matkalla* (MATKA) Anneli lukee kirjaa.",
+      "english": "On the journey, Anneli reads a book."
+    },
+    {
+      "finnish": "*Helsingissä* (HELSINKI) hän kävelee ensin 8. *isolla kauppakadulla* (ISO KAUPPAKATU) ja ostaa pari vaatetta.",
+      "english": "In Helsinki, she first walks along the main shopping street and buys a couple of clothes."
+    },
+    {
+      "finnish": "Koska on hyvä ilma, hän menee kahvilan 9. *terasille* (TERASSI) ja juo kahvia ja syö suklaakakkua.",
+      "english": "Because the weather is nice, she goes to the cafe terrace and drinks coffee and eats chocolate cake."
+    },
+    {
+      "finnish": "Iltapäivällä Annelin ystävä Marica tulee 10. *keskutaan* (KESKUSTA) ja he menevät yhdessä 11. *hyvään ravintolaan* (HYVÄ RAVINTOLA).",
+      "english": "In the afternoon, Anneli's friend Marica comes from the city center and they go together to a good restaurant."
+    },
+    {
+      "finnish": "He syövät ja juovat hyvin.",
+      "english": "They eat and drink well."
+    },
+    {
+      "finnish": "Illalla he menevät 12. *oopperaan* (OOPPERA).",
+      "english": "In the evening, they go to the opera."
+    },
+    {
+      "finnish": "Oopperatalo on 13. *Mannerheimintiellä* (MANNERHEIMINTIE).",
+      "english": "The opera house is on Mannerheimintie."
+    },
+    {
+      "finnish": "Kun ooppera loppuu, Anneli lähtee 14. *Opperatalolta* (OOPPERATALO) taksilla Lehtelään.",
+      "english": "When the opera ends, Anneli leaves the opera house by taxi to Lehtelä."
+    },
+    {
+      "finnish": "Hän yöpyy siellä Pedron ja Hannan kotona. Hanna on Annelin lapsenlapsi.",
+      "english": "She stays there at Pedro and Hanna's home. Hanna is Anneli's granddaughter."
+    }
+  ]
+}

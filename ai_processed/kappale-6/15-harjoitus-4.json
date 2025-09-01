@@ -1,0 +1,44 @@
+{
+  "sentences": [
+    {
+      "finnish": "Missä Mäkelät syövät lounasta?",
+      "english": "Where do the Mäkeläs eat lunch?"
+    },
+    {
+      "finnish": "Mäkelät syövät lounasta keittiössä.",
+      "english": "The Mäkeläs eat lunch in the kitchen."
+    },
+    {
+      "finnish": "Mitä mies tekee pihalla?",
+      "english": "What is the man doing in the yard?"
+    },
+    {
+      "finnish": "Hän nostaa monta ruskea laatikkoa autosta.",
+      "english": "He is lifting many brown boxes from the car."
+    },
+    {
+      "finnish": "Miksi Emma ja Kalle menevät ulos?",
+      "english": "Why are Emma and Kalle going outside?"
+    },
+    {
+      "finnish": "Koska he haluavat nähdä, mitä pihalla tapahtuu.",
+      "english": "Because they want to see what is happening in the yard."
+    },
+    {
+      "finnish": "Mitä Pedro kantaa ylös?",
+      "english": "What is Pedro carrying upstairs?"
+    },
+    {
+      "finnish": "Hän kantaa tuolit ylös.",
+      "english": "He is carrying the chairs upstairs."
+    },
+    {
+      "finnish": "Onko Pedron asunnon ovi auki?",
+      "english": "Is Pedro's apartment door open?"
+    },
+    {
+      "finnish": "Ei, asunnon ovi ei ole auki mutta hänen tyttöystävä on kotona.",
+      "english": "No, the apartment door is not open but his girlfriend is at home."
+    }
+  ]
+}

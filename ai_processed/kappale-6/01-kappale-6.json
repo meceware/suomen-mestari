@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    {
+      "finnish": "Pedro ja Hanna etsivät asuntoa, Muutto",
+      "english": "Pedro and Hanna are looking for an apartment, Moving"
+    },
+    {
+      "finnish": "- asuminen",
+      "english": "- living"
+    },
+    {
+      "finnish": "- paikansijat",
+      "english": "- locations"
+    },
+    {
+      "finnish": "- Huoneessa on...",
+      "english": "- There is in the room..."
+    },
+    {
+      "finnish": "- pronominit tämä, tuo, se",
+      "english": "- pronouns this, that, it"
+    },
+    {
+      "finnish": "- käskymuoto: sinä-persoona",
+      "english": "- imperative form: you-person"
+    },
+    {
+      "finnish": "- Puhutaan! Pedro soittaa houltohytiöön",
+      "english": "- Let's talk! Pedro calls the maintenance company"
+    }
+  ]
+}

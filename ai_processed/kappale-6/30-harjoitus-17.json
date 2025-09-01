@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "finnish": "Missä pallo on?",
+      "english": "Where is the ball?"
+    },
+    {
+      "finnish": "Pallo on matolla.",
+      "english": "The ball is on the rug."
+    },
+    {
+      "finnish": "Missä kissa on?",
+      "english": "Where is the cat?"
+    },
+    {
+      "finnish": "Kissa on ikkunan edessä.",
+      "english": "The cat is in front of the window."
+    },
+    {
+      "finnish": "Missä on poika?",
+      "english": "Where is the boy?"
+    },
+    {
+      "finnish": "Poika on ovella ja tulossa huoneeseen.",
+      "english": "The boy is at the door and coming into the room."
+    },
+    {
+      "finnish": "Missä on televisio?",
+      "english": "Where is the television?"
+    },
+    {
+      "finnish": "Televisio on tv-tasolla.",
+      "english": "The television is on the TV stand."
+    },
+    {
+      "finnish": "Missä on isoisä?",
+      "english": "Where is grandfather?"
+    },
+    {
+      "finnish": "Isoisä istuu sohvalla.",
+      "english": "Grandfather is sitting on the sofa."
+    },
+    {
+      "finnish": "Missä on kahvikuppi?",
+      "english": "Where is the coffee cup?"
+    },
+    {
+      "finnish": "Kahvikuppi on pöydällä.",
+      "english": "The coffee cup is on the table."
+    },
+    {
+      "finnish": "Missä on koira?",
+      "english": "Where is the dog?"
+    },
+    {
+      "finnish": "Koira nukkuu nojatuolilla.",
+      "english": "The dog is sleeping in the armchair."
+    },
+    {
+      "finnish": "Missä on vauva?",
+      "english": "Where is the baby?"
+    },
+    {
+      "finnish": "Vauva leikkii matolla.",
+      "english": "The baby is playing on the rug."
+    },
+    {
+      "finnish": "Missä on kenkä?",
+      "english": "Where is the shoe?"
+    },
+    {
+      "finnish": "Kenkä on huoneessa.",
+      "english": "The shoe is in the room."
+    },
+    {
+      "finnish": "Missä on kissa?",
+      "english": "Where is the cat?"
+    },
+    {
+      "finnish": "Kissa on laatikossa.",
+      "english": "The cat is in the box."
+    },
+    {
+      "finnish": "Missä on kamera?",
+      "english": "Where is the camera?"
+    },
+    {
+      "finnish": "Kamera on kirjahyllyssä.",
+      "english": "The camera is on the bookshelf."
+    },
+    {
+      "finnish": "Missä silmälasit ovat?",
+      "english": "Where are the glasses?"
+    },
+    {
+      "finnish": "Silmälasit ovat kirjahyllyllä.",
+      "english": "The glasses are on the bookshelf."
+    },
+    {
+      "finnish": "Missä radio on?",
+      "english": "Where is the radio?"
+    },
+    {
+      "finnish": "Radio on hyllyllä.",
+      "english": "The radio is on the shelf."
+    }
+  ]
+}

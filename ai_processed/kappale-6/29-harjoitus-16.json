@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    {
+      "finnish": "A. Missä puhelin voi olla?",
+      "english": "A. Where can the phone be?"
+    },
+    {
+      "finnish": "kassissa",
+      "english": "in the bag"
+    },
+    {
+      "finnish": "hyllyllä",
+      "english": "on the shelf"
+    },
+    {
+      "finnish": "lattialla",
+      "english": "on the floor"
+    },
+    {
+      "finnish": "pöydällä",
+      "english": "on the table"
+    },
+    {
+      "finnish": "pussissa",
+      "english": "in the bag"
+    },
+    {
+      "finnish": "B. Missä Matias voi olla?",
+      "english": "B. Where can Matias be?"
+    },
+    {
+      "finnish": "uimahallilla",
+      "english": "at the swimming pool"
+    },
+    {
+      "finnish": "kurssilla",
+      "english": "at a course"
+    },
+    {
+      "finnish": "Kuopiossa",
+      "english": "in Kuopio"
+    },
+    {
+      "finnish": "torilla",
+      "english": "at the market square"
+    },
+    {
+      "finnish": "asemalla",
+      "english": "at the station"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    {
+      "finnish": "Minä tykkään lukea. Menen usein kirjastoon.",
+      "english": "I like to read. I often go to the library."
+    },
+    {
+      "finnish": "Minä olen astronautti. Lennän kuuhun.",
+      "english": "I am an astronaut. I fly to the moon."
+    },
+    {
+      "finnish": "James on kotoisin Iso-Britanniasta. Tänään hän matkustaa kotiin Lontooseen.",
+      "english": "James is from Great Britain. Today he is traveling home to London."
+    },
+    {
+      "finnish": "Erik ja Senja rakastavat lunta ja pakkasta. Talvella he matkustavat aina Lappiin.",
+      "english": "Erik and Senja love snow and frost. In winter they always travel to Lapland."
+    },
+    {
+      "finnish": "Haluatko teehen maitoa?",
+      "english": "Do you want milk in your tea?"
+    },
+    {
+      "finnish": "Meillä on jano. Me menemme baariin.",
+      "english": "We are thirsty. We are going to the bar."
+    },
+    {
+      "finnish": "Minun äiti rakastaa taidetta. Hän matkustaa usein Firenzeen, Italiaan.",
+      "english": "My mother loves art. She often travels to Florence, Italy."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "finnish": "Kuvassa 1 roskakorissa on paperi.",
+      "english": "In picture 1 there is paper in the trash can."
+    },
+    {
+      "finnish": "Kuvassa 2 roskakorissa ei ole paperia.",
+      "english": "In picture 2 there is no paper in the trash can."
+    },
+    {
+      "finnish": "Kuvassa 1 banaani ei ole pöydällä mutta kuvassa 2 banaani on pöydällä.",
+      "english": "In picture 1 the banana is not on the table but in picture 2 the banana is on the table."
+    },
+    {
+      "finnish": "Kuvassa 1 yksi kynä on laatikossa mutta kuvassa 2 neljä kynää on laatikossa.",
+      "english": "In picture 1 one pen is in the box but in picture 2 four pens are in the box."
+    },
+    {
+      "finnish": "Kuvassa 1 paljon kirjoja on hyllyllä mutta kuvassa 2 kirjoja ei ole hyllyllä.",
+      "english": "In picture 1 many books are on the shelf but in picture 2 there are no books on the shelf."
+    },
+    {
+      "finnish": "Kuvassa 1 pallo ei ole kaapissa mutta kuvassa 2 pallo on kaapissa.",
+      "english": "In picture 1 the ball is not in the cupboard but in picture 2 the ball is in the cupboard."
+    },
+    {
+      "finnish": "Kuvassa 1 kissa on sängyllä mutta kuvassa 2 kissa ei ole sängyllä.",
+      "english": "In picture 1 the cat is on the bed but in picture 2 the cat is not on the bed."
+    },
+    {
+      "finnish": "Kuvassa 1 herätyskello on yöpöydällä mutta kuvassa 2 herätyskello ei ole yöpöydällä.",
+      "english": "In picture 1 the alarm clock is on the nightstand but in picture 2 the alarm clock is not on the nightstand."
+    },
+    {
+      "finnish": "Kuvassa 1 valokuvat ovat kirjahyllyssä mutta kuvassa 2 valokuvat eivät ole kirjahyllyssä.",
+      "english": "In picture 1 the photographs are on the bookshelf but in picture 2 the photographs are not on the bookshelf."
+    },
+    {
+      "finnish": "Kuvassa 1 taulu on seinällä mutta kuvassa 2 taulu ei ole seinällä.",
+      "english": "In picture 1 the painting is on the wall but in picture 2 the painting is not on the wall."
+    },
+    {
+      "finnish": "Kuvassa 1 ovi on huoneessa mutta kuvassa 2 ovi ei ole huoneessa.",
+      "english": "In picture 1 the door is in the room but in picture 2 the door is not in the room."
+    }
+  ]
+}

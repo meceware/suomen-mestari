@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "finnish": "Pedro soittaa huoltoyhtiöön.",
+      "english": "Pedro calls the maintenance company."
+    },
+    {
+      "finnish": "Huoltomies: Huoltoyhtiö Jokinen.",
+      "english": "Maintenance man: Jokinen Maintenance Company."
+    },
+    {
+      "finnish": "Pedro: Huomenta. Täällä on Pedro Riberio. Mä oon uusi asukas Puistotie 4:ssä.",
+      "english": "Pedro: Good morning. This is Pedro Riberio. I'm a new resident at Puistotie 4."
+    },
+    {
+      "finnish": "Huoltomies: Hei.",
+      "english": "Maintenance man: Hi."
+    },
+    {
+      "finnish": "Pedro: Tota... Mä haluaisin varata saunavuoron.",
+      "english": "Pedro: Um... I would like to book a sauna slot."
+    },
+    {
+      "finnish": "Huoltomies: Selvä. Mikä teiän asunnon numero on?",
+      "english": "Maintenance man: Alright. What is your apartment number?"
+    },
+    {
+      "finnish": "Pedro: C 32.",
+      "english": "Pedro: C 32."
+    },
+    {
+      "finnish": "Huoltomies: Okei, joo, Lahtinen ja Ribeiro?",
+      "english": "Maintenance man: Okay, yes, Lahtinen and Ribeiro?"
+    },
+    {
+      "finnish": "Pedro: Joo.",
+      "english": "Pedro: Yes."
+    },
+    {
+      "finnish": "Huoltomies: Hetkinen... Joo, teiän talon saunassa on vapaata vielä tiistaina kello 17 ja perjantaina kello 21. Kaikki muut vuorot on varattu.",
+      "english": "Maintenance man: Just a moment... Yes, there's still availability in your building's sauna on Tuesday at 5 PM and Friday at 9 PM. All other slots are booked."
+    },
+    {
+      "finnish": "Pedro: Ahaa.... No, mä luulen, että me otetaan perjantai. Onks se tunnin vuoro?",
+      "english": "Pedro: Aha... Well, I think we'll take Friday. Is it a one-hour slot?"
+    },
+    {
+      "finnish": "Huoltomies: Joo, kello 21-22. Se on sit 12 euroa kuussa.",
+      "english": "Maintenance man: Yes, 9 PM to 10 PM. That's 12 euros per month."
+    },
+    {
+      "finnish": "Pedro: Okei. Miten se maksetaan?",
+      "english": "Pedro: Okay. How do we pay for it?"
+    },
+    {
+      "finnish": "Huoltomies: Lasku tulee postissa. Ja vuoro alkaa jo tällä viikolla.",
+      "english": "Maintenance man: The bill will come in the mail. And the slot starts already this week."
+    },
+    {
+      "finnish": "Pedro: Hienoa, kiitos paljon!",
+      "english": "Pedro: Great, thank you very much!"
+    },
+    {
+      "finnish": "Huoltomies: Kiitos ja hei.",
+      "english": "Maintenance man: Thanks and goodbye."
+    }
+  ]
+}

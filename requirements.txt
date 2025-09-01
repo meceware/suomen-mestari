@@ -1,0 +1,26 @@
+# Text-to-Speech Finnish Learning Project Dependencies
+# Using latest versions for flexibility
+
+# TTS Engine - Latest Piper TTS
+piper-tts>=1.2.0
+
+# HTTP requests for Ollama API
+requests>=2.31.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Audio processing and MP3 conversion
+pydub>=0.25.0
+
+# Markdown parsing
+mistune>=3.0.0
+
+# Audio processing support
+numpy>=1.24.0
+
+# Audio file I/O
+soundfile>=0.12.0
+
+# Edge TTS for better Finnish voices
+edge-tts>=7.2.3

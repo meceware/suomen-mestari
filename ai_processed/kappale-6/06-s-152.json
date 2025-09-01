@@ -1,0 +1,232 @@
+{
+  "sentences": [
+    {
+      "finnish": "Kerrostalo",
+      "english": "Apartment building"
+    },
+    {
+      "finnish": "Rivitalo",
+      "english": "Row house"
+    },
+    {
+      "finnish": "Omakotitalo",
+      "english": "Detached house"
+    },
+    {
+      "finnish": "Asunto",
+      "english": "Apartment"
+    },
+    {
+      "finnish": "yksiö, kaksio, kolmio",
+      "english": "studio, one-bedroom, two-bedroom"
+    },
+    {
+      "finnish": "vuokra-asunto",
+      "english": "rental apartment"
+    },
+    {
+      "finnish": "omistusasunto",
+      "english": "owner-occupied apartment"
+    },
+    {
+      "finnish": "opiskelija-asunto",
+      "english": "student apartment"
+    },
+    {
+      "finnish": "asukas",
+      "english": "resident"
+    },
+    {
+      "finnish": "Asua Vuokralla",
+      "english": "To live in a rental"
+    },
+    {
+      "finnish": "vuokrata (4) -> (vuokraan, vuokraat, vuokraa, vuokraamme, vuokraatte, vuokraavat)",
+      "english": "to rent (4) -> (I rent, you rent, he/she/it rents, we rent, you rent, they rent)"
+    },
+    {
+      "finnish": "vuokra",
+      "english": "rent"
+    },
+    {
+      "finnish": "vuokrasopimus",
+      "english": "lease agreement"
+    },
+    {
+      "finnish": "vuokranantaja",
+      "english": "landlord"
+    },
+    {
+      "finnish": "vuokralainen",
+      "english": "tenant"
+    },
+    {
+      "finnish": "takuuvuokra",
+      "english": "security deposit"
+    },
+    {
+      "finnish": "Asuntoilmoitus",
+      "english": "Apartment listing"
+    },
+    {
+      "finnish": "2h = 2 huonetta",
+      "english": "2h = 2 rooms"
+    },
+    {
+      "finnish": "oh = olohuone",
+      "english": "oh = living room"
+    },
+    {
+      "finnish": "mh = makuuhuone",
+      "english": "mh = bedroom"
+    },
+    {
+      "finnish": "k = keittiö",
+      "english": "k = kitchen"
+    },
+    {
+      "finnish": "kk = keittokomero",
+      "english": "kk = kitchenette"
+    },
+    {
+      "finnish": "p = parveke",
+      "english": "p = balcony"
+    },
+    {
+      "finnish": "kph = kylpyhuone",
+      "english": "kph = bathroom"
+    },
+    {
+      "finnish": "s = sauna",
+      "english": "s = sauna"
+    },
+    {
+      "finnish": "vh = vaatehuone",
+      "english": "vh = walk-in closet"
+    },
+    {
+      "finnish": "et = eteinen",
+      "english": "et = hallway/entry"
+    },
+    {
+      "finnish": "m2 = neliömetri",
+      "english": "m2 = square meter"
+    },
+    {
+      "finnish": "kk = kuukausi",
+      "english": "kk = month"
+    },
+    {
+      "finnish": "näyttö",
+      "english": "viewing"
+    },
+    {
+      "finnish": "Talossa",
+      "english": "In the building"
+    },
+    {
+      "finnish": "kerros",
+      "english": "floor"
+    },
+    {
+      "finnish": "ensimmäinen kerros",
+      "english": "first floor"
+    },
+    {
+      "finnish": "toinen kerros",
+      "english": "second floor"
+    },
+    {
+      "finnish": "alakerta",
+      "english": "ground floor"
+    },
+    {
+      "finnish": "yläkerta",
+      "english": "upper floor"
+    },
+    {
+      "finnish": "rappukäytävä (rappu)",
+      "english": "stairwell (staircase)"
+    },
+    {
+      "finnish": "hissi",
+      "english": "elevator"
+    },
+    {
+      "finnish": "autotalli",
+      "english": "garage"
+    },
+    {
+      "finnish": "parkkipaikka",
+      "english": "parking space"
+    },
+    {
+      "finnish": "kellarikomero",
+      "english": "basement storage"
+    },
+    {
+      "finnish": "vinttikomero",
+      "english": "attic storage"
+    },
+    {
+      "finnish": "ulkoiluvälinevarasto",
+      "english": "outdoor equipment storage"
+    },
+    {
+      "finnish": "pyörävarasto",
+      "english": "bicycle storage"
+    },
+    {
+      "finnish": "pesutupa",
+      "english": "laundry room"
+    },
+    {
+      "finnish": "Mihin?",
+      "english": "Where to?"
+    },
+    {
+      "finnish": "kotiin",
+      "english": "to home"
+    },
+    {
+      "finnish": "ulos",
+      "english": "outside"
+    },
+    {
+      "finnish": "sisään",
+      "english": "inside"
+    },
+    {
+      "finnish": "Missä?",
+      "english": "Where?"
+    },
+    {
+      "finnish": "kotona",
+      "english": "at home"
+    },
+    {
+      "finnish": "ulkona",
+      "english": "outside"
+    },
+    {
+      "finnish": "sisällä",
+      "english": "inside"
+    },
+    {
+      "finnish": "Mistä?",
+      "english": "From where?"
+    },
+    {
+      "finnish": "kotoa",
+      "english": "from home"
+    },
+    {
+      "finnish": "ulkoa",
+      "english": "from outside"
+    },
+    {
+      "finnish": "sisältä",
+      "english": "from inside"
+    }
+  ]
+}

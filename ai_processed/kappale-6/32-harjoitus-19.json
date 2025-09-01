@@ -1,0 +1,60 @@
+{
+  "sentences": [
+    {
+      "finnish": "Minun kotini on rivitalo Tampereella, kaksi kerrosta ja se on neliö.",
+      "english": "My home is a row house in Tampere, two floors and it is square."
+    },
+    {
+      "finnish": "Kodissa on keittiö, olohuone, makuuhuone ja kaksi lastenhuonetta.",
+      "english": "The home has a kitchen, living room, bedroom and two children's rooms."
+    },
+    {
+      "finnish": "Kodissa ei ole hissiä.",
+      "english": "There is no elevator in the home."
+    },
+    {
+      "finnish": "Olohuoneessa on televisio tv-tasolla, sohva, kirjakaappi ja nojatuoli.",
+      "english": "The living room has a television on a TV stand, a sofa, a bookcase and an armchair."
+    },
+    {
+      "finnish": "Keittiö on melko pieni.",
+      "english": "The kitchen is quite small."
+    },
+    {
+      "finnish": "Siellä on ruokapöytä, astianpesukone, jääkaappi, hella ja uuni.",
+      "english": "There is a dining table, dishwasher, refrigerator, stove, and oven."
+    },
+    {
+      "finnish": "Siellä on myös kahvinkeitin ja vedenkeitin.",
+      "english": "There is also a coffee maker and a kettle."
+    },
+    {
+      "finnish": "Makuuhuone ja lastenhuoneet ovat yläkerrassa.",
+      "english": "The bedroom and children's rooms are upstairs."
+    },
+    {
+      "finnish": "Makuuhuoneessa on sänky ja kaappi.",
+      "english": "The bedroom has a bed and a wardrobe."
+    },
+    {
+      "finnish": "Siellä on myös lamppu yöpöydällä.",
+      "english": "There is also a lamp on the nightstand."
+    },
+    {
+      "finnish": "Kylpyhuone on yläkerrassa myös ja pesukone on kylpyhuoneessa.",
+      "english": "The bathroom is also upstairs and the washing machine is in the bathroom."
+    },
+    {
+      "finnish": "Siellä on myös peili, pesuallas ja suihku.",
+      "english": "There is also a mirror, sink and shower."
+    },
+    {
+      "finnish": "Lastenhuone on melko pieni mutta siellä on lasten sänky, kirjahylly ja työpöytä koska lapset menevät kouluun.",
+      "english": "The children's room is quite small but there is a children's bed, bookshelf and desk because the children go to school."
+    },
+    {
+      "finnish": "Lattialla on matto.",
+      "english": "There is a rug on the floor."
+    }
+  ]
+}

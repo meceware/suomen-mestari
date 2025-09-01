@@ -1,0 +1,44 @@
+{
+  "sentences": [
+    {
+      "finnish": "Toni: Moi Mika!",
+      "english": "Toni: Hi Mika!"
+    },
+    {
+      "finnish": "Mika: Ai moi! Mitä kuuluu?",
+      "english": "Mika: Oh hi! How are you?"
+    },
+    {
+      "finnish": "Toni: Hyvää, kiitos. Menen tänään laivalla Tukholmaan.",
+      "english": "Toni: Good, thanks. I'm going by ship to Stockholm today."
+    },
+    {
+      "finnish": "Mika: Menetkö työmatkalle?",
+      "english": "Mika: Are you going on a business trip?"
+    },
+    {
+      "finnish": "Toni: En. Tämä on lomamatka. Käyn Tukholmassa joka vuosi. Se on hieno kaupunki!",
+      "english": "Toni: No. This is a vacation trip. I visit Stockholm every year. It's a great city!"
+    },
+    {
+      "finnish": "Käyn aina Vasa-museossa ja vanhassakaupungissa.",
+      "english": "I always visit the Vasa Museum and the old town."
+    },
+    {
+      "finnish": "Mika: Minä käyn aina lauantaina Erikan ja Sofian kanssa kirjastossa. ",
+      "english": "Mika: I always go to the library with Erika and Sofia on Saturdays.  "
+    },
+    {
+      "finnish": "Tytöt lukevat satukirjaa ja minä lehteä.",
+      "english": "The girls read fairy tales and I read a magazine."
+    },
+    {
+      "finnish": "Illalla menen Juuson kanssa terassille.",
+      "english": "In the evening, I'm going to a terrace with Juuso."
+    },
+    {
+      "finnish": "Juuso on minun työkaveri. Käymme varmasti myös baarissa Uudenmaankadulla.",
+      "english": "Juuso is my colleague. We're definitely also going to a bar on Uudenmaankatu."
+    }
+  ]
+}

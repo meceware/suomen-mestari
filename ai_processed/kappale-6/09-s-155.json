@@ -1,0 +1,124 @@
+{
+  "sentences": [
+    {
+      "finnish": "Sisäpaikansijat",
+      "english": "Internal Locative Cases"
+    },
+    {
+      "finnish": "Illatiivi (-Vn, -hVn, -seen)",
+      "english": "Illative, movement into (-Vn, -hVn, -seen): "
+    },
+    {
+      "finnish": "Mihin?",
+      "english": "To where?"
+    },
+    {
+      "finnish": "Mies menee taloon.",
+      "english": "The man goes into the house."
+    },
+    {
+      "finnish": "Muutan Suomeen",
+      "english": "I'm moving to Finland"
+    },
+    {
+      "finnish": "Inessiivi (-ssa/-ssä)",
+      "english": "Inessive, location inside (-ssa/-ssä)"
+    },
+    {
+      "finnish": "Missä?",
+      "english": "Where?"
+    },
+    {
+      "finnish": "Mies on talossa.",
+      "english": "The man is in the house."
+    },
+    {
+      "finnish": "Asun Suomessa",
+      "english": "I live in Finland"
+    },
+    {
+      "finnish": "Elatiivi (-sta/-stä)",
+      "english": "Elative (-sta/-stä): movement from inside"
+    },
+    {
+      "finnish": "Mistä?",
+      "english": "From where?"
+    },
+    {
+      "finnish": "Mies tulee talosta.",
+      "english": "The man comes from the house."
+    },
+    {
+      "finnish": "Puhun Suomesta",
+      "english": "I'm talking about Finland"
+    },
+    {
+      "finnish": "Ulkopaikansijat",
+      "english": "External Locative Cases"
+    },
+    {
+      "finnish": "Allatiivi (-lle)",
+      "english": "Allative (-lle): movement onto/to"
+    },
+    {
+      "finnish": "Mihin?",
+      "english": "To where?"
+    },
+    {
+      "finnish": "Mies menee terassille.",
+      "english": "The man goes to the terrace."
+    },
+    {
+      "finnish": "Laitan kirjan pöydälle",
+      "english": "I put the book on the table"
+    },
+    {
+      "finnish": "Menen torille",
+      "english": "I'm going to the market"
+    },
+    {
+      "finnish": "Adessiivi (-lla/-llä)",
+      "english": "Adessive (-lla/-llä): location on/at"
+    },
+    {
+      "finnish": "Missä?",
+      "english": "Where?"
+    },
+    {
+      "finnish": "Mies on terassilla.",
+      "english": "The man is on the terrace."
+    },
+    {
+      "finnish": "Kirja on pöydällä",
+      "english": "The book is on the table"
+    },
+    {
+      "finnish": "Asun maaseudulla",
+      "english": "I live in the countryside"
+    },
+    {
+      "finnish": "Ablatiivi (-lta/-ltä)",
+      "english": "Ablative (-lta/-ltä): movement from on/at"
+    },
+    {
+      "finnish": "Mistä?",
+      "english": "From where?"
+    },
+    {
+      "finnish": "Otan kirjan pöydältä",
+      "english": "I take the book from the table"
+    },
+    {
+      "finnish": "Tulen torilta",
+      "english": "I'm coming from the market"
+    },
+    {
+      "finnish": "HUOM! adjektiivi + substantiivi",
+      "english": "NOTE! adjective + noun"
+    },
+    {
+      "finnish": "Minä asun vihreässä talossa.",
+      "english": "I live in the green house."
+    }
+  ]
+}
