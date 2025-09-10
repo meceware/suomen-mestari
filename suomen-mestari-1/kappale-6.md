@@ -11,7 +11,7 @@
 ## s. 147
 
 > Pedro ja Hanna etsivät asuntoa
->
+
 > Asuntoilmoitus
 >
 > VUOKRALLE ANNETAAN
@@ -32,27 +32,16 @@
 
 
 > Pedro: Hanna, katso, tämä näyttää hyvältä!
->
 > Hanna: Onko se kaksio?
->
 > Pedro: Joo, on. 45 neliötä.
->
 > Hanna: Missä päin se on?
->
 > Pedro: Öö, odota, minä katson... Tämä on Lehtelässä, Puistotiellä. Eikö se ole ihan kiva alue?
->
 > Hanna: Joo on! Lehtelässä menee juna keskustaan. Paljonko sen vuokra on?
->
 > Pedro: 870 euroa plus vesimaksut.
->
 > Hanna: Ohhoh, hirveän kallis!
->
 > Pedro: Niin on, mutta mennäänkö silti katsomaan?
->
 > Hanna: Mennään vaan. Milloin siellä on näyttö?
->
 > Pedro: En minä tiedä. Tässä on vain sähköpostiosoite.
->
 > Hanna: Okei, no täytyy sitten kirjoitta ja kysyä.
 
 ## s. 148
