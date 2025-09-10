@@ -1,0 +1,136 @@
+metadata:
+  title: "Harjoitukset 15, 16, ja 17"
+  description: "Harjoitukset 15, 16, ja 17"
+
+translations:
+  # Harjoitus 15-A
+  - finnish: "Tyttö istuu bussissa."
+    turkish: "Kız otobüste oturuyor."
+
+  - finnish: "Pizza on uunissa."
+    turkish: "Pizza fırında."
+
+  - finnish: "Vaatteet ovat vaatekaapissa."
+    turkish: "Kıyafetler gardıropta."
+
+  - finnish: "Radio on hyllyllä."
+    turkish: "Radyo rafta."
+
+  - finnish: "Silmälasit ovat yöpöydällä."
+    turkish: "Gözlük komodinin üstünde."
+
+  - finnish: "Ville ja Liisa kävelevät kadulla."
+    turkish: "Ville ve Liisa sokakta yürüyorlar."
+
+  # Harjoitus 15-B
+  - finnish: "Maito on jääkaapissa."
+    turkish: "Süt buzdolabında."
+
+  - finnish: "Isä on jääkaapilla."
+    turkish: "Baba buzdolabının önünde."
+
+  - finnish: "Naula on seinässä."
+    turkish: "Çivi duvarda."
+
+  - finnish: "Taulu on seinällä."
+    turkish: "Tablo duvarın üstünde."
+
+  - finnish: "Mikko ui uimahallissa."
+    turkish: "Mikko yüzme havuzunda yüzüyor."
+
+  - finnish: "Äiti odottaa Mikkoa uimahallilla."
+    turkish: "Anne Mikko'yu yüzme havuzunun önünde bekliyor."
+
+  # Harjoitus 16-A
+  - finnish: "Missä puhelin voi olla?"
+    turkish: "Telefon nerede olabilir?"
+  - finnish: "kassissa"
+    turkish: "çantada"
+  - finnish: "hyllyllä"
+    turkish: "rafta"
+  - finnish: "lattialla"
+    turkish: "yerde"
+  - finnish: "pöydällä"
+    turkish: "masada"
+  - finnish: "pussissa"
+    turkish: "poşette"
+
+  # Harjoitus 16-B
+  - finnish: "Missä Matias voi olla?"
+    turkish: "Matias nerede olabilir?"
+  - finnish: "uimahallilla"
+    turkish: "yüzme havuzunda"
+  - finnish: "kurssilla"
+    turkish: "kursta"
+  - finnish: "Kuopiossa"
+    turkish: "Kuopio'da"
+  - finnish: "torilla"
+    turkish: "pazarda"
+  - finnish: "asemalla"
+    turkish: "istasyonda"
+
+  # Harjoitus 17
+  - finnish: "Missä pallo on?"
+    turkish: "Top nerede?"
+  - finnish: "Pallo on matolla."
+    turkish: "Top halının üstünde."
+
+  - finnish: "Missä kissa on?"
+    turkish: "Kedi nerede?"
+  - finnish: "Kissa on ikkunan edessä."
+    turkish: "Kedi pencerenin önünde."
+
+  - finnish: "Missä on poika?"
+    turkish: "Çocuk nerede?"
+  - finnish: "Poika on ovella ja tulossa huoneeseen."
+    turkish: "Çocuk kapıda ve odaya giriyor."
+
+  - finnish: "Missä on televisio?"
+    turkish: "Televizyon nerede?"
+  - finnish: "Televisio on tv-tasolla."
+    turkish: "Televizyon TV ünitesinde."
+
+  - finnish: "Missä on isoisä?"
+    turkish: "Büyükbaba nerede?"
+  - finnish: "Isoisä istuu sohvalla."
+    turkish: "Büyükbaba kanepede oturuyor."
+
+  - finnish: "Missä on kahvikuppi?"
+    turkish: "Kahve fincanı nerede?"
+  - finnish: "Kahvikuppi on pöydällä."
+    turkish: "Kahve fincanı masada."
+
+  - finnish: "Missä on koira?"
+    turkish: "Köpek nerede?"
+  - finnish: "Koira nukkuu nojatuolilla."
+    turkish: "Köpek koltukta uyuyor."
+
+  - finnish: "Missä on vauva?"
+    turkish: "Bebek nerede?"
+  - finnish: "Vauva leikkii matolla."
+    turkish: "Bebek halıda oynuyor."
+
+  - finnish: "Missä on kenkä?"
+    turkish: "Ayakkabı nerede?"
+  - finnish: "Kenkä on huoneessa."
+    turkish: "Ayakkabı odada."
+
+  - finnish: "Missä on kissa?"
+    turkish: "Kedi nerede?"
+  - finnish: "Kissa on laatikossa."
+    turkish: "Kedi kutuda."
+
+  - finnish: "Missä on kamera?"
+    turkish: "Kamera nerede?"
+  - finnish: "Kamera on kirjahyllyssä."
+    turkish: "Kamera kitaplıkta."
+
+  - finnish: "Missä silmälasit ovat?"
+    turkish: "Gözlük nerede?"
+  - finnish: "Silmälasit ovat kirjahyllyllä."
+    turkish: "Gözlük kitaplığın üstünde."
+
+  - finnish: "Missä radio on?"
+    turkish: "Radyo nerede?"
+  - finnish: "Radio on hyllyllä."
+    turkish: "Radyo rafta."

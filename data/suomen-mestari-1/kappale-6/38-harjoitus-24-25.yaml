@@ -1,0 +1,113 @@
+metadata:
+  title: "Harjoitukset 24 ja 25"
+  description: "Harjoitukset 24 ja 25"
+
+translations:
+  # Harjoitus 24
+  - finnish: "Missä Pedro, Hanna ja Mäkelät asuvat?"
+    turkish: "Pedro, Hanna ve Mäkelä ailesi nerede oturuyor?"
+  - finnish: "He asuvat Puistokadulla."
+    turkish: "Onlar Puistokatu'da oturuyorlar."
+
+  - finnish: "Mihin Hanna menee aamulla?"
+    turkish: "Hanna sabah nereye gidiyor?"
+  - finnish: "Hän menee suihkuun."
+    turkish: "O duşa giriyor."
+
+  - finnish: "Mihin Hanna menee, kun hän lähtee junalla keskustaan?"
+    turkish: "Hanna merkeze trenle giderken nereye gidiyor?"
+  - finnish: "Hän kävelee Lehtelän asemalle."
+    turkish: "O Lehtelä istasyonuna yürüyor."
+
+  - finnish: "Mistä Pedro tulee illalla?"
+    turkish: "Pedro akşam nereden geliyor?"
+  - finnish: "Hän tulee kurssilta."
+    turkish: "O kurstan geliyor."
+
+  - finnish: "Missä Mäkelän perhe syö aamupalaa?"
+    turkish: "Mäkelä ailesi kahvaltıyı nerede yapıyor?"
+  - finnish: "He syövät aamupalaa keittiössä."
+    turkish: "Onlar kahvaltıyı mutfakta yapıyorlar."
+
+  - finnish: "Mihin Kalle menee aamulla?"
+    turkish: "Kalle sabah nereye gidiyor?"
+  - finnish: "Hän menee kouluun."
+    turkish: "O okula gidiyor."
+
+  - finnish: "Mistä Kalle tulee pyörällä?"
+    turkish: "Kalle bisikletle nereden geliyor?"
+  - finnish: "Hän tulee koulusta."
+    turkish: "O okuldan geliyor."
+
+  - finnish: "Mihin isä kävelee ensin, kun hän lähtee töihin bussilla?"
+    turkish: "Baba otobüsle işe giderken önce nereye yürüyor?"
+  - finnish: "Hän kävelee bussipysäkille."
+    turkish: "O otobüs durağına yürüyor."
+
+  - finnish: "Missä Emman ja Kallen isä on töissä?"
+    turkish: "Emma ve Kalle'nin babası nerede çalışıyor?"
+  - finnish: "Hän on töissä ravintolassa."
+    turkish: "O restoranda çalışıyor."
+
+  - finnish: "Mistä Emma ja äiti tulevat?"
+    turkish: "Emma ve anne nereden geliyorlar?"
+  - finnish: "He tulevat kaupasta."
+    turkish: "Onlar marketten geliyorlar."
+
+  - finnish: "Missä kauppa on?"
+    turkish: "Market nerede?"
+  - finnish: "Se on Merikadulla."
+    turkish: "O Merikatu'da."
+
+  - finnish: "Mistä Kalle tulee jalkapallon kanssa?"
+    turkish: "Kalle futbol topuyla nereden geliyor?"
+  - finnish: "Hän tulee pihalta."
+    turkish: "O bahçeden geliyor."
+
+  - finnish: "Missä perhe istuu illalla?"
+    turkish: "Aile akşam nerede oturuyor?"
+  - finnish: "He istuvat sohvalla."
+    turkish: "Onlar kanepede oturuyorlar."
+
+  # Harjoitus 25
+  - finnish: "Missä sinä olet? - Olen kahvilassa."
+    turkish: "Neredesin? - Kafedeyim."
+
+  - finnish: "Missä sinä olet? - Olen kadulla."
+    turkish: "Neredesin? - Sokaktayım."
+
+  - finnish: "Mihin sinä menet? - Menen kouluun."
+    turkish: "Nereye gidiyorsun? - Okula gidiyorum."
+
+  - finnish: "Mistä sinä tulet? - Tulen isolta torilta."
+    turkish: "Nereden geliyorsun? - Büyük pazardan geliyorum."
+
+  - finnish: "Mihin sinä menet? - Menen rannalle."
+    turkish: "Nereye gidiyorsun? - Sahile gidiyorum."
+
+  - finnish: "Mistä sinä tulet? - Tulen apteekista."
+    turkish: "Nereden geliyorsun? - Eczaneden geliyorum."
+
+  - finnish: "Mistä sinä tulet? - Tulen kurssilta."
+    turkish: "Nereden geliyorsun? - Kurstan geliyorum."
+
+  - finnish: "Missä sinä olet? - Olen isossa ravintolassa."
+    turkish: "Neredesin? - Büyük restorandayım."
+
+  - finnish: "Missä sinä olet? - Olen pitkällä matkalla."
+    turkish: "Neredesin? - Uzun bir yolculuktayım."
+
+  - finnish: "Mihin sinä menet? - Menen kivalle kurssille."
+    turkish: "Nereye gidiyorsun? - Güzel bir kursa gidiyorum."
+
+  - finnish: "Mihin sinä menet? - Menen mukavaan ravintolaan."
+    turkish: "Nereye gidiyorsun? - Hoş bir restorana gidiyorum."
+
+  - finnish: "Mistä sinä tulet? - Tulen kylmästä maasta."
+    turkish: "Nereden geliyorsun? - Soğuk bir ülkeden geliyorum."
+
+  - finnish: "Mistä sinä tulet? - Tulen kuumasta saunasta."
+    turkish: "Nereden geliyorsun? - Sıcak saunadan geliyorum."
+
+  - finnish: "Mihin sinä menet? - Menen teatteriin."
+    turkish: "Nereye gidiyorsun? - Tiyatroya gidiyorum."

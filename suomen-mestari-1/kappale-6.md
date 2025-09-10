@@ -1,70 +1,91 @@
 # Kappale 6
 
-```
-Pedro ja Hanna etsivät asuntoa, Muutto
-- asuminen
-- paikansijat
-- Huoneessa on...
-- pronominit tämä, tuo, se
-- käskymuoto: sinä-persoona
-- Puhutaan! Pedro soittaa houltohytiöön
-```
+> Pedro ja Hanna etsivät asuntoa, Muutto
+> - asuminen
+> - paikansijat
+> - Huoneessa on...
+> - pronominit tämä, tuo, se
+> - käskymuoto: sinä-persoona
+> - Puhutaan! Pedro soittaa houltohytiöön
 
 ## s. 147
 
-```
-Pedro ja Hanna etsivät asuntoa
+> Pedro ja Hanna etsivät asuntoa
+>
+> Asuntoilmoitus
+>
+> VUOKRALLE ANNETAAN
+>
+> 45 m2
+>
+> vuokra 870 €/kk + vesimaksu 14 €/hl6/kk
+>
+> 2h+k+p
+>
+> Puistotie 20, Helsinki
+>
+> Hyväkuntoinen valoisa kaksio kerrostalossa Lehtelässä. Rauhallinen sijainti Puistotiellä viihtyisällä alueella. 3. kerros, ei hissiä. Asunnossa on pieni parveke. Isossa keittiössä on tilaa ruokapöydälle. Sauna ja pesutupa ovat kellarissa. Parkkipaikat etupihalla.
+>
+> Vapaa 1.9. Vuokratakuu 2 kk vuokra. Yhteydenotot sähköpostitse.
+>
+> Vuokranantaja Heikki Jussila, hpjussila@netbox.fi
 
-Asuntoilmoitus
 
-VUOKRALLE ANNETAAN
-45 m2
-vuokra 870 €/kk + vesimaksu 14 €/hl6/kk
-2h+k+p
-Puistotie 20, Helsinki
-
-Hyväkuntoinen valoisa kaksio kerrostalossa Lehtelässä. Rauhallinen sijainti Puistotiellä viihtyisällä alueella. 3. kerros, ei hissiä. Asunnossa on pieni parveke. Isossa keittiössä on tilaa ruokapöydälle. Sauna ja pesutupa ovat kellarissa. Parkkipaikat etupihalla.
-Vapaa 1.9. Vuokratakuu 2 kk vuokra. Yhteydenotot sähköpostitse.
-
-Vuokranantaja Heikki Jussila, hpjussila@netbox.fi
-```
-
-```
-Pedro: Hanna, katso, tämä näyttää hyvältä!
-Hanna: Onko se kaksio?
-Pedro: Joo, on. 45 neliötä.
-Hanna: Missä päin se on?
-Pedro: Öö, odota, minä katson... Tämä on Lehtelässä, Puistotiellä. Eikö se ole ihan kiva alue?
-Hanna: Joo on! Lehtelässä menee juna keskustaan. Paljonko sen vuokra on?
-Pedro: 870 euroa plus vesimaksut.
-Hanna: Ohhoh, hirveän kallis!
-Pedro: Niin on, mutta mennäänkö silti katsomaan?
-Hanna: Mennään vaan. Milloin siellä on näyttö?
-Pedro: En minä tiedä. Tässä on vain sähköpostiosoite.
-Hanna: Okei, no täytyy sitten kirjoitta ja kysyä.
-```
+> Pedro: Hanna, katso, tämä näyttää hyvältä!
+>
+> Hanna: Onko se kaksio?
+>
+> Pedro: Joo, on. 45 neliötä.
+>
+> Hanna: Missä päin se on?
+>
+> Pedro: Öö, odota, minä katson... Tämä on Lehtelässä, Puistotiellä. Eikö se ole ihan kiva alue?
+>
+> Hanna: Joo on! Lehtelässä menee juna keskustaan. Paljonko sen vuokra on?
+>
+> Pedro: 870 euroa plus vesimaksut.
+>
+> Hanna: Ohhoh, hirveän kallis!
+>
+> Pedro: Niin on, mutta mennäänkö silti katsomaan?
+>
+> Hanna: Mennään vaan. Milloin siellä on näyttö?
+>
+> Pedro: En minä tiedä. Tässä on vain sähköpostiosoite.
+>
+> Hanna: Okei, no täytyy sitten kirjoitta ja kysyä.
 
 ## s. 148
 
-```
-Muutto
+> Muutto
+>
+> On iltapäivä. Mäkelät istuvat keittiössä ja syövät lounasta. Kalle katsoo ulos ikkunasta. Pihalle ajaa iso pakettiauto. Mies nostaa autosta monta ruskeaa laatikkoa kadulle.
+>
+> Nainen kantaa laatikot kadulta sisään taloon. Emma ja Kalle menevät ulos. He haluavat nähdä, mita pihalla tapahtuu.
 
-On iltapäivä. Mäkelät istuvat keittiössä ja syövät lounasta. Kalle katsoo ulos ikkunasta. Pihalle ajaa iso pakettiauto. Mies nostaa autosta monta ruskeaa laatikkoa kadulle.
-Nainen kantaa laatikot kadulta sisään taloon. Emma ja Kalle menevät ulos. He haluavat nähdä, mita pihalla tapahtuu.
-
-Kalle: Hei, kuka sinä olet?
-Pedro: Hei, minä olen Pedro. Muutan tänään asuntoon numero 5.
-Kalle: Minä olen Kalle ja tässä on Emma. Me asumme numerossa 6. Sinä olet meidän uusi naapuri.
-Pedro: Hauska tavata!
-Emma: Tarvitsetko apua?
-Pedro: Joo, kiitos.
-Emma: Mitä minä voin tehdä?
-Pedro: Vie vaikka tämä lamppu pöydälle olohuoneeseen.
-Kalle: Entä minä?
-Pedro: No, ota tuo pieni laatikko ja vie se keittiöön. Minä kannan nämä tuolit. Käyn ensin kellarissa ja tulen sitten.
-Emma: Okei. Me menemme jo ylös. Onko ovi auki?
-Pedro: Ei, mutta minun tyttöystävä Hanna on kotona.
-```
+> Kalle: Hei, kuka sinä olet?
+>
+> Pedro: Hei, minä olen Pedro. Muutan tänään asuntoon numero 5.
+>
+> Kalle: Minä olen Kalle ja tässä on Emma. Me asumme numerossa 6. Sinä olet meidän uusi naapuri.
+>
+> Pedro: Hauska tavata!
+>
+> Emma: Tarvitsetko apua?
+>
+> Pedro: Joo, kiitos.
+>
+> Emma: Mitä minä voin tehdä?
+>
+> Pedro: Vie vaikka tämä lamppu pöydälle olohuoneeseen.
+>
+> Kalle: Entä minä?
+>
+> Pedro: No, ota tuo pieni laatikko ja vie se keittiöön. Minä kannan nämä tuolit. Käyn ensin kellarissa ja tulen sitten.
+>
+> Emma: Okei. Me menemme jo ylös. Onko ovi auki?
+>
+> Pedro: Ei, mutta minun tyttöystävä Hanna on kotona.
 
 ## s. 150
 
@@ -970,16 +991,21 @@ Mistä?
 ## Harjoitus 24
 
 ```
-Kylässä
-- kaupunki ja matkailu
-- kulkuvälineet
-- sanatyypit e, nen, i+tyypit
-- k-p-t-vaihtelun kertaus (nominit)
-- pronominit
-  - tämä, tuo, se
-  - täällä, tuolla, siellä
-- On hasukaa ...
-- Puhutaan: Hotellissa
+1. Missä Pedro, Hanna ja Makelät asuvat?
+He asuvat Puistokadulla.
+
+2. Mihin Hanna menee aamulla?
+Hän menee suihkuun.
+
+3. Mihin Hanna menee, kun hän lähtee junalla keskustaan?
+Hän kävelee Lehtelän asemalle.
+
+4. Mistä Pedro tulee illalla?
+Hän tulee kurssilta.
+
+5. Missä Makelän perhe syö aamupalaa?
+He syövät aamupalaa keittiössä.
+
 6. Mihin Kalle menee aamulla?
 Hän menee kouluun.
 
@@ -1255,8 +1281,7 @@ Mika: Ai moi! Mitä kuuluu?
 Toni: Hyvää, kiitos. Menen tänään laivalla 1. *Tukholmaan* (TUKHOLMA).
 Mika: Menetkö 2. *työmatkalle* (TYÖMATKA)?
 Toni: En. Tämä on lomamatka. Käyn 3. *Tukholmassa* (TUKHOLMA) joka vuosi. Se on hieno kaupunki! Käyn aina 4. *Vasa-museossa* (VASA-MUSEO) ja vanhassakaupungissa. Mitä sinä teet viikonloppuna?
-Mika: Minä käyn aina lauantaina Erikan ja Sofian kanssa 5. *kirjastossa* (KIRJASTO). Tytöt lukevat satukirjaa ja minä lehteä. Illalla menen Juuson kanssa 6. *terassille* (TERASSI). Juuso on minun työkaveri. Käymme varmasti myös
-7. *baarissa* (BAARI) Uudenmaankadulla.
+Mika: Minä käyn aina lauantaina Erikan ja Sofian kanssa 5. *kirjastossa* (KIRJASTO). Tytöt lukevat satukirjaa ja minä lehteä. Illalla menen Juuson kanssa 6. *terassille* (TERASSI). Juuso on minun työkaveri. Käymme varmasti myös 7. *baarissa* (BAARI) Uudenmaankadulla.
 ```
 
 ## Harjoitus 34
@@ -1268,8 +1293,7 @@ Kahdeksalta lähden kotoa 6. *keskustaan* (KESKUSTA) töihin. Istun 7. *kuumassa
 
 Töissä puhun puhelimessa ja käytän tietokonetta. Päivällä käyn 10. *torilla* (TORI) ja syön vähän. Sitten menen taas töihin 11. *toimistoon* (TOIMISTO). Työpäivä loppuu viideltä ja ajan bussilla 12. *kotiin* (KOTI).
 
-Olen 13. *kotona* (KOTI) puoli kuudelta. Teen ruokaa, syön ja katson uutiset. Sitten menen englannin 14. *kurssille* (KURSSI). Kun kurssi loppuu, käyn vielä nopeasti 15. *apteekkissa* (APTEEKKI) ja kaupassa. Sitten menen
-kotiin.
+Olen 13. *kotona* (KOTI) puoli kuudelta. Teen ruokaa, syön ja katson uutiset. Sitten menen englannin 14. *kurssille* (KURSSI). Kun kurssi loppuu, käyn vielä nopeasti 15. *apteekkissa* (APTEEKKI) ja kaupassa. Sitten menen kotiin.
 ```
 
 ## Harjoitus 35
@@ -1340,7 +1364,6 @@ Taunon kanssa 3. kerroksessa asuu vanha aviopari: Maija ja Lasse Vuorela. He ova
 Onneksi talossa on vapaa asunto 1. kerroksessa. Asunnossa on myös terassi. Vuorelat muuttavat vapaaseen asuntoon syyskuussa. Sitten Maija ja Lasse voivat istua terassilla ja lukea lehteä, syödä ja katsella pihalle.
 
 Talossa asuu myös Karl Bengtsson. Hän asuu yksin, mutta hänellä on tosi iso asunto ja parveke. Bengtssonilla on talossa myös toinen asunto. Se on pieni vuokra-asunto. Asunnossa asuu nuori opiskelija Siiri Muttilainen.
-
 
 A1 - Petteri Saranen
 A2 - Kioski

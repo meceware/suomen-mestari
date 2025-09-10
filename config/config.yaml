@@ -1,0 +1,75 @@
+# Main Configuration File for Text-to-Speech System
+
+general:
+  default_engine: "edge-tts"
+  fallback_order: ["edge-tts", "coqui", "piper", "gtts"]
+
+audio:
+  timing:
+    between_languages: 1.5  # seconds between translations
+    between_items: 0.5      # seconds between translation pairs
+  quality:
+    bitrate: "192k"
+    sample_rate: 44100
+    channels: 1  # mono is sufficient for speech
+
+engines:
+  edge-tts:
+    enabled: true
+    # Default voice mappings for different languages
+    voices:
+      fi: "fi-FI-HarriNeural"
+      tr: "tr-TR-AhmetNeural"
+      en: "en-US-AriaNeural"
+      de: "de-DE-KatjaNeural"
+      fr: "fr-FR-DeniseNeural"
+      es: "es-ES-ElviraNeural"
+    rate: "-10%"  # Slower for learning
+    volume: "+0%"
+    pitch: "+0Hz"
+
+  gtts:
+    enabled: true
+    # Language codes for gTTS
+    languages:
+      fi: "fi"
+      tr: "tr"
+      en: "en"
+      de: "de"
+      fr: "fr"
+      es: "es"
+    slow: false  # Set to true for slower speech
+
+  piper:
+    enabled: true
+    # Model mappings for different languages
+    models:
+      fi: "fi_FI-harri-medium"
+      tr: "tr_TR-fahrettin-medium"
+      en: "en_US-amy-high"
+      de: "de_DE-thorsten-high"
+      fr: "fr_FR-upmc-medium"
+      es: "es_ES-davefx-medium"
+    length_scale: 1.0  # Speed control (higher is slower)
+    model_path: "./.piper"
+
+  coqui:
+    enabled: true
+    # Model mappings for different languages
+    models:
+      fi: "tts_models/fi/css10/vits"
+      tr: "tts_models/tr/common-voice/glow-tts"
+      en: "tts_models/en/ljspeech/tacotron2-DDC"
+      de: "tts_models/de/thorsten/tacotron2-DDC"
+      fr: "tts_models/fr/mai/tacotron2-DDC"
+      es: "tts_models/es/mai/tacotron2-DDC"
+    use_gpu: false
+
+output:
+  directory: "./output"
+
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "logs/tts.log"
+  console: true
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

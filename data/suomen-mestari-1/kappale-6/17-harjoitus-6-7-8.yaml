@@ -1,0 +1,94 @@
+metadata:
+  title: "Harjoitukset 6, 7, ja 8"
+  description: "Harjoitukset 6, 7, ja 8"
+
+translations:
+  # Harjoitus 6
+  - finnish: "Tässä talossa on kahdeksan kerrosta. Me menemme hissillä ylös."
+    turkish: "Bu binada sekiz kat var. Biz asansörle yukarı çıkıyoruz."
+
+  - finnish: "Tämä kauppa on auki maanantaista perjantaihin kello 9-20."
+    turkish: "Bu mağaza pazartesiden cumaya 9-20 arası açık."
+
+  - finnish: "Tule sisään! Ovi on auki!"
+    turkish: "İçeri gel! Kapı açık!"
+
+  - finnish: "Meidän sauna on kellarissa. Kun menen saunaan, menen alas."
+    turkish: "Bizim sauna bodrum katta. Saunaya gittiğimde aşağı iniyorum."
+
+  - finnish: "Kun sataa ja tulee, meidän ikkunat ovat kiinni."
+    turkish: "Yağmur yağdığında ve rüzgar estiğinde, bizim pencerelerimiz kapalı."
+
+  - finnish: "Kun on lämmin ilma, haluan mennä ulos ja istua auringossa."
+    turkish: "Hava sıcak olduğunda, dışarı çıkıp güneşte oturmak istiyorum."
+
+  # Harjoitus 7
+  - finnish: "Minä haluan syödä jotain hyvää."
+    turkish: "Ben güzel bir şeyler yemek istiyorum."
+
+  - finnish: "Niin minäkin. Ostetaanko jäätelöä?"
+    turkish: "Ben de öyle. Dondurma alalım mı?"
+
+  - finnish: "Hmm, minä en halua jäätelöä. Haluan pullaa."
+    turkish: "Hmm, ben dondurma istemiyorum. Çörek istiyorum."
+
+  - finnish: "No, mennään sitten kahvilaan. Siellä sinä saat pullaa ja minä jäätelöä."
+    turkish: "O zaman kafeye gidelim. Orada sen çörek, ben dondurma yerim."
+
+  - finnish: "Joo, mennään vaan."
+    turkish: "Evet, hadi gidelim."
+
+  - finnish: "Hei Elina, tiedätkö sinä, missä päin Katja asuu?"
+    turkish: "Merhaba Elina, Katja'nın nerede oturduğunu biliyor musun?"
+
+  - finnish: "En tiedä, mutta luulen että hän asuu Lehtelässä."
+    turkish: "Bilmiyorum ama Lehtelä'da oturduğunu düşünüyorum."
+
+  - finnish: "Ahaa! Lehtelään on ihan lyhyt matka, vain 1,5 kilometriä."
+    turkish: "Ah! Lehtelä'ya çok kısa bir mesafe var, sadece 1,5 kilometre."
+
+  - finnish: "Niin on. Voimme kävellä."
+    turkish: "Öyle. Yürüyebiliriz."
+
+  - finnish: "Kävellä? Mutta nyt sataa..."
+    turkish: "Yürümek mi? Ama şimdi yağmur yağıyor..."
+
+  - finnish: "Ei se mitään! Kävellään silti."
+    turkish: "Önemli değil! Yine de yürüyelim."
+
+  # Harjoitus 8
+  - finnish: "tuoli"
+    turkish: "sandalye"
+
+  - finnish: "matto"
+    turkish: "halı"
+
+  - finnish: "kirjahylly"
+    turkish: "kitaplık"
+
+  - finnish: "nojatuoli"
+    turkish: "koltuk"
+
+  - finnish: "ruokapöytä"
+    turkish: "yemek masası"
+
+  - finnish: "jääkaappi"
+    turkish: "buzdolabı"
+
+  - finnish: "pesukone"
+    turkish: "çamaşır makinesi"
+
+  - finnish: "televisio"
+    turkish: "televizyon"
+
+  - finnish: "tietokone"
+    turkish: "bilgisayar"
+
+  - finnish: "verhot"
+    turkish: "perdeler"
+
+  - finnish: "kahvinkeitin"
+    turkish: "kahve makinesi"
+
+  - finnish: "kylpyamme"
+    turkish: "küvet"

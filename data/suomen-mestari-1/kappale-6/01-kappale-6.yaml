@@ -1,0 +1,31 @@
+metadata:
+  title: "Kappale 6"
+  description: "A chapter about housing, location cases, and basic conversations in Finnish"
+
+translations:
+  - finnish: "Pedro ja Hanna etsivät asuntoa"
+    turkish: "Pedro ve Hanna ev arıyorlar"
+
+  - finnish: "Muutto"
+    turkish: "Taşınma"
+
+  - finnish: "asuminen"
+    turkish: "yaşama, ikamet etme"
+
+  - finnish: "paikansijat"
+    turkish: "yer durumları"
+
+  - finnish: "Huoneessa on..."
+    turkish: "Odada var..."
+
+  - finnish: "pronominit tämä, tuo, se"
+    turkish: "zamirler bu, şu, o"
+
+  - finnish: "käskymuoto: sinä-persoona"
+    turkish: "emir kipi: sen-şahıs"
+
+  - finnish: "Puhutaan!"
+    turkish: "Konuşalım!"
+
+  - finnish: "Pedro soittaa houltohytiöön"
+    turkish: "Pedro bakım şirketini arıyor"

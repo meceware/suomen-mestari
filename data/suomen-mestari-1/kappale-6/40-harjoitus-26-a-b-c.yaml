@@ -1,0 +1,99 @@
+metadata:
+  title: "Harjoitukset 26 A-B-C"
+  description: "Harjoitukset 26 A-B-C"
+
+translations:
+  # Harjoitus 26-A
+  - finnish: "Rouva Anneli Wigren on eläkkeellä. Hän asuu Turussa."
+    turkish: "Bayan Anneli Wigren emekli. O Turku'da yaşıyor."
+
+  - finnish: "Koska hänellä on paljon aikaa, hän matkustaa paljon."
+    turkish: "Çok zamanı olduğu için, çok seyahat ediyor."
+
+  - finnish: "Kesällä hän on yleensä lomalla Italiassa ja talvella Lapissa."
+    turkish: "Yazın genellikle İtalya'da tatilde ve kışın Laponya'da."
+
+  - finnish: "Tänä viikonloppuna hän matkustaa Turusta Helsinkiin junalla."
+    turkish: "Bu hafta sonu Turku'dan Helsinki'ye trenle seyahat ediyor."
+
+  - finnish: "Matka kestää 2 tuntia. Matkalla Anneli lukee kirjaa."
+    turkish: "Yolculuk 2 saat sürüyor. Yolculukta Anneli kitap okuyor."
+
+  - finnish: "Helsingissä hän kävelee ensin isolla kauppakadulla ja ostaa pari vaatetta."
+    turkish: "Helsinki'de önce büyük alışveriş caddesinde yürüyor ve birkaç kıyafet alıyor."
+
+  - finnish: "Koska on hyvä ilma, hän menee kahvilan terassille ja juo kahvia ja syö suklaakakkua."
+    turkish: "Hava güzel olduğu için, kafenin terasına gidiyor ve kahve içip çikolatalı pasta yiyor."
+
+  - finnish: "Iltapäivällä Annelin ystävä Marica tulee keskustaan ja he menevät yhdessä hyvään ravintolaan."
+    turkish: "Öğleden sonra Anneli'nin arkadaşı Marica merkeze geliyor ve birlikte güzel bir restorana gidiyorlar."
+
+  - finnish: "He syövät ja juovat hyvin. Illalla he menevät oopperaan."
+    turkish: "İyi yiyip içiyorlar. Akşam operaya gidiyorlar."
+
+  - finnish: "Oopperatalo on Mannerheimintiellä."
+    turkish: "Opera binası Mannerheimintie'de."
+
+  - finnish: "Kun ooppera loppuu, Anneli lähtee Oopperatalolta taksilla Lehtelään."
+    turkish: "Opera bittiğinde, Anneli Opera binasından taksiyle Lehtelä'ya gidiyor."
+
+  - finnish: "Hän yöpyy siellä Pedron ja Hannan kotona. Hanna on Annelin lapsenlapsi."
+    turkish: "O orada Pedro ve Hanna'nın evinde kalıyor. Hanna Anneli'nin torunu."
+
+  # Harjoitus 26-B
+  - finnish: "Anneli nukkuu Hannan ja Pedron olohuoneessa pehmeällä sohvalla."
+    turkish: "Anneli Hanna ve Pedro'nun oturma odasında yumuşak kanepede uyuyor."
+
+  - finnish: "Aamulla Anneli, Hanna ja Pedro syövät aamupalaa keittiössä."
+    turkish: "Sabah Anneli, Hanna ve Pedro mutfakta kahvaltı yapıyorlar."
+
+  - finnish: "Sitten Hanna lähtee töihin."
+    turkish: "Sonra Hanna işe gidiyor."
+
+  - finnish: "Anneli ja Pedro menevät pihalle, koska on hyvä ilma."
+    turkish: "Anneli ve Pedro bahçeye çıkıyorlar, çünkü hava güzel."
+
+  - finnish: "He istuvat penkillä ja puhuvat."
+    turkish: "Bankta oturup konuşuyorlar."
+
+  - finnish: "Pedro tekee kotitehtäviä, koska hän on suomen kurssilla."
+    turkish: "Pedro ev ödevlerini yapıyor, çünkü Fince kursunda."
+
+  - finnish: "Anneli auttaa häntä."
+    turkish: "Anneli ona yardım ediyor."
+
+  # Harjoitus 26-C - Monivalintakysymykset
+  - finnish: "Missä Anneli Wigren on lomalla kesällä?"
+    turkish: "Anneli Wigren yazın nerede tatil yapıyor?"
+  - finnish: "Italiassa"
+    turkish: "İtalya'da"
+
+  - finnish: "Mihin Anneli matkustaa tänä viikonloppuna?"
+    turkish: "Anneli bu hafta sonu nereye seyahat ediyor?"
+  - finnish: "Helsinkiin"
+    turkish: "Helsinki'ye"
+
+  - finnish: "Mitä Anneli tekee isolla kauppakadulla Helsingissä?"
+    turkish: "Anneli Helsinki'de büyük alışveriş caddesinde ne yapıyor?"
+  - finnish: "Hän ostaa pari vaatetta."
+    turkish: "Birkaç kıyafet alıyor."
+
+  - finnish: "Kuka Marica on?"
+    turkish: "Marica kim?"
+  - finnish: "Annelin ystävä"
+    turkish: "Anneli'nin arkadaşı"
+
+  - finnish: "Missä Anneli yöpyy?"
+    turkish: "Anneli nerede kalıyor?"
+  - finnish: "Sohvalla olohuoneessa."
+    turkish: "Oturma odasında kanepede."
+
+  - finnish: "Miksi Anneli auttaa Pedroa?"
+    turkish: "Anneli neden Pedro'ya yardım ediyor?"
+  - finnish: "Koska Pedro tekee suomen kurssin kotitehtäviä."
+    turkish: "Çünkü Pedro Fince kursunun ev ödevlerini yapıyor."
+
+  - finnish: "Mihin Anneli ja Hanna menevät sunnuntaina?"
+    turkish: "Anneli ve Hanna pazar günü nereye gidiyorlar?"
+  - finnish: "museoon"
+    turkish: "müzeye"

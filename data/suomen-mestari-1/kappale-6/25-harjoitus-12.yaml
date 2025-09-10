@@ -1,0 +1,93 @@
+metadata:
+  title: "Harjoitus 12"
+  description: "Harjoitus 12"
+
+translations:
+  # Esimerkkilauseet
+  - finnish: "Millainen nalle on?"
+    turkish: "Oyuncak ayı nasıl?"
+  - finnish: "Se on pieni, pehmeä, söpö ja vaaleanpunainen. Se on ihana!"
+    turkish: "O küçük, yumuşak, sevimli ve pembe. Harika!"
+
+  - finnish: "Millainen timantti on?"
+    turkish: "Elmas nasıl?"
+  - finnish: "Se on valoisa, iso, kova, kallis ja valkoinen. Se on ihana!"
+    turkish: "O parlak, büyük, sert, pahalı ve beyaz. Harika!"
+
+  - finnish: "Millainen kynä on?"
+    turkish: "Kalem nasıl?"
+  - finnish: "Se on lyhyt, vanha, huonokuntoinen, rikkinäinen ja punainen."
+    turkish: "O kısa, eski, kötü durumda, kırık ve kırmızı."
+
+  - finnish: "Millainen vuori on?"
+    turkish: "Dağ nasıl?"
+  - finnish: "Se on korkea, kylmä, suuri, ruskea ja valkoinen. Se on ihana!"
+    turkish: "O yüksek, soğuk, büyük, kahverengi ve beyaz. Harika!"
+
+  - finnish: "Millainen mäyräkoira on?"
+    turkish: "Dakhund nasıl?"
+  - finnish: "Se on puhdas, leveä mutta lyhyt, ruskea ja kaunis."
+    turkish: "O temiz, geniş ama kısa, kahverengi ve güzel."
+
+  - finnish: "Millainen aurinko on?"
+    turkish: "Güneş nasıl?"
+  - finnish: "Se on pyöreä, valoisa, kuuma, kaunis, erittäin iso ja keltainen."
+    turkish: "O yuvarlak, parlak, sıcak, güzel, çok büyük ve sarı."
+
+  - finnish: "Millainen tunneli on?"
+    turkish: "Tünel nasıl?"
+  - finnish: "Se on pimeä, pitkä ja hyväkuntoinen."
+    turkish: "O karanlık, uzun ve iyi durumda."
+
+  - finnish: "Millainen sänky on?"
+    turkish: "Yatak nasıl?"
+  - finnish: "Se on pehmeä, uusi, kallis, leveä, iso ja sininen."
+    turkish: "O yumuşak, yeni, pahalı, geniş, büyük ve mavi."
+
+  - finnish: "Millainen juna on?"
+    turkish: "Tren nasıl?"
+  - finnish: "Se on tumman vihreä ja pitkä."
+    turkish: "O koyu yeşil ve uzun."
+
+  # Vastakohtaparit
+  - finnish: "hyvä ↔ huono"
+    turkish: "iyi ↔ kötü"
+
+  - finnish: "pehmeä ↔ kova"
+    turkish: "yumuşak ↔ sert"
+
+  - finnish: "valoisa ↔ pimeä"
+    turkish: "aydınlık ↔ karanlık"
+
+  - finnish: "pitkä ↔ lyhyt"
+    turkish: "uzun ↔ kısa"
+
+  - finnish: "kylmä ↔ kuuma"
+    turkish: "soğuk ↔ sıcak"
+
+  - finnish: "uusi ↔ vanha"
+    turkish: "yeni ↔ eski"
+
+  - finnish: "rauhallinen ↔ rauhaton"
+    turkish: "sakin ↔ huzursuz"
+
+  - finnish: "kaunis ↔ ruma"
+    turkish: "güzel ↔ çirkin"
+
+  - finnish: "kallis ↔ halpa"
+    turkish: "pahalı ↔ ucuz"
+
+  - finnish: "korkea ↔ matala"
+    turkish: "yüksek ↔ alçak"
+
+  - finnish: "leveä ↔ kapea"
+    turkish: "geniş ↔ dar"
+
+  - finnish: "suuri/iso ↔ pieni"
+    turkish: "büyük ↔ küçük"
+
+  - finnish: "likainen ↔ puhdas"
+    turkish: "kirli ↔ temiz"
+
+  - finnish: "hyväkuntoinen ↔ huonokuntoinen"
+    turkish: "iyi durumda ↔ kötü durumda"

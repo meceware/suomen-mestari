@@ -1,0 +1,71 @@
+metadata:
+  title: "Harjoitus 27"
+  description: "Harjoitus 27"
+
+translations:
+  - finnish: "Mistä sinä tulet nyt?"
+    turkish: "Şimdi nereden geliyorsun?"
+
+  - finnish: "Tulen Brysselistä, Belgiasta."
+    turkish: "Brüksel'den, Belçika'dan geliyorum."
+
+  - finnish: "Aha! Minä tulen Roomasta."
+    turkish: "Ah! Ben Roma'dan geliyorum."
+
+  - finnish: "Ai! Roomasta, voi! Rooma on niin kaunis vanha kaupunki."
+    turkish: "Ah! Roma'dan, vay! Roma çok güzel eski bir şehir."
+
+  - finnish: "Joo, onhan se! Mutta täällä Frankfurtissa ei ole nyt ollenkaan kaunista kun sataa ja on sumuista."
+    turkish: "Evet, öyle! Ama burada Frankfurt'ta şimdi hiç güzel değil, yağmur yağıyor ve sisli."
+
+  - finnish: "Tulitko sinä tänne lomalle?"
+    turkish: "Buraya tatile mi geldin?"
+
+  - finnish: "En, minä jatkan matkaa illalla, entä sinä?"
+    turkish: "Hayır, akşam yoluma devam edeceğim, ya sen?"
+
+  - finnish: "Minä olen Frankfurtissa työmatkalla. Olen täällä yhdessä konferenssissä."
+    turkish: "Ben Frankfurt'ta iş seyahatindeyim. Burada bir konferanstayım."
+
+  - finnish: "Mutta sinä matkustat eteenpäin. Mihin sinä lennät illalla?"
+    turkish: "Ama sen ilerliyorsun. Akşam nereye uçuyorsun?"
+
+  - finnish: "Lennän ensin Helsinkiin ja siellä olemme pari tuntia. Sitten lentokone jatkaa Tokioon Japaniin."
+    turkish: "Önce Helsinki'ye uçuyorum ve orada birkaç saat kalacağız. Sonra uçak Tokyo'ya, Japonya'ya devam edecek."
+
+  - finnish: "Oi! Sinulla on sitten kaksi pitkää lentoa."
+    turkish: "Ah! O zaman iki uzun uçuşun var."
+
+  - finnish: "Niin on! Mutta entä sinä kun konferenssi loppuu, matkustatko takaisin Italiaan?"
+    turkish: "Evet öyle! Peki ya sen konferans bittiğinde, İtalya'ya geri mi dönüyorsun?"
+
+  - finnish: "Ei, en palaa vielä Roomaan, vaan jatkan täältä perjantaina Pariisiin. Se on onneksi tosi lyhyt lento. Vain puoli tuntia."
+    turkish: "Hayır, henüz Roma'ya dönmüyorum, cuma günü buradan Paris'e devam edeceğim. Neyse ki çok kısa bir uçuş. Sadece yarım saat."
+
+  - finnish: "Joo, niin on!"
+    turkish: "Evet, öyle!"
+
+  - finnish: "Mistä mies tulee?"
+    turkish: "Adam nereden geliyor?"
+  - finnish: "Mies tulee Roomasta."
+    turkish: "Adam Roma'dan geliyor."
+
+  - finnish: "Mistä nainen tulee?"
+    turkish: "Kadın nereden geliyor?"
+  - finnish: "Nainen tulee Brysselistä, Belgiasta."
+    turkish: "Kadın Brüksel'den, Belçika'dan geliyor."
+
+  - finnish: "Missä he ovat?"
+    turkish: "Onlar neredeler?"
+  - finnish: "He ovat nyt Frankfurtissa."
+    turkish: "Onlar şimdi Frankfurt'talar."
+
+  - finnish: "Mihin mies lentää?"
+    turkish: "Adam nereye uçuyor?"
+  - finnish: "Mies lentää Pariisiin."
+    turkish: "Adam Paris'e uçuyor."
+
+  - finnish: "Mihin nainen lentää?"
+    turkish: "Kadın nereye uçuyor?"
+  - finnish: "Nainen lentää ensin Helsinkiin ja sitten Tokioon Japaniin."
+    turkish: "Kadın önce Helsinki'ye sonra Tokyo'ya, Japonya'ya uçuyor."

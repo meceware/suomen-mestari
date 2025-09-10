@@ -1,0 +1,49 @@
+metadata:
+  title: "Harjoitus 11"
+  description: "Harjoitus 11"
+
+translations:
+  - finnish: "Mäkelän perhe asuu Puistotiellä, Helsingissä."
+    turkish: "Mäkelä ailesi Helsinki'de Puistotie'de oturuyor."
+
+  - finnish: "Heidän koti on korkeassa harmaassa kerrostalossa."
+    turkish: "Onların evi yüksek gri bir apartmanda."
+
+  - finnish: "Valoisassa asunnossa on kolme huonetta, keittiö ja parveke."
+    turkish: "Aydınlık dairede üç oda, mutfak ve balkon var."
+
+  - finnish: "Asunnossa ei ole saunaa."
+    turkish: "Dairede sauna yok."
+
+  - finnish: "Isossa lastenhuoneessa on kaksi sänkyä, vaatekaappi ja suuri vaaleanpunainen lelulaatikko."
+    turkish: "Büyük çocuk odasında iki yatak, gardırop ve büyük pembe bir oyuncak kutusu var."
+
+  - finnish: "Emman lelut ovat laatikossa."
+    turkish: "Emma'nın oyuncakları kutuda."
+
+  - finnish: "Huoneessa on myös kirjoituspöytä ja työtuoli, koska Kalle on jo koulussa."
+    turkish: "Odada ayrıca yazı masası ve çalışma sandalyesi var, çünkü Kalle artık okulda."
+
+  - finnish: "Lattialla on pehmeä matto."
+    turkish: "Yerde yumuşak bir halı var."
+
+  - finnish: "Emma istuu usein matolla ja lukee kirjaa."
+    turkish: "Emma sık sık halıda oturup kitap okuyor."
+
+  - finnish: "Isän ja äidin makuuhuoneessa on vain leveä sänky ja kaksi matalaa yöpöytää, koska huone on aika pieni."
+    turkish: "Anne ve babanın yatak odasında sadece geniş bir yatak ve iki alçak komodin var, çünkü oda oldukça küçük."
+
+  - finnish: "Seinällä on Emman ja Kallen valokuvat."
+    turkish: "Duvarda Emma ve Kalle'nin fotoğrafları var."
+
+  - finnish: "Olohuone on valoisa ja viihtyisä."
+    turkish: "Oturma odası aydınlık ve rahat."
+
+  - finnish: "Siellä on ruskea sohva, kaksi vanhaa nojatuolia ja sohvapöytä."
+    turkish: "Orada kahverengi bir kanepe, iki eski koltuk ve bir sehpa var."
+
+  - finnish: "Televisio on isossa kirjahyllyssä."
+    turkish: "Televizyon büyük kitaplıkta."
+
+  - finnish: "Mäkelät istuvat usein illalla sohvalla ja katsovat televisiota."
+    turkish: "Mäkelä ailesi akşamları sık sık kanepede oturup televizyon izliyor."

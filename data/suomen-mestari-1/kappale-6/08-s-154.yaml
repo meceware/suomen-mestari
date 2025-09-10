@@ -1,0 +1,64 @@
+metadata:
+  title: "s. 154"
+  description: "s. 154"
+
+translations:
+  - finnish: "Paikansijojen käyttö"
+    turkish: "Yer durumlarının kullanımı"
+
+  - finnish: "sisällä"
+    turkish: "içinde"
+
+  - finnish: "Mies on autossa."
+    turkish: "Adam arabanın içinde."
+
+  - finnish: "He istuvat saunassa."
+    turkish: "Onlar saunanın içinde oturuyorlar."
+
+  - finnish: "päällä"
+    turkish: "üstünde"
+
+  - finnish: "Auto on tiellä."
+    turkish: "Araba yolun üstünde."
+
+  - finnish: "lähellä"
+    turkish: "yakınında"
+
+  - finnish: "He istuvat saunalla."
+    turkish: "Onlar saunanın yakınında oturuyorlar."
+
+  - finnish: "jotkin kaupungit"
+    turkish: "bazı şehirler"
+
+  - finnish: "Vantaalla"
+    turkish: "Vantaa'da"
+
+  - finnish: "Tampereella"
+    turkish: "Tampere'de"
+
+  - finnish: "Rovaniemellä"
+    turkish: "Rovaniemi'de"
+
+  - finnish: "Imatralla"
+    turkish: "Imatra'da"
+
+  - finnish: "jotkin sanat"
+    turkish: "bazı kelimeler"
+
+  - finnish: "asemalla"
+    turkish: "istasyonda"
+
+  - finnish: "kurssilla"
+    turkish: "kursta"
+
+  - finnish: "lomalla"
+    turkish: "tatilde"
+
+  - finnish: "matkalla"
+    turkish: "yolculukta"
+
+  - finnish: "tauolla"
+    turkish: "molada"
+
+  - finnish: "ulkomailla"
+    turkish: "yurt dışında"

@@ -1,0 +1,64 @@
+metadata:
+  title: "Harjoitus 10"
+  description: "Harjoitus 10"
+
+translations:
+  - finnish: "Minä olen Tiina ja asun vanhassa keltaisessa kerrostalossa Helsingin keskustassa."
+    turkish: "Ben Tiina'yım ve Helsinki'nin merkezinde eski sarı bir apartmanda oturuyorum."
+
+  - finnish: "Minun asunto on pieni kaksio."
+    turkish: "Benim dairem küçük bir iki oda bir salon."
+
+  - finnish: "Minä en asu yksin vaan Kaapo koiran kanssa."
+    turkish: "Ben yalnız değil, Kaapo adlı köpekle yaşıyorum."
+
+  - finnish: "Kaapolla ei ole omaa huonetta vaan se nukkuu olohuoneessa matolla."
+    turkish: "Kaapo'nun kendi odası yok, o oturma odasında halıda uyuyor."
+
+  - finnish: "Koska asunnossa ei ole parveketta, minä ja Kaapo menemme usein puistoon."
+    turkish: "Dairede balkon olmadığı için, ben ve Kaapo sık sık parka gidiyoruz."
+
+  - finnish: "Makuuhuone on aika iso mutta keittiö on pieni."
+    turkish: "Yatak odası oldukça büyük ama mutfak küçük."
+
+  - finnish: "Asunnossa ei ole työhuonetta mutta minä en tarvitse sitä."
+    turkish: "Dairede çalışma odası yok ama bana gerekli değil."
+
+  - finnish: "Olen töissä aina pitkään ja teen kaikki työt toimistossa."
+    turkish: "Her zaman uzun süre çalışıyorum ve tüm işleri ofiste yapıyorum."
+
+  - finnish: "Joskus kirjoitan kotona sähköpostia ystäville ja siksi tietokone on keittiössä pienellä työpöydällä."
+    turkish: "Bazen evde arkadaşlarıma e-posta yazıyorum ve bu yüzden bilgisayar mutfakta küçük bir çalışma masasında."
+
+  - finnish: "Olohuoneessa on vain pieni punainen sohva ja kaksi pehmeää nojatuolia."
+    turkish: "Oturma odasında sadece küçük kırmızı bir kanepe ve iki yumuşak koltuk var."
+
+  - finnish: "Niin, ja tietysti myös sohvapöytä."
+    turkish: "Evet, ve tabii ki bir de sehpa."
+
+  - finnish: "Ruokapöytä on keittiössä ja kirjahylly makuuhuoneessa."
+    turkish: "Yemek masası mutfakta ve kitaplık yatak odasında."
+
+  - finnish: "Kylpyhuoneessa ei ole kylpyammetta, siellä on vain suihku."
+    turkish: "Banyoda küvet yok, sadece duş var."
+
+  - finnish: "Pesukonetta minulla ei ole."
+    turkish: "Çamaşır makinem yok."
+
+  - finnish: "1. Tiina asuu vanhassa kerrostalossa. → Oikein"
+    turkish: "1. Tiina eski bir apartmanda oturuyor. → Doğru"
+
+  - finnish: "2. Kaapo nukkuu makuuhuoneessa. → Väärin"
+    turkish: "2. Kaapo yatak odasında uyuyor. → Yanlış"
+
+  - finnish: "3. Asunnossa on pieni parveke. → Väärin"
+    turkish: "3. Dairede küçük bir balkon var. → Yanlış"
+
+  - finnish: "4. Tietokone on keittiössä. → Oikein"
+    turkish: "4. Bilgisayar mutfakta. → Doğru"
+
+  - finnish: "5. Olohuoneessa on vain sohva ja sohvapöytä. → Väärin"
+    turkish: "5. Oturma odasında sadece kanepe ve sehpa var. → Yanlış"
+
+  - finnish: "6. Kylpyhuoneessa on suihku ja pesukone. → Väärin"
+    turkish: "6. Banyoda duş ve çamaşır makinesi var. → Yanlış"

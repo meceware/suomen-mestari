@@ -1,0 +1,73 @@
+metadata:
+  title: "Harjoitukset 3, 4, ja 5"
+  description: "Harjoitukset 3, 4, ja 5"
+
+translations:
+  # Harjoitus 3
+  - finnish: "vuokralle annetaan"
+    turkish: "kiralık"
+
+  - finnish: "rauhallinen sijainti"
+    turkish: "sakin konum"
+
+  - finnish: "parkkipaikat etupihalla"
+    turkish: "ön bahçede park yerleri"
+
+  - finnish: "yhteydenotot sähköpostitse"
+    turkish: "iletişim e-posta ile"
+
+  - finnish: "näyttää hyvältä"
+    turkish: "iyi görünüyor"
+
+  - finnish: "hirveän kallis"
+    turkish: "çok pahalı"
+
+  - finnish: "mennään katsomaan"
+    turkish: "bakmaya gidelim"
+
+  # Harjoitus 4
+  - finnish: "Missä Mäkelät syövät lounasta?"
+    turkish: "Mäkelä ailesi öğle yemeğini nerede yiyor?"
+
+  - finnish: "Mäkelät syövät lounasta keittiössä."
+    turkish: "Mäkelä ailesi öğle yemeğini mutfakta yiyor."
+
+  - finnish: "Mitä mies tekee pihalla?"
+    turkish: "Adam bahçede ne yapıyor?"
+
+  - finnish: "Hän nostaa monta ruskeaa laatikkoa autosta."
+    turkish: "Araçtan birçok kahverengi kutu indiriyor."
+
+  - finnish: "Miksi Emma ja Kalle menevät ulos?"
+    turkish: "Emma ve Kalle neden dışarı çıkıyor?"
+
+  - finnish: "Koska he haluavat nähdä, mitä pihalla tapahtuu."
+    turkish: "Çünkü bahçede neler olduğunu görmek istiyorlar."
+
+  - finnish: "Mitä Pedro kantaa ylös?"
+    turkish: "Pedro yukarı ne taşıyor?"
+
+  - finnish: "Hän kantaa tuolit ylös."
+    turkish: "Sandalyeleri yukarı taşıyor."
+
+  - finnish: "Onko Pedron asunnon ovi auki?"
+    turkish: "Pedro'nun dairesinin kapısı açık mı?"
+
+  - finnish: "Ei, asunnon ovi ei ole auki mutta hänen tyttöystävä on kotona."
+    turkish: "Hayır, dairenin kapısı açık değil ama kız arkadaşı evde."
+
+  # Harjoitus 5
+  - finnish: "Pedro ja Hanna muuttavat uuteen asuntoon Puistotielle."
+    turkish: "Pedro ve Hanna Puistotie'deki yeni daireye taşınıyorlar."
+
+  - finnish: "Asunnossa on 45 neliötä ja melko kallis vuokra."
+    turkish: "Daire 45 metrekare ve kirası oldukça pahalı."
+
+  - finnish: "Mäkelän perhe asuu heidän naapurissa."
+    turkish: "Mäkelä ailesi onların komşusunda oturuyor."
+
+  - finnish: "Lapset auttavat Pedroa."
+    turkish: "Çocuklar Pedro'ya yardım ediyor."
+
+  - finnish: "Pedro kantaa tuolit kellariin."
+    turkish: "Pedro sandalyeleri bodruma taşıyor."

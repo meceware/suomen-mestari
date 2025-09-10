@@ -1,0 +1,76 @@
+metadata:
+  title: "s. 155"
+  description: "s. 155"
+
+translations:
+  - finnish: "Sisäpaikansijat"
+    turkish: "İç Yer Durumları"
+
+  - finnish: "Illatiivi: movement into"
+    turkish: "İllatiivi: içine doğru hareket"
+
+  - finnish: "Mies menee taloon."
+    turkish: "Adam evin içine giriyor."
+
+  - finnish: "Muutan Suomeen."
+    turkish: "Finlandiya'ya taşınıyorum."
+
+  - finnish: "Inessiivi: location inside"
+    turkish: "İnessiivi: içinde bulunma"
+
+  - finnish: "Mies on talossa."
+    turkish: "Adam evin içinde."
+
+  - finnish: "Asun Suomessa."
+    turkish: "Finlandiya'da yaşıyorum."
+
+  - finnish: "Elatiivi: movement from inside"
+    turkish: "Elatiivi: içinden dışarı hareket"
+
+  - finnish: "Mies tulee talosta."
+    turkish: "Adam evden çıkıyor."
+
+  - finnish: "Puhun Suomesta."
+    turkish: "Finlandiya hakkında konuşuyorum."
+
+  - finnish: "Ulkopaikansijat"
+    turkish: "Dış Yer Durumları"
+
+  - finnish: "Allatiivi: movement onto/to"
+    turkish: "Allatiivi: üzerine/yanına doğru hareket"
+
+  - finnish: "Mies menee terassille."
+    turkish: "Adam terasa gidiyor."
+
+  - finnish: "Laitan kirjan pöydälle."
+    turkish: "Kitabı masanın üzerine koyuyorum."
+
+  - finnish: "Menen torille."
+    turkish: "Pazara gidiyorum."
+
+  - finnish: "Adessiivi: location on/at"
+    turkish: "Adessiivi: üzerinde/yanında bulunma"
+
+  - finnish: "Mies on terassilla."
+    turkish: "Adam terasta."
+
+  - finnish: "Kirja on pöydällä."
+    turkish: "Kitap masanın üzerinde."
+
+  - finnish: "Asun maaseudulla."
+    turkish: "Kırsalda yaşıyorum."
+
+  - finnish: "Ablatiivi: movement from on/at"
+    turkish: "Ablatiivi: üzerinden/yanından hareket"
+
+  - finnish: "Otan kirjan pöydältä."
+    turkish: "Kitabı masanın üzerinden alıyorum."
+
+  - finnish: "Tulen torilta."
+    turkish: "Pazardan geliyorum."
+
+  - finnish: "adjektiivi + substantiivi"
+    turkish: "sıfat + isim"
+
+  - finnish: "Minä asun vihreässä talossa."
+    turkish: "Ben yeşil evde oturuyorum."

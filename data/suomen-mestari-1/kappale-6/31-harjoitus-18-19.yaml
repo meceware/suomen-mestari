@@ -1,0 +1,78 @@
+metadata:
+  title: "Harjoitukset 18 ja 19"
+  description: "Harjoitukset 18 ja 19"
+
+translations:
+  # Harjoitus 18 - Kuvien vertailu
+  - finnish: "Kuvassa 1 roskakorissa on paperi. Kuvassa 2 roskakorissa ei ole paperia."
+    turkish: "Resim 1'de çöp kutusunda kağıt var. Resim 2'de çöp kutusunda kağıt yok."
+
+  - finnish: "Kuvassa 1 banaani ei ole pöydällä mutta kuvassa 2 banaani on pöydällä."
+    turkish: "Resim 1'de masada muz yok ama Resim 2'de masada muz var."
+
+  - finnish: "Kuvassa 1 yksi kynä on laatikossa mutta kuvassa 2 neljä kynää on laatikossa."
+    turkish: "Resim 1'de kutuda bir kalem var ama Resim 2'de kutuda dört kalem var."
+
+  - finnish: "Kuvassa 1 paljon kirjoja on hyllyllä mutta kuvassa 2 kirjoja ei ole hyllyllä."
+    turkish: "Resim 1'de rafta çok kitap var ama Resim 2'de rafta kitap yok."
+
+  - finnish: "Kuvassa 1 pallo ei ole kaapissa mutta kuvassa 2 pallo on kaapissa."
+    turkish: "Resim 1'de dolapta top yok ama Resim 2'de dolapta top var."
+
+  - finnish: "Kuvassa 1 kissa on sängyllä mutta kuvassa 2 kissa ei ole sängyllä."
+    turkish: "Resim 1'de kedi yatakta ama Resim 2'de kedi yatakta değil."
+
+  - finnish: "Kuvassa 1 herätyskello on yöpöydällä mutta kuvassa 2 herätyskello ei ole yöpöydällä."
+    turkish: "Resim 1'de komodinin üstünde çalar saat var ama Resim 2'de komodinin üstünde çalar saat yok."
+
+  - finnish: "Kuvassa 1 valokuvat ovat kirjahyllyssä mutta kuvassa 2 valokuvat eivät ole kirjahyllyssä."
+    turkish: "Resim 1'de fotoğraflar kitaplıkta ama Resim 2'de fotoğraflar kitaplıkta değil."
+
+  - finnish: "Kuvassa 1 taulu on seinällä mutta kuvassa 2 taulu ei ole seinällä."
+    turkish: "Resim 1'de duvarda tablo var ama Resim 2'de duvarda tablo yok."
+
+  - finnish: "Kuvassa 1 ovi on huoneessa mutta kuvassa 2 ovi ei ole huoneessa."
+    turkish: "Resim 1'de odada kapı var ama Resim 2'de odada kapı yok."
+
+  # Harjoitus 19 - Kodin kuvaus
+  - finnish: "Minun kotini on rivitalo Tampereella, kaksi kerrosta ja se on neliö."
+    turkish: "Benim evim Tampere'de bir sıra ev, iki katlı ve dört odalı."
+
+  - finnish: "Kodissa on keittiö, olohuone, makuuhuone ja kaksi lastenhuonetta."
+    turkish: "Evde mutfak, oturma odası, yatak odası ve iki çocuk odası var."
+
+  - finnish: "Kodissa ei ole hissiä."
+    turkish: "Evde asansör yok."
+
+  - finnish: "Olohuoneessa on televisio tv-tasolla, sohva, kirjakaappi ja nojatuoli."
+    turkish: "Oturma odasında TV ünitesinde televizyon, kanepe, kitaplık ve koltuk var."
+
+  - finnish: "Keittiö on melko pieni."
+    turkish: "Mutfak oldukça küçük."
+
+  - finnish: "Siellä on ruokapöytä, astianpesukone, jääkaappi, hella ja uuni."
+    turkish: "Orada yemek masası, bulaşık makinesi, buzdolabı, ocak ve fırın var."
+
+  - finnish: "Siellä on myös kahvinkeitin ja vedenkeitin."
+    turkish: "Orada ayrıca kahve makinesi ve su ısıtıcısı da var."
+
+  - finnish: "Makuuhuone ja lastenhuoneet ovat yläkerrassa."
+    turkish: "Yatak odası ve çocuk odaları üst katta."
+
+  - finnish: "Makuuhuoneessa on sänky ja kaappi."
+    turkish: "Yatak odasında yatak ve dolap var."
+
+  - finnish: "Siellä on myös lamppu yöpöydällä."
+    turkish: "Orada ayrıca komodinin üstünde bir lamba var."
+
+  - finnish: "Kylpyhuone on yläkerrassa myös ja pesukone on kylpyhuoneessa."
+    turkish: "Banyo da üst katta ve çamaşır makinesi banyoda."
+
+  - finnish: "Siellä on myös peili, pesuallas ja suihku."
+    turkish: "Orada ayrıca ayna, lavabo ve duş var."
+
+  - finnish: "Lastenhuone on melko pieni mutta siellä on lasten sänky, kirjahylly ja työpöytä koska lapset menevät kouluun."
+    turkish: "Çocuk odası oldukça küçük ama orada çocuk yatağı, kitaplık ve çalışma masası var çünkü çocuklar okula gidiyor."
+
+  - finnish: "Lattialla on matto."
+    turkish: "Yerde halı var."

@@ -1,0 +1,187 @@
+metadata:
+  title: "S. 152"
+  description: "S. 152"
+
+translations:
+  - finnish: "Kerrostalo"
+    turkish: "Apartman"
+
+  - finnish: "Rivitalo"
+    turkish: "Sıra ev"
+
+  - finnish: "Omakotitalo"
+    turkish: "Müstakil ev"
+
+  - finnish: "Asunto"
+    turkish: "Daire"
+
+  - finnish: "yksiö"
+    turkish: "Stüdyo daire"
+
+  - finnish: "kaksio"
+    turkish: "İki oda bir salon"
+
+  - finnish: "kolmio"
+    turkish: "Üç oda bir salon"
+
+  - finnish: "vuokra-asunto"
+    turkish: "Kiralık daire"
+
+  - finnish: "omistusasunto"
+    turkish: "Mülk daire"
+
+  - finnish: "opiskelija-asunto"
+    turkish: "Öğrenci evi"
+
+  - finnish: "asukas"
+    turkish: "Sakin"
+
+  - finnish: "Asua vuokralla"
+    turkish: "Kirada oturmak"
+
+  - finnish: "vuokrata"
+    turkish: "Kiralamak"
+
+  - finnish: "vuokraan"
+    turkish: "Kiralıyorum"
+
+  - finnish: "vuokraat"
+    turkish: "Kiralıyorsun"
+
+  - finnish: "vuokraa"
+    turkish: "Kiralıyor"
+
+  - finnish: "vuokraamme"
+    turkish: "Kiralıyoruz"
+
+  - finnish: "vuokraatte"
+    turkish: "Kiralıyorsunuz"
+
+  - finnish: "vuokraavat"
+    turkish: "Kiralıyorlar"
+
+  - finnish: "vuokra"
+    turkish: "Kira"
+
+  - finnish: "vuokrasopimus"
+    turkish: "Kira sözleşmesi"
+
+  - finnish: "vuokranantaja"
+    turkish: "Ev sahibi"
+
+  - finnish: "vuokralainen"
+    turkish: "Kiracı"
+
+  - finnish: "takuuvuokra"
+    turkish: "Depozito"
+
+  - finnish: "Asuntoilmoitus"
+    turkish: "Ev ilanı"
+
+  - finnish: "2 huonetta"
+    turkish: "2 oda"
+
+  - finnish: "olohuone"
+    turkish: "oturma odası"
+
+  - finnish: "makuuhuone"
+    turkish: "yatak odası"
+
+  - finnish: "keittiö"
+    turkish: "mutfak"
+
+  - finnish: "keittokomero"
+    turkish: "kitchenette"
+
+  - finnish: "parveke"
+    turkish: "balkon"
+
+  - finnish: "kylpyhuone"
+    turkish: "banyo"
+
+  - finnish: "sauna"
+    turkish: "sauna"
+
+  - finnish: "vaatehuone"
+    turkish: "giyinme odası"
+
+  - finnish: "eteinen"
+    turkish: "antre"
+
+  - finnish: "neliömetri"
+    turkish: "metrekare"
+
+  - finnish: "kuukausi"
+    turkish: "ay"
+
+  - finnish: "näyttö"
+    turkish: "ev gösterimi"
+
+  - finnish: "kerros"
+    turkish: "kat"
+
+  - finnish: "ensimmäinen kerros"
+    turkish: "birinci kat"
+
+  - finnish: "toinen kerros"
+    turkish: "ikinci kat"
+
+  - finnish: "alakerta"
+    turkish: "alt kat"
+
+  - finnish: "yläkerta"
+    turkish: "üst kat"
+
+  - finnish: "rappukäytävä"
+    turkish: "merdiven boşluğu"
+
+  - finnish: "hissi"
+    turkish: "asansör"
+
+  - finnish: "autotalli"
+    turkish: "garaj"
+
+  - finnish: "parkkipaikka"
+    turkish: "park yeri"
+
+  - finnish: "kellarikomero"
+    turkish: "bodrum deposu"
+
+  - finnish: "vinttikomero"
+    turkish: "çatı deposu"
+
+  - finnish: "ulkoiluvälinevarasto"
+    turkish: "spor malzemeleri deposu"
+
+  - finnish: "pyörävarasto"
+    turkish: "bisiklet deposu"
+
+  - finnish: "pesutupa"
+    turkish: "çamaşırhane"
+
+  - finnish: "kotiin"
+    turkish: "eve"
+
+  - finnish: "ulos"
+    turkish: "dışarı"
+
+  - finnish: "sisään"
+    turkish: "içeri"
+
+  - finnish: "kotona"
+    turkish: "evde"
+
+  - finnish: "ulkona"
+    turkish: "dışarıda"
+
+  - finnish: "sisällä"
+    turkish: "içeride"
+
+  - finnish: "kotoa"
+    turkish: "evden"
+
+  - finnish: "ulkoa"
+    turkish: "dışarıdan"
+
+  - finnish: "sisältä"
+    turkish: "içeriden"

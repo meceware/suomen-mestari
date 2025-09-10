@@ -1,0 +1,69 @@
+metadata:
+  title: "Harjoitukset 33 A-B"
+  description: "Harjoitukset 33 A-B"
+
+translations:
+  # Harjoitus 33-A
+  - finnish: "Katariina: Hei Julia, mihin sinä menet?"
+    turkish: "Katariina: Merhaba Julia, nereye gidiyorsun?"
+
+  - finnish: "Julia: Ai hei Katariina, menen ensin tuohon pankkiin ja sitten uimahalliin."
+    turkish: "Julia: Ah merhaba Katariina, önce şu bankaya sonra yüzme havuzuna gidiyorum."
+
+  - finnish: "Katariina: Käytkö joka päivä uimahallissa?"
+    turkish: "Katariina: Her gün yüzme havuzuna gidiyor musun?"
+
+  - finnish: "Julia: En, vain maanantaisin ja torstaisin. Mihin sinä menet?"
+    turkish: "Julia: Hayır, sadece pazartesi ve perşembe günleri. Sen nereye gidiyorsun?"
+
+  - finnish: "Katariina: Minä menen nyt kotiin. Käyn siellä kuumassa suihkussa, koska minulla on tosi kylmä."
+    turkish: "Katariina: Ben şimdi eve gidiyorum. Orada sıcak duş alacağım, çünkü çok üşüyorum."
+
+  - finnish: "Katariina: Sitten menen keskustaan Kaisan kanssa."
+    turkish: "Katariina: Sonra Kaisa ile merkeze gideceğim."
+
+  - finnish: "Julia: Ai jaa. Mitä te teette keskustassa?"
+    turkish: "Julia: Ah öyle mi. Merkezde ne yapacaksınız?"
+
+  - finnish: "Katariina: Käymme ainakin tavaratalossa ja kahvilassa."
+    turkish: "Katariina: En azından alışveriş merkezine ve kafeye gideceğiz."
+
+  - finnish: "Katariina: Menemme myös varmasti illalla ravintolaan."
+    turkish: "Katariina: Akşam kesinlikle restorana da gideceğiz."
+
+  - finnish: "Julia: Kuulostaa hyvältä!"
+    turkish: "Julia: Kulağa iyi geliyor!"
+
+  # Harjoitus 33-B
+  - finnish: "Toni: Moi Mika!"
+    turkish: "Toni: Selam Mika!"
+
+  - finnish: "Mika: Ai moi! Mitä kuuluu?"
+    turkish: "Mika: Ah selam! Nasılsın?"
+
+  - finnish: "Toni: Hyvää, kiitos. Menen tänään laivalla Tukholmaan."
+    turkish: "Toni: İyiyim, teşekkürler. Bugün gemiyle Stockholm'e gidiyorum."
+
+  - finnish: "Mika: Menetkö työmatkalle?"
+    turkish: "Mika: İş seyahatine mi gidiyorsun?"
+
+  - finnish: "Toni: En. Tämä on lomamatka. Käyn Tukholmassa joka vuosi."
+    turkish: "Toni: Hayır. Bu bir tatil seyahati. Stockholm'e her yıl giderim."
+
+  - finnish: "Toni: Se on hieno kaupunki! Käyn aina Vasa-museossa ja vanhassakaupungissa."
+    turkish: "Toni: Harika bir şehir! Her zaman Vasa Müzesi'ne ve eski şehre giderim."
+
+  - finnish: "Mika: Mitä sinä teet viikonloppuna?"
+    turkish: "Mika: Sen hafta sonu ne yapıyorsun?"
+
+  - finnish: "Mika: Minä käyn aina lauantaina Erikan ja Sofian kanssa kirjastossa."
+    turkish: "Mika: Ben her cumartesi Erika ve Sofia ile kütüphaneye giderim."
+
+  - finnish: "Mika: Tytöt lukevat satukirjaa ja minä lehteä."
+    turkish: "Mika: Kızlar masal kitabı, ben de dergi okurum."
+
+  - finnish: "Mika: Illalla menen Juuson kanssa terassille. Juuso on minun työkaveri."
+    turkish: "Mika: Akşam Juuso ile terasa gideceğim. Juuso benim iş arkadaşım."
+
+  - finnish: "Mika: Käymme varmasti myös baarissa Uudenmaankadulla."
+    turkish: "Mika: Kesinlikle Uudenmaankatu'daki bara da gideceğiz."

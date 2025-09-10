@@ -1,0 +1,66 @@
+metadata:
+  title: "Harjoitukset 31 ja 32"
+  description: "Harjoitukset 31 ja 32"
+
+translations:
+  # Harjoitus 31
+  - finnish: "Pedro ja Hanna muuttavat tänään Helsinkiin."
+    turkish: "Pedro ve Hanna bugün Helsinki'ye taşınıyorlar."
+
+  - finnish: "Uusi koti on korkeassa harmaassa kerrostalossa, Puistotiellä."
+    turkish: "Yeni evleri Puistotie'de yüksek gri bir apartmanda."
+
+  - finnish: "He ajavat autolla pihaan."
+    turkish: "Arabayla avluya giriyorlar."
+
+  - finnish: "Pedro vie monta isoa laatikkoa pihalta ylös uuteen asuntoon."
+    turkish: "Pedro birçok büyük kutuyu avludan yukarı yeni daireye taşıyor."
+
+  - finnish: "Hanna ottaa tavarat ruskeasta laatikosta ja panee ne sitten isoon kaappiin."
+    turkish: "Hanna eşyaları kahverengi kutudan alıp sonra büyük dolaba koyuyor."
+
+  - finnish: "Pedro vie kirjahyllyn, television ja sohvapöydän isoon olohuoneeseen."
+    turkish: "Pedro kitaplığı, televizyonu ve sehpayı büyük oturma odasına taşıyor."
+
+  - finnish: "Hän panee lampun matalalle pöydälle ja kirjat korkeaan harmaaseen hyllyyn."
+    turkish: "Lambayı alçak masaya ve kitapları yüksek gri rafa koyuyor."
+
+  - finnish: "Sitten Pedro ja Hanna vievät sängyt ja yöpöydät valoisaan makuuhuoneeseen."
+    turkish: "Sonra Pedro ve Hanna yatakları ve komodinleri aydınlık yatak odasına taşıyorlar."
+
+  - finnish: "Makuuhuoneessa matto on jo lattialla ja lamppu on katossa."
+    turkish: "Yatak odasında halı zaten yerde ve lamba tavanda."
+
+  - finnish: "Sitten Hanna menee pihalle ja ajaa auton autotalliin."
+    turkish: "Sonra Hanna avluya çıkıp arabayı garaja park ediyor."
+
+  # Harjoitus 32
+  - finnish: "Minä menen kurssilta bussipysäkille."
+    turkish: "Kurstan otobüs durağına gidiyorum."
+
+  - finnish: "Minä menen bussipysäkiltä toimistoon."
+    turkish: "Otobüs durağından ofise gidiyorum."
+
+  - finnish: "Minä menen toimistosta x-markettiin."
+    turkish: "Ofisten x-markete gidiyorum."
+
+  - finnish: "Minä menen x-markettista torille."
+    turkish: "X-marketten pazara gidiyorum."
+
+  - finnish: "Minä menen torilta apteekkiin."
+    turkish: "Pazardan eczaneye gidiyorum."
+
+  - finnish: "Minä menen apteekista kahville."
+    turkish: "Eczaneden kafeye gidiyorum."
+
+  - finnish: "Minä menen kahvilta urheilupuistolle."
+    turkish: "Kafeden spor parkına gidiyorum."
+
+  - finnish: "Minä menen urheilupuistolta kouluun."
+    turkish: "Spor parkından okula gidiyorum."
+
+  - finnish: "Minä menen koulusta pankkiin."
+    turkish: "Okuldan bankaya gidiyorum."
+
+  - finnish: "Minä menen pankista lentoasemalle."
+    turkish: "Bankadan havalimanına gidiyorum."

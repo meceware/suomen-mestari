@@ -1,0 +1,43 @@
+metadata:
+  title: "Harjoitus 9 "
+  description: "Harjoitus 9"
+
+translations:
+  - finnish: "Hän asuu asunnossa ja maksaa vuokraa. → vuokralainen"
+    turkish: "O dairede oturuyor ve kira ödüyor. → kiracı"
+
+  - finnish: "Vuokralainen maksaa 2 kuukausi vuokran, kun hän muuttaa asuntoon. Hän saa rahat takaisin, kun hän muuttaa pois. → takuuvuokra"
+    turkish: "Kiracı daireye taşındığında 2 aylık kira öder. Taşındığında parayı geri alır. → depozito"
+
+  - finnish: "Tosi pieni keittiö. → keittokomero"
+    turkish: "Çok küçük mutfak. → kitchenette"
+
+  - finnish: "Täällä voit käydä suihkussa. → kylpyhuone"
+    turkish: "Burada duş alabilirsin. → banyo"
+
+  - finnish: "Kerrostalon portaat. Esimerkiksi A, B ja C. → rappu"
+    turkish: "Apartman merdivenleri. Örneğin A, B ve C. → merdiven boşluğu"
+
+  - finnish: "Asunnossa on kolme huonetta. → kolmio"
+    turkish: "Dairede üç oda var. → üç oda bir salon"
+
+  - finnish: "Kuuma huone. → sauna"
+    turkish: "Sıcak oda. → sauna"
+
+  - finnish: "Asunto on hänen ja vuokralainen maksaa hänelle vuokraa. → vuokranantaja"
+    turkish: "Daire onun ve kiracı ona kira ödüyor. → ev sahibi"
+
+  - finnish: "Auton paikka pihalla. → parkkipaikka"
+    turkish: "Bahçede araç yeri. → park yeri"
+
+  - finnish: "Jos talo on korkea, siinä on monta kerros"
+    turkish: "Eğer bina yüksekse, birçok katı vardır. → kat"
+
+  - finnish: "Pieni huone talon kellarissa. Siellä ei voi asua. → kellarikomero"
+    turkish: "Binanın bodrumunda küçük bir oda. Orada yaşanamaz. → kiler"
+
+  - finnish: "Asunnon hinta joka kuukausi. → vuokra"
+    turkish: "Dairenin aylık fiyatı. → kira"
+
+  - finnish: "1 metri pitkä ja 1 metri leveä. → neliömetri"
+    turkish: "1 metre uzunluğunda ve 1 metre genişliğinde. → metrekare"

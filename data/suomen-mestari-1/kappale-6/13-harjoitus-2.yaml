@@ -1,0 +1,40 @@
+metadata:
+  title: "Harjoitus 2"
+  description: "Harjoitus 2"
+
+translations:
+  - finnish: "parveke"
+    turkish: "balkon"
+
+  - finnish: "autotalli"
+    turkish: "garaj"
+
+  - finnish: "2 huonetta"
+    turkish: "2 oda"
+
+  - finnish: "kellarikomero"
+    turkish: "kiler"
+
+  - finnish: "hissi"
+    turkish: "asansör"
+
+  - finnish: "pesutupa"
+    turkish: "çamaşırhane"
+
+  - finnish: "uima-allas"
+    turkish: "yüzme havuzu"
+
+  - finnish: "keittiö"
+    turkish: "mutfak"
+
+  - finnish: "terassi"
+    turkish: "teras"
+
+  - finnish: "kellari"
+    turkish: "bodrum"
+
+  - finnish: "parkkipaikka"
+    turkish: "park yeri"
+
+  - finnish: "sauna"
+    turkish: "sauna"

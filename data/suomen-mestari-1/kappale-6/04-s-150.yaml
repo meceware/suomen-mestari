@@ -1,0 +1,82 @@
+metadata:
+  title: "S. 150"
+  description: "S. 150"
+
+translations:
+  - finnish: "ylös"
+    turkish: "yukarı"
+
+  - finnish: "alas"
+    turkish: "aşağı"
+
+  - finnish: "ylhäällä"
+    turkish: "yukarıda"
+
+  - finnish: "alhaalla"
+    turkish: "aşağıda"
+
+  - finnish: "auki"
+    turkish: "açık"
+
+  - finnish: "kiinni"
+    turkish: "kapalı"
+
+  - finnish: "ulos"
+    turkish: "dışarı"
+
+  - finnish: "sisään"
+    turkish: "içeri"
+
+  - finnish: "ulkona"
+    turkish: "dışarıda"
+
+  - finnish: "sisällä"
+    turkish: "içeride"
+
+  - finnish: "korkea"
+    turkish: "yüksek"
+
+  - finnish: "matala"
+    turkish: "alçak"
+
+  - finnish: "leveä"
+    turkish: "geniş"
+
+  - finnish: "kapea"
+    turkish: "dar"
+
+  - finnish: "pehmeä"
+    turkish: "yumuşak"
+
+  - finnish: "kova"
+    turkish: "sert"
+
+  - finnish: "viihtyisä"
+    turkish: "rahat"
+
+  - finnish: "kodikas"
+    turkish: "ev gibi"
+
+  - finnish: "siisti"
+    turkish: "düzenli"
+
+  - finnish: "sotkuinen"
+    turkish: "dağınık"
+
+  - finnish: "likainen"
+    turkish: "kirli"
+
+  - finnish: "puhdas"
+    turkish: "temiz"
+
+  - finnish: "rauhallinen"
+    turkish: "sakin"
+
+  - finnish: "rauhaton"
+    turkish: "huzursuz"
+
+  - finnish: "hyväkuntoinen"
+    turkish: "iyi durumda"
+
+  - finnish: "huonokuntoinen"
+    turkish: "kötü durumda"

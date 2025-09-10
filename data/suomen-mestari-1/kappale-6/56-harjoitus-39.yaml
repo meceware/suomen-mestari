@@ -1,0 +1,120 @@
+metadata:
+  title: "Harjoitus 39"
+  description: "Harjoitus 39"
+
+translations:
+  # Dialogi 1
+  - finnish: "Pirjo soittaa huoltomiehelle."
+    turkish: "Pirjo bakım görevlisini arar."
+
+  - finnish: "Huoltoyhtiö Jokinen!"
+    turkish: "Jokinen Bakım Şirketi!"
+
+  - finnish: "Täällä on Pirjo Kuusinen, hei!"
+    turkish: "Ben Pirjo Kuusinen, merhaba!"
+
+  - finnish: "Päivää, miten voin auttaa?"
+    turkish: "İyi günler, nasıl yardımcı olabilirim?"
+
+  - finnish: "No mä tulin just kotiin, mut mä oon nyt rappukäytävässä."
+    turkish: "Az önce eve geldim ama şu an merdiven boşluğundayım."
+  - finnish: "Mä en pääse kotiin koska mulla ei oo avainta."
+    turkish: "Eve giremiyorum çünkü anahtarım yok."
+  - finnish: "Mä en löydä avainta mistään."
+    turkish: "Anahtarı hiçbir yerde bulamıyorum."
+
+  - finnish: "Jaa, vai niin!"
+    turkish: "Ah, öyle mi!"
+
+  - finnish: "Voitteks te tulla ja avata oven? Onks teillä avain kaikkiin asuntoihin?"
+    turkish: "Gelip kapıyı açabilir misiniz? Tüm dairelerin anahtarı sizde var mı?"
+
+  - finnish: "Kyllä on, mutta avaaminen maksaa."
+    turkish: "Evet var, ama açmak ücretli."
+  - finnish: "Nyt on sunnuntai joten hinta on kuuskyt euroa."
+    turkish: "Şimdi pazar günü olduğu için ücret altmış euro."
+
+  - finnish: "Kuuskyt euroa! Huh, se on tosi paljon."
+    turkish: "Altmış euro! Vay, bu çok fazla."
+  - finnish: "Sit mä luulen että mä odotan mieluummin että mun poikaystävä tulee kotiin."
+    turkish: "O zaman erkek arkadaşım eve gelene kadar beklemeyi tercih ederim."
+
+  - finnish: "Selvä!"
+    turkish: "Tamam!"
+
+  - finnish: "Kiitos kuitenkin ja hei hei."
+    turkish: "Yine de teşekkürler, hoşça kalın."
+
+  - finnish: "Hei."
+    turkish: "Hoşça kalın."
+
+  # Dialogi 2
+  - finnish: "On ilta. Kello on jo paljon. Elli ja Aki ovat kotona ja keskustelevat."
+    turkish: "Akşam oldu. Saat çok geç. Elli ve Aki evde sohbet ediyorlar."
+
+  - finnish: "Voi ei! Naapurissa on taas juhlat."
+    turkish: "Olamaz! Komşuda yine parti var."
+
+  - finnish: "Niin on! Miten voi olla että ne juhlii joka viikonloppu."
+    turkish: "Evet var! Nasıl her hafta sonu parti yapabilirler."
+
+  - finnish: "Sitä paitsi nyt ei edes oo viikonloppu. Vaan torstai."
+    turkish: "Üstelik şimdi hafta sonu bile değil. Perşembe."
+
+  - finnish: "Niin, ja toi musiikki on niin kovalla että mä en voi nukkua."
+    turkish: "Evet, ve müzik o kadar yüksek ki uyuyamıyorum."
+
+  - finnish: "Joo, toi musiikki häiritsee muakin."
+    turkish: "Evet, bu müzik beni de rahatsız ediyor."
+
+  - finnish: "Mitähän me voidaan tehdä?"
+    turkish: "Ne yapabiliriz acaba?"
+
+  - finnish: "En mä tiedä. Noh, jos mä meen niiden ovelle ja soitan ovikelloa. Mä sanon että juhlat häiritsee meitä."
+    turkish: "Bilmiyorum. Peki, kapılarına gidip zile bassam. Partinin bizi rahatsız ettiğini söylerim."
+
+  - finnish: "Ei, älä mee, ei se varmasti auta mitään. Ei yöllä kannata keskustella. Soitetaanks poliisille?"
+    turkish: "Hayır, gitme, kesinlikle bir işe yaramaz. Gece konuşmaya değmez. Polisi mi arayalım?"
+
+  - finnish: "No ei! Ei tää niin iso asia ole. Mitä jos puhutaan huomenna naapuranin kanssa. Kuninen juhlat on ohi. Odotetaan aamu."
+    turkish: "Hayır! Bu o kadar büyük bir mesele değil. Yarın komşuyla konuşsak nasıl olur. Parti bittiğinde. Sabahı bekleyelim."
+
+  - finnish: "Okei, tehdään niin. Ja nyt mennään nukkumaan."
+    turkish: "Tamam, öyle yapalım. Ve şimdi uyumaya gidelim."
+
+  # Dialogi 3
+  - finnish: "Kari Suominen asuu vuokra-asunnossa. Hän soittaa Anneli Wigrenille. Anneli omistaa asunnon."
+    turkish: "Kari Suominen kiralık bir dairede yaşıyor. Anneli Wigren'i çağırıyor. Anneli dairenin sahibidir."
+
+  - finnish: "Täällä on Kari Suominen. Päivää! Mä olen teidän vuokralainen Mäkitie kahdeksasta."
+    turkish: "Ben Kari Suominen. İyi günler! Ben Mäkitie sekizdeki kiracınızım."
+
+  - finnish: "Päivää!"
+    turkish: "İyi günler!"
+
+  - finnish: "Tota, mulla on pieni ongelma. Mun pitäis maksaa vuokra huomenna. Mutta mulla ei oo rahaa."
+    turkish: "Şey, küçük bir sorunum var. Yarın kirayı ödemem gerekiyor. Ama param yok."
+
+  - finnish: "Vai niin!"
+    turkish: "Öyle mi!"
+
+  - finnish: "Niin, katsokaas kun mulla ei oo enää töitä. Mä oon nyt työtön."
+    turkish: "Evet, bakın artık işim yok. Şu an işsizim."
+
+  - finnish: "Jaa-ha, mutta milloin sitten saatte rahaa? Ette te voi asua asunnossa jos ette maksa vuokraa."
+    turkish: "Peki, ne zaman para alacaksınız? Kira ödemeden dairede oturamazsınız."
+
+  - finnish: "Niin, tietysti. Mutta voisinks mä maksaa kesäkuussa? Silloin mulla on rahaa, koska mun uusi työ alkaa perjantaina."
+    turkish: "Evet, tabii. Ama haziranda ödeyebilir miyim? O zaman param olacak, çünkü yeni işim cuma günü başlıyor."
+
+  - finnish: "Hmm, hetkinen. Minä mietin. Tehdäänkö nyt kompromissi?"
+    turkish: "Hmm, bir dakika. Düşünüyorum. Bir uzlaşma yapalım mı?"
+
+  - finnish: "Te maksatte huomenna 200 euroa ja sitten loput 300 euroa kesäkuussa."
+    turkish: "Yarın 200 euro ödersiniz ve sonra kalan 300 euroyu haziranda ödersiniz."
+
+  - finnish: "Okei, sopii. Kiitos paljon."
+    turkish: "Tamam, anlaştık. Çok teşekkürler."
+
+  - finnish: "Selvä! Kuulemiin."
+    turkish: "Tamam! Hoşça kalın."

@@ -1,0 +1,81 @@
+metadata:
+  title: "Harjoitus 11-A-B"
+  description: "Harjoitus 11-A-B"
+
+translations:
+  # Harjoitus 11-A
+  - finnish: "Missä Mäkelän perhe asuu?"
+    turkish: "Mäkelä ailesi nerede oturuyor?"
+
+  - finnish: "valoisassa asunnossa"
+    turkish: "aydınlık bir dairede"
+
+  - finnish: "Millainen asunto heillä on?"
+    turkish: "Nasıl bir daireleri var?"
+
+  - finnish: "kolmio"
+    turkish: "üç oda"
+
+  - finnish: "Mitä lastenhuoneessa on?"
+    turkish: "Çocuk odasında ne var?"
+
+  - finnish: "vaatekaappi"
+    turkish: "gardırop"
+
+  - finnish: "matto"
+    turkish: "halı"
+
+  - finnish: "Miksi lastenhuoneessa on kirjoituspöytä?"
+    turkish: "Çocuk odasında neden yazı masası var?"
+
+  - finnish: "Koska Kalle on jo koulussa."
+    turkish: "Çünkü Kalle artık okulda."
+
+  - finnish: "Mitä makuuhuoneessa on?"
+    turkish: "Yatak odasında ne var?"
+
+  - finnish: "kaksi yöpöytää"
+    turkish: "iki komodin"
+
+  - finnish: "Millainen olohuone on?"
+    turkish: "Oturma odası nasıl?"
+
+  - finnish: "valoisa ja viihtyisä"
+    turkish: "aydınlık ve rahat"
+
+  # Harjoitus 11-B
+  - finnish: "Missä Mäkelän perhe asuu?"
+    turkish: "Mäkelä ailesi nerede oturuyor?"
+
+  - finnish: "Mäkelän perhe asuu Puistotiellä."
+    turkish: "Mäkelä ailesi Puistotie'de oturuyor."
+
+  - finnish: "Onko asunnossa sauna?"
+    turkish: "Dairede sauna var mı?"
+  - finnish: "Asunnossa ei ole saunaa."
+    turkish: "Dairede sauna yok."
+
+  - finnish: "Miksi lastenhuoneessa on kirjoituspöytä ja työtuoli?"
+    turkish: "Çocuk odasında neden yazı masası ve çalışma sandalyesi var?"
+  - finnish: "Koska Kalle on jo koulussa."
+    turkish: "Çünkü Kalle artık okulda."
+
+  - finnish: "Missä Emma usein lukee kirjaa?"
+    turkish: "Emma genellikle nerede kitap okuyor?"
+  - finnish: "Matolla."
+    turkish: "Halıda."
+
+  - finnish: "Mitä isän ja äidin makuuhuoneen seinällä on?"
+    turkish: "Anne ve babanın yatak odasının duvarında ne var?"
+  - finnish: "Seinällä on Emman ja Kallen valokuvat."
+    turkish: "Duvarda Emma ve Kalle'nin fotoğrafları var."
+
+  - finnish: "Millainen olohuone on?"
+    turkish: "Oturma odası nasıl?"
+  - finnish: "Olohuone on valoisa ja viihtyisä."
+    turkish: "Oturma odası aydınlık ve rahat."
+
+  - finnish: "Missä televisio on?"
+    turkish: "Televizyon nerede?"
+  - finnish: "Se on tv-tasossa."
+    turkish: "TV ünitesinde."

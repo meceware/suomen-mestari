@@ -1,0 +1,79 @@
+metadata:
+  title: "Harjoitukset 28, 29, ja 30"
+  description: "Harjoitukset 28, 29, ja 30"
+
+translations:
+  # Harjoitus 28
+  - finnish: "pankkiin"
+    turkish: "bankaya"
+
+  - finnish: "ravintolaan"
+    turkish: "restorana"
+
+  - finnish: "puuhun"
+    turkish: "ağaca"
+
+  - finnish: "Espooseen"
+    turkish: "Espoo'ya"
+
+  - finnish: "kaupunkiin"
+    turkish: "şehre"
+
+  - finnish: "Madridiin"
+    turkish: "Madrid'e"
+
+  - finnish: "studioon"
+    turkish: "stüdyoya"
+
+  - finnish: "päiväkotiin"
+    turkish: "kreşe"
+
+  - finnish: "tuohon museoon"
+    turkish: "şu müzeye"
+
+  - finnish: "harmaaseen taloon"
+    turkish: "gri eve"
+
+  # Harjoitus 29 - Illatiivi lauseissa
+  - finnish: "Minä tykkään lukea. Menen usein kirjastoon."
+    turkish: "Okumayı severim. Sık sık kütüphaneye giderim."
+
+  - finnish: "Minä olen astronautti. Lennän kuuhun."
+    turkish: "Ben astronotum. Aya uçuyorum."
+
+  - finnish: "James on kotoisin Iso-Britanniasta. Tänään hän matkustaa kotiin Lontooseen."
+    turkish: "James Büyük Britanya'dan. Bugün eve, Londra'ya seyahat ediyor."
+
+  - finnish: "Erik ja Senja rakastavat lunta ja pakkasta. Talvella he matkustavat aina Lappiin."
+    turkish: "Erik ve Senja karı ve soğuğu seviyorlar. Kışın her zaman Laponya'ya seyahat ediyorlar."
+
+  - finnish: "Haluatko teehen maitoa?"
+    turkish: "Çayına süt ister misin?"
+
+  - finnish: "Meillä on jano. Me menemme baariin."
+    turkish: "Susamışız. Bara gidiyoruz."
+
+  - finnish: "Minun äiti rakastaa taidetta. Hän matkustaa usein Firenzeen, Italiaan."
+    turkish: "Annem sanatı seviyor. Sık sık Floransa'ya, İtalya'ya seyahat ediyor."
+
+  # Harjoitus 30 - Illatiivi kysymyksissä ja vastauksissa
+  - finnish: "Mihin Maija menee? - Hän menee tuohon kahvilaan."
+    turkish: "Maija nereye gidiyor? - O şu kafeye gidiyor."
+
+  - finnish: "Mihin Ulla menee? - Hän menee harmaaseen kerrostaloon."
+    turkish: "Ulla nereye gidiyor? - O gri apartmana gidiyor."
+
+  - finnish: "Mihin Jaakko menee? - Hän menee valoisaan keittiöön."
+    turkish: "Jaakko nereye gidiyor? - O aydınlık mutfağa gidiyor."
+
+  - finnish: "Mihin Mervi menee? - Hän menee vapaaseen pöytään."
+    turkish: "Mervi nereye gidiyor? - O boş masaya gidiyor."
+
+  - finnish: "Mihin Api menee? - Hän menee korkeaan puuhun."
+    turkish: "Api nereye gidiyor? - O yüksek ağaca gidiyor."
+
+  - finnish: "Mihin Riku menee? - Hän menee isoon marketiin."
+    turkish: "Riku nereye gidiyor? - O büyük markete gidiyor."
+
+  - finnish: "Mihin Essi menee? - Hän menee kuumaan maahan."
+    turkish: "Essi nereye gidiyor? - O sıcak bir ülkeye gidiyor."

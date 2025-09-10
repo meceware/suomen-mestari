@@ -1,0 +1,154 @@
+metadata:
+  title: "S. 151"
+  description: "S. 151"
+
+translations:
+  - finnish: "Talossa"
+    turkish: "Evde"
+
+  - finnish: "lattia"
+    turkish: "zemin"
+
+  - finnish: "katto"
+    turkish: "tavan"
+
+  - finnish: "seinä"
+    turkish: "duvar"
+
+  - finnish: "ovi"
+    turkish: "kapı"
+
+  - finnish: "ikkuna"
+    turkish: "pencere"
+
+  - finnish: "portaat"
+    turkish: "merdiven"
+
+  - finnish: "Keittiö"
+    turkish: "Mutfak"
+
+  - finnish: "ruokapöytä"
+    turkish: "yemek masası"
+
+  - finnish: "tuoli"
+    turkish: "sandalye"
+
+  - finnish: "astianpesukone"
+    turkish: "bulaşık makinesi"
+
+  - finnish: "jääkaappi"
+    turkish: "buzdolabı"
+
+  - finnish: "pakastin"
+    turkish: "dondurucu"
+
+  - finnish: "hella ja uuni"
+    turkish: "ocak ve fırın"
+
+  - finnish: "mikroaaltouuni"
+    turkish: "mikrodalga fırın"
+
+  - finnish: "kahvinkeitin"
+    turkish: "kahve makinesi"
+
+  - finnish: "vedenkeitin"
+    turkish: "su ısıtıcısı"
+
+  - finnish: "leivänpaahdin"
+    turkish: "tost makinesi"
+
+  - finnish: "Olohuone"
+    turkish: "Oturma odası"
+
+  - finnish: "sohva"
+    turkish: "kanepe"
+
+  - finnish: "sohvapöytä"
+    turkish: "sehpa"
+
+  - finnish: "nojatuoli"
+    turkish: "koltuk"
+
+  - finnish: "televisio"
+    turkish: "televizyon"
+
+  - finnish: "kaukosäädin"
+    turkish: "uzaktan kumanda"
+
+  - finnish: "tv-taso"
+    turkish: "tv ünitesi"
+
+  - finnish: "taulu"
+    turkish: "tablo"
+
+  - finnish: "Työhuone"
+    turkish: "Çalışma odası"
+
+  - finnish: "työtuoli"
+    turkish: "çalışma sandalyesi"
+
+  - finnish: "työpöytä"
+    turkish: "çalışma masası"
+
+  - finnish: "laatikko"
+    turkish: "çekmece"
+
+  - finnish: "kirjahylly"
+    turkish: "kitaplık"
+
+  - finnish: "tietokone"
+    turkish: "bilgisayar"
+
+  - finnish: "verhot"
+    turkish: "perdeler"
+
+  - finnish: "Makuuhuone"
+    turkish: "Yatak odası"
+
+  - finnish: "sänky"
+    turkish: "yatak"
+
+  - finnish: "yöpöytä"
+    turkish: "komodin"
+
+  - finnish: "kaappi"
+    turkish: "dolap"
+
+  - finnish: "lamppu"
+    turkish: "lamba"
+
+  - finnish: "Kylpyhuone/vessa"
+    turkish: "Banyo/tuvalet"
+
+  - finnish: "suihku"
+    turkish: "duş"
+
+  - finnish: "kylpyamme"
+    turkish: "küvet"
+
+  - finnish: "pesuallas"
+    turkish: "lavabo"
+
+  - finnish: "wc-pönttö"
+    turkish: "klozet"
+
+  - finnish: "peili"
+    turkish: "ayna"
+
+  - finnish: "pesukone"
+    turkish: "çamaşır makinesi"
+
+  - finnish: "Eteinen"
+    turkish: "Antre"
+
+  - finnish: "naulakko"
+    turkish: "askılık"
+
+  - finnish: "matto"
+    turkish: "halı"
+
+  - finnish: "Vintti"
+    turkish: "Çatı katı"
+
+  - finnish: "Lastenhuone"
+    turkish: "Çocuk odası"

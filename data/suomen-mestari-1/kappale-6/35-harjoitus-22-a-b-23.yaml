@@ -1,0 +1,103 @@
+metadata:
+  title: "Harjoitukset 22 A-B ja 23"
+  description: "Harjoitukset 22 ja 23"
+
+translations:
+  # Harjoitus 22-A
+  - finnish: "Jani ja Jussi matkustavat Suomesta Ranskaan."
+    turkish: "Jani ve Jussi Finlandiya'dan Fransa'ya seyahat ediyorlar."
+
+  - finnish: "Ranskasta he matkustavat Egyptiin."
+    turkish: "Fransa'dan Mısır'a seyahat ediyorlar."
+
+  - finnish: "Egyptistä he matkustavat Intiaan."
+    turkish: "Mısır'dan Hindistan'a seyahat ediyorlar."
+
+  - finnish: "Intiasta he matkustavat Kiinaan."
+    turkish: "Hindistan'dan Çin'e seyahat ediyorlar."
+
+  - finnish: "Kiinasta he matkustavat Australiaan."
+    turkish: "Çin'den Avustralya'ya seyahat ediyorlar."
+
+  - finnish: "Australiasta he matkustavat Tansaniaan."
+    turkish: "Avustralya'dan Tanzanya'ya seyahat ediyorlar."
+
+  - finnish: "Tansaniasta he matkustavat Marokkoon."
+    turkish: "Tanzanya'dan Fas'a seyahat ediyorlar."
+
+  - finnish: "Marokosta he matkustavat Argentiinaan."
+    turkish: "Fas'tan Arjantin'e seyahat ediyorlar."
+
+  - finnish: "Argentiinasta he matkustavat Ecuadoroon."
+    turkish: "Arjantin'den Ekvador'a seyahat ediyorlar."
+
+  - finnish: "Ecuadorosta he matkustavat Meksikoon."
+    turkish: "Ekvador'dan Meksika'ya seyahat ediyorlar."
+
+  - finnish: "Meksikosta he matkustavat Kanadaan."
+    turkish: "Meksika'dan Kanada'ya seyahat ediyorlar."
+
+  - finnish: "Kanadasta he matkustavat Suomeen."
+    turkish: "Kanada'dan Finlandiya'ya seyahat ediyorlar."
+
+  # Harjoitus 22-B
+  - finnish: "Kissa hyppää hyllyltä nojatuolille."
+    turkish: "Kedi raftan koltuğa atlıyor."
+
+  - finnish: "Nojatuolilta se hyppää mattolle."
+    turkish: "Koltuktan halıya atlıyor."
+
+  - finnish: "Mattolta se hyppää tuolille."
+    turkish: "Halıdan sandalyeye atlıyor."
+
+  - finnish: "Tuolilta se hyppää sohvapöydälle."
+    turkish: "Sandalyeden sehpaya atlıyor."
+
+  - finnish: "Sohvapöydältä se hyppää ruokapöydälle."
+    turkish: "Sehpadan yemek masasına atlıyor."
+
+  - finnish: "Ruokapöydältä se hyppää sohvalle."
+    turkish: "Yemek masasından kanepeye atlıyor."
+
+  - finnish: "Sohvalta se hyppää sängylle."
+    turkish: "Kanepeden yatağa atlıyor."
+
+  - finnish: "Sängyltä se hyppää hyllylle."
+    turkish: "Yataktan rafa atlıyor."
+
+  # Harjoitus 23
+  - finnish: "Äiti ja Emma menevät moderniin uimahalliin."
+    turkish: "Anne ve Emma modern yüzme havuzuna gidiyorlar."
+
+  - finnish: "Me menemme viihtyisälle terassille."
+    turkish: "Biz rahat terasa gidiyoruz."
+
+  - finnish: "Perhe menee kuumaan saunaan."
+    turkish: "Aile sıcak saunaya gidiyor."
+
+  - finnish: "Alex menee isolle lentoasemalle."
+    turkish: "Alex büyük havalimanına gidiyor."
+
+  - finnish: "Kukka on matalalla pöydällä."
+    turkish: "Çiçek alçak masanın üstünde."
+
+  - finnish: "Perhe istuu valoisassa keittiössä."
+    turkish: "Aile aydınlık mutfakta oturuyor."
+
+  - finnish: "Me asumme isossa kaupungissa."
+    turkish: "Biz büyük şehirde yaşıyoruz."
+
+  - finnish: "Autot ajavat kapealla kadulla."
+    turkish: "Arabalar dar sokakta sürüyor."
+
+  - finnish: "He tulevat hyvästä ravintolasta."
+    turkish: "Onlar iyi bir restorandan geliyorlar."
+
+  - finnish: "Äiti tulee isolta torilta."
+    turkish: "Anne büyük pazardan geliyor."
+
+  - finnish: "Albert on kotoisin Göteborgista."
+    turkish: "Albert Göteborg'dan."
+
+  - finnish: "Opiskelijat tulevat kotiin kivalta kurssilta."
+    turkish: "Öğrenciler güzel kurstan eve geliyorlar."

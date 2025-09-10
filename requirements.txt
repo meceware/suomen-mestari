@@ -1,26 +1,21 @@
-# Text-to-Speech Finnish Learning Project Dependencies
-# Using latest versions for flexibility
+# TTS Engines
+edge-tts>=7.2.3          # Microsoft Edge TTS
+gTTS>=2.5.0              # Google TTS
+piper-tts>=1.3.0         # Piper TTS (offline) - optional
+coqui-tts>=0.27          # Coqui TTS - optional
 
-# TTS Engine - Latest Piper TTS
-piper-tts>=1.2.0
+# Audio Processing
+pydub>=0.25.1            # Audio manipulation and combining
+simpleaudio>=1.0.4       # Audio playback for preview
 
-# HTTP requests for Ollama API
-requests>=2.31.0
+# Configuration & Data
+pyyaml>=6.0              # YAML parsing
+pydantic>=2.11.7         # Data validation
 
-# Environment variable management
-python-dotenv>=1.0.0
+# CLI & Utilities
+click>=8.1               # CLI interface
+rich>=14.1.0             # Beautiful terminal output
 
-# Audio processing and MP3 conversion
-pydub>=0.25.0
-
-# Markdown parsing
-mistune>=3.0.0
-
-# Audio processing support
-numpy>=1.24.0
-
-# Audio file I/O
-soundfile>=0.12.0
-
-# Edge TTS for better Finnish voices
-edge-tts>=7.2.3
+# Development & Testing (optional)
+pytest>=8.4.2            # Testing framework
+pytest-cov>=6.3.0        # Coverage reporting

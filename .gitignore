@@ -1,6 +1,20 @@
-**/__pycache__/
+# Virtual Environment
 .venv/
-models/*
+
+# Python
+**/__pycache__/
+
+# Piper models
+.piper/
+
+# Temporary folders
+.tmp/
+
+# Output files
+output/**/*.mp3
+
+# IDE
+.vscode/
+
+# Logs
 logs/*.log
-output/
-.env

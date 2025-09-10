@@ -1,0 +1,60 @@
+metadata:
+  title: "s. 157"
+  description: "s. 157"
+
+translations:
+  # Demonstrative Pronouns
+  - finnish: "Demonstratiivipronominit"
+    turkish: "İşaret Zamirleri"
+
+  - finnish: "Tämä talo on minun kotitalo."
+    turkish: "Bu ev benim evim."
+
+  - finnish: "Tuo vanha talo on kaunis."
+    turkish: "Şu eski ev güzel."
+
+  - finnish: "Se on museo."
+    turkish: "O bir müze."
+
+  - finnish: "Nämä mustat kengät maksavat 65 euroa."
+    turkish: "Bu siyah ayakkabılar 65 euro."
+
+  - finnish: "Mitä nuo ruskeat kengät maksavat?"
+    turkish: "Şu kahverengi ayakkabılar kaç euro?"
+
+  - finnish: "Ne maksavat 79 euroa."
+    turkish: "Onlar 79 euro."
+
+  # Imperative Forms
+  - finnish: "Käskymuoto: sinä-persoona"
+    turkish: "Emir kipi: sen-şahıs"
+
+  - finnish: "Lue sivu 35!"
+    turkish: "35. sayfayı oku!"
+
+  - finnish: "Älä lue ruokapöydässä."
+    turkish: "Yemek masasında okuma."
+
+  - finnish: "Syö hitaasti!"
+    turkish: "Yavaş ye!"
+
+  - finnish: "Älä syö sokeria!"
+    turkish: "Şeker yeme!"
+
+  - finnish: "Tule kotiin!"
+    turkish: "Eve gel!"
+
+  - finnish: "Älä tule vielä!"
+    turkish: "Henüz gelme!"
+
+  - finnish: "Avaa ovi!"
+    turkish: "Kapıyı aç!"
+
+  - finnish: "Älä avaa tietokonetta!"
+    turkish: "Bilgisayarı açma!"
+
+  - finnish: "Valitse väri!"
+    turkish: "Renk seç!"
+
+  - finnish: "Älä valitse vihreä!"
+    turkish: "Yeşili seçme!"

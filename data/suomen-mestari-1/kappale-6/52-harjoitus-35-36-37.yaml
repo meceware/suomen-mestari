@@ -1,0 +1,69 @@
+metadata:
+  title: "Harjoitukset 35, 36, ja 37"
+  description: "Harjoitukset 35, 36, ja 37"
+
+translations:
+  # Harjoitus 35
+  - finnish: "Onko tuo talo tuolla sairaala?"
+    turkish: "Şu bina orada hastane mi?"
+
+  - finnish: "Ei, se on koulu."
+    turkish: "Hayır, o okul."
+
+  - finnish: "Mikä tämä on?"
+    turkish: "Bu ne?"
+
+  - finnish: "Etkö sinä tiedä, se on lamppu!"
+    turkish: "Bilmiyor musun, o bir lamba!"
+
+  - finnish: "Minä otan nämä kirjat."
+    turkish: "Ben bu kitapları alıyorum."
+
+  - finnish: "Mihin sinä viet ne?"
+    turkish: "Onları nereye götürüyorsun?"
+
+  - finnish: "Ostatko sinä nuo kengät?"
+    turkish: "Şu ayakkabıları alacak mısın?"
+
+  - finnish: "Ostan. Ne ovat kauniit."
+    turkish: "Alacağım. Onlar güzel."
+
+  # Harjoitus 36 - Imperatiivi
+  - finnish: "Mitä sairaalassa lukee odotushuoneen seinällä?"
+    turkish: "Hastanede bekleme odasının duvarında ne yazıyor?"
+
+  - finnish: "Ilmoittaudu ensin! Älä häiritse! Odota lääkäriä!"
+    turkish: "Önce kayıt ol! Rahatsız etme! Doktoru bekle!"
+  - finnish: "Maksa kassalle! Älä polta tupakkaa!"
+    turkish: "Kasaya öde! Sigara içme!"
+
+  - finnish: "Teillä on juhlat kotona illalla. Päivällä sinä olet töissä ja sinun poikaystävä siivoaa kotona. Mitä sanot hänelle?"
+    turkish: "Akşam evde partiniz var. Gündüz sen iştesin ve erkek arkadaşın evi temizliyor. Ona ne söylüyorsun?"
+
+  - finnish: "Siivoa olohuone. Pese lattia. Tiskaa astiat. Leivo kakku ja tee ruokaa. Käy kaupassa."
+    turkish: "Oturma odasını temizle. Yeri sil. Bulaşıkları yıka. Pasta yap ve yemek pişir. Markete git."
+
+  - finnish: "Sinun ystävä on sairas. Hänellä on influenssa. Mitä sanot hänelle?"
+    turkish: "Arkadaşın hasta. Gribi var. Ona ne söylüyorsun?"
+
+  - finnish: "Juo paljon ja nuku. Soita töihin. Älä urheile! Älä mene töihin."
+    turkish: "Çok su iç ve uyu. İşe telefon et. Spor yapma! İşe gitme."
+
+  # Harjoitus 37 - Imperatiivi eri tilanteissa
+  - finnish: "Lapsi on yksin kotona. Äiti soittaa hänelle. Mitä äiti sanoo?"
+    turkish: "Çocuk evde yalnız. Anne onu arıyor. Anne ne söylüyor?"
+
+  - finnish: "Älä avaa ovea! Älä mene ulos! Tee läksyt! Soita minulle, jos tarvitset apua!"
+    turkish: "Kapıyı açma! Dışarı çıkma! Ödevlerini yap! Yardıma ihtiyacın olursa beni ara!"
+
+  - finnish: "Mitä suomen opettaja sanoo opiskelijoille?"
+    turkish: "Fince öğretmeni öğrencilere ne söylüyor?"
+
+  - finnish: "Lukekaa teksti ja kirjoittakaa tehtävä."
+    turkish: "Metni okuyun ve alıştırmayı yazın."
+
+  - finnish: "Sinun ystävä ei tiedä, mitä hän haluaisi tehdä viikonloppuna. Onko sinulla hyvä idea?"
+    turkish: "Arkadaşın hafta sonu ne yapmak istediğini bilmiyor. İyi bir fikrin var mı?"
+
+  - finnish: "Mennään elokuviin ja kahvilaan. Käydään uimassa."
+    turkish: "Sinemaya ve kafeye gidelim. Yüzmeye gidelim."

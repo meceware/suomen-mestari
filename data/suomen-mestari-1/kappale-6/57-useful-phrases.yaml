@@ -1,0 +1,37 @@
+metadata:
+  title: "Useful phrases"
+  description: "Useful everyday phrases"
+
+translations:
+  - finnish: "sytyttää lamppu"
+    turkish: "lambayı yakmak"
+
+  - finnish: "sammuttaa lamppu"
+    turkish: "lambayı söndürmek"
+
+  - finnish: "käydä suihkussa"
+    turkish: "duş almak"
+
+  - finnish: "mennä suihkuun"
+    turkish: "duşa girmek"
+
+  - finnish: "Laitan pyykit pesukoneeseen."
+    turkish: "Çamaşırları makineye koyuyorum."
+
+  - finnish: "Ripusta takki naulakkoon."
+    turkish: "Ceketi askıya as."
+
+  - finnish: "Pyyhi jalat mattoon."
+    turkish: "Ayaklarını paspasa sil."
+
+  - finnish: "irtisanoa vuokrasopimus"
+    turkish: "kira sözleşmesini feshetmek"
+
+  - finnish: "Onko vapaita vuoroja?"
+    turkish: "Boş seans var mı?"
+
+  - finnish: "Mitkä ajat ovat vapaana?"
+    turkish: "Hangi saatler müsait?"
+
+  - finnish: "Pidän tauon."
+    turkish: "Mola veriyorum."

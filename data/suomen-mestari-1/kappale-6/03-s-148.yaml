@@ -1,0 +1,70 @@
+metadata:
+  title: "S. 148"
+  description: "S. 148"
+
+translations:
+  - finnish: "Muutto"
+    turkish: "Taşınma"
+
+  - finnish: "On iltapäivä."
+    turkish: "Öğleden sonra."
+
+  - finnish: "Mäkelät istuvat keittiössä ja syövät lounasta."
+    turkish: "Mäkelä ailesi mutfakta oturuyor ve öğle yemeği yiyor."
+
+  - finnish: "Kalle katsoo ulos ikkunasta."
+    turkish: "Kalle pencereden dışarı bakıyor."
+
+  - finnish: "Pihalle ajaa iso pakettiauto."
+    turkish: "Avluya büyük bir kamyonet giriyor."
+
+  - finnish: "Mies nostaa autosta monta ruskeaa laatikkoa kadulle."
+    turkish: "Adam araçtan sokağa birçok kahverengi kutu indiriyor."
+
+  - finnish: "Nainen kantaa laatikot kadulta sisään taloon."
+    turkish: "Kadın kutuları sokaktan evin içine taşıyor."
+
+  - finnish: "Emma ja Kalle menevät ulos."
+    turkish: "Emma ve Kalle dışarı çıkıyor."
+
+  - finnish: "He haluavat nähdä, mitä pihalla tapahtuu."
+    turkish: "Avluda neler olduğunu görmek istiyorlar."
+
+  - finnish: "Kalle: Hei, kuka sinä olet?"
+    turkish: "Kalle: Merhaba, sen kimsin?"
+
+  - finnish: "Pedro: Hei, minä olen Pedro. Muutan tänään asuntoon numero 5."
+    turkish: "Pedro: Merhaba, ben Pedro. Bugün 5 numaralı daireye taşınıyorum."
+
+  - finnish: "Kalle: Minä olen Kalle ja tässä on Emma. Me asumme numerossa 6. Sinä olet meidän uusi naapuri."
+    turkish: "Kalle: Ben Kalle ve bu Emma. Biz 6 numarada oturuyoruz. Sen bizim yeni komşumuzsun."
+
+  - finnish: "Pedro: Hauska tavata!"
+    turkish: "Pedro: Tanıştığımıza memnun oldum!"
+
+  - finnish: "Emma: Tarvitsetko apua?"
+    turkish: "Emma: Yardıma ihtiyacın var mı?"
+
+  - finnish: "Pedro: Joo, kiitos."
+    turkish: "Pedro: Evet, teşekkürler."
+
+  - finnish: "Emma: Mitä minä voin tehdä?"
+    turkish: "Emma: Ben ne yapabilirim?"
+
+  - finnish: "Pedro: Vie vaikka tämä lamppu pöydälle olohuoneeseen."
+    turkish: "Pedro: İsterseniz bu lambayı oturma odasındaki masaya götür."
+
+  - finnish: "Kalle: Entä minä?"
+    turkish: "Kalle: Ya ben?"
+
+  - finnish: "Pedro: No, ota tuo pieni laatikko ja vie se keittiöön. Minä kannan nämä tuolit."
+    turkish: "Pedro: Şu küçük kutuyu al ve mutfağa götür. Ben bu sandalyeleri taşıyacağım."
+
+  - finnish: "Käyn ensin kellarissa ja tulen sitten."
+    turkish: "Önce bodruma gidip sonra geleceğim."
+
+  - finnish: "Emma: Okei. Me menemme jo ylös. Onko ovi auki?"
+    turkish: "Emma: Tamam. Biz yukarı çıkıyoruz. Kapı açık mı?"
+
+  - finnish: "Pedro: Ei, mutta minun tyttöystävä Hanna on kotona."
+    turkish: "Pedro: Hayır, ama kız arkadaşım Hanna evde."

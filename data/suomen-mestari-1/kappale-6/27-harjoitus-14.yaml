@@ -1,0 +1,88 @@
+metadata:
+  title: "Harjoitus 14"
+  description: "Harjoitus 14"
+
+translations:
+  - finnish: "Missä sinä asut?"
+    turkish: "Nerede oturuyorsun?"
+
+  - finnish: "Minä asun Tampereella perheeni kanssa."
+    turkish: "Ben Tampere'de ailemle oturuyorum."
+
+  - finnish: "Millä kadulla sinä asut?"
+    turkish: "Hangi sokakta oturuyorsun?"
+
+  - finnish: "Minä asun Takamaanrinnella."
+    turkish: "Ben Takamaanrinne'de oturuyorum."
+
+  - finnish: "Millaisessa talossa asut?"
+    turkish: "Nasıl bir evde oturuyorsun?"
+
+  - finnish: "Minä asun rivitalossa."
+    turkish: "Ben sıra evde oturuyorum."
+
+  - finnish: "Asutko kerrostalossa?"
+    turkish: "Apartmanda mı oturuyorsun?"
+
+  - finnish: "Ei, asun rivitalossa."
+    turkish: "Hayır, sıra evde oturuyorum."
+
+  - finnish: "Onko talossa hissi? Entä autotalli?"
+    turkish: "Evde asansör var mı? Ya garaj?"
+
+  - finnish: "Ei, minun talossani ei ole hissiä tai autotallia. Mutta minulla on autopaikka etupihällä."
+    turkish: "Hayır, benim evimde asansör veya garaj yok. Ama ön bahçede park yerim var."
+
+  - finnish: "Millainen asunto sinulla on?"
+    turkish: "Nasıl bir dairen var?"
+
+  - finnish: "Minulla on valoisa mutta pieni neliö."
+    turkish: "Benim aydınlık ama küçük bir dairem var."
+
+  - finnish: "Kuinka monta huonetta sinulla on?"
+    turkish: "Kaç odan var?"
+
+  - finnish: "Minulla on neljä huonetta."
+    turkish: "Benim dört odam var."
+
+  - finnish: "Asutko yksin?"
+    turkish: "Yalnız mı oturuyorsun?"
+
+  - finnish: "Ei, asun perheeni kanssa."
+    turkish: "Hayır, ailemle oturuyorum."
+
+  - finnish: "Kenen kanssa sinä asut?"
+    turkish: "Kiminle oturuyorsun?"
+
+  - finnish: "Minä asun vaimon ja kahden lapsen kanssa."
+    turkish: "Ben eşim ve iki çocuğumla oturuyorum."
+
+  - finnish: "Onko sinulla koira tai kissa?"
+    turkish: "Köpeğin veya kedin var mı?"
+
+  - finnish: "Ei, minulla ei ole koiraa tai kissaa."
+    turkish: "Hayır, köpeğim veya kedim yok."
+
+  - finnish: "Onko sinulla sauna?"
+    turkish: "Saunan var mı?"
+
+  - finnish: "Kyllä, minulla on pieni sauna."
+    turkish: "Evet, küçük bir saunam var."
+
+  - finnish: "Onko asunnossa parveke tai terassi?"
+    turkish: "Dairede balkon veya teras var mı?"
+
+  - finnish: "Joo, minun asunnossani on parveke mutta ei terassia."
+    turkish: "Evet, dairemde balkon var ama teras yok."
+
+  - finnish: "Mitä sinun olohuoneessa on?"
+    turkish: "Oturma odanda neler var?"
+
+  - finnish: "Minun olohuoneessani on televisio, yksi sohva ja nojatuoli, ruokapöytä ja kirjakaappi."
+    turkish: "Oturma odamda televizyon, bir kanepe ve koltuk, yemek masası ve kitaplık var."
+
+  - finnish: "Kuka on sinun naapuri?"
+    turkish: "Komşun kim?"
+
+  - finnish: "Minun naapuri on perhe, isä, äiti ja heidän tyttö."
+    turkish: "Benim komşum bir aile, anne, baba ve kızları."

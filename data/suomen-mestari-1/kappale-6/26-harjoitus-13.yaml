@@ -1,0 +1,57 @@
+metadata:
+  title: "Harjoitus 13"
+  description: "Harjoitus 13"
+
+translations:
+  # Keittiö
+  - finnish: "Aamulla, ei ole yleensä paljon aikaa, mutta isä herää aina kuudelta ja tekee aamupalaa."
+    turkish: "Sabahları genellikle çok vakit olmaz ama baba her zaman altıda uyanır ve kahvaltı hazırlar."
+
+  - finnish: "Hän ottaa ruokaa jääkaapista ja keittää kahvia."
+    turkish: "Buzdolabından yiyecek alır ve kahve pişirir."
+
+  - finnish: "Kun aamupala on valmis, koko perhe tulee pöytään ja syö."
+    turkish: "Kahvaltı hazır olunca, bütün aile masaya gelir ve yer."
+
+  # Työhuone
+  - finnish: "Sirkka on opettaja."
+    turkish: "Sirkka öğretmendir."
+
+  - finnish: "Hän opettaa päivällä englantia ja illalla hän tekee töitä kotona."
+    turkish: "Gündüz İngilizce öğretir ve akşam evde çalışır."
+
+  - finnish: "Kaikki työpaperit ovat yhdessä huoneessa. Missä?"
+    turkish: "Tüm iş kağıtları bir odada. Nerede?"
+
+  # Olohuone
+  - finnish: "Syksyllä ja talvella on kiva istua kotona ja katsoa televisiota tai elokuvaa."
+    turkish: "Sonbahar ve kışın evde oturup televizyon veya film izlemek güzeldir."
+
+  - finnish: "Kaikki istuvat sohvalla."
+    turkish: "Herkes kanepede oturur."
+
+  - finnish: "Kirjahyllyssä on paljon kirjoja."
+    turkish: "Kitaplıkta çok kitap var."
+
+  - finnish: "Joskus äiti ja isä lukevat kirjaa ja joskus koko perhe pelaa jotain lautapeliä."
+    turkish: "Bazen anne ve baba kitap okur ve bazen tüm aile bir masa oyunu oynar."
+
+  # Eteinen
+  - finnish: "Kun äiti tulee töistä kotiin, hän avaa oven ja näkee lattialla kaikki kengät ja kassit."
+    turkish: "Anne işten eve geldiğinde, kapıyı açar ve yerde tüm ayakkabıları ve çantaları görür."
+
+  - finnish: "Hän sanoo lapsille tämä ei ole kellari."
+    turkish: "Çocuklara burası bodrum değil der."
+
+  - finnish: "Nyt heti kengät kaappiin."
+    turkish: "Hemen şimdi ayakkabıları dolaba koyun."
+
+  # Kylpyhuone
+  - finnish: "Tero pelaa aina tiistaina jalkapalloa."
+    turkish: "Tero her salı futbol oynar."
+
+  - finnish: "Kello on jo paljon, kun hän tulee kotiin, joten hän menee heti suihkuun ja laittaa vaatteet pesukoneeseen."
+    turkish: "Eve geldiğinde saat geç olur, bu yüzden hemen duşa girer ve kıyafetlerini çamaşır makinesine koyar."
+
+  - finnish: "Sitten Tero pesee hampaat."
+    turkish: "Sonra Tero dişlerini fırçalar."
