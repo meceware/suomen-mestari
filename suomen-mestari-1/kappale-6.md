@@ -30,18 +30,17 @@
 >
 > Vuokranantaja Heikki Jussila, hpjussila@netbox.fi
 
-
 > Pedro: Hanna, katso, tämä näyttää hyvältä!
-> Hanna: Onko se kaksio?
-> Pedro: Joo, on. 45 neliötä.
-> Hanna: Missä päin se on?
-> Pedro: Öö, odota, minä katson... Tämä on Lehtelässä, Puistotiellä. Eikö se ole ihan kiva alue?
-> Hanna: Joo on! Lehtelässä menee juna keskustaan. Paljonko sen vuokra on?
-> Pedro: 870 euroa plus vesimaksut.
-> Hanna: Ohhoh, hirveän kallis!
-> Pedro: Niin on, mutta mennäänkö silti katsomaan?
-> Hanna: Mennään vaan. Milloin siellä on näyttö?
-> Pedro: En minä tiedä. Tässä on vain sähköpostiosoite.
+> Hanna: Onko se kaksio?  
+> Pedro: Joo, on. 45 neliötä.  
+> Hanna: Missä päin se on?  
+> Pedro: Öö, odota, minä katson... Tämä on Lehtelässä, Puistotiellä. Eikö se ole ihan kiva alue?  
+> Hanna: Joo on! Lehtelässä menee juna keskustaan. Paljonko sen vuokra on?  
+> Pedro: 870 euroa plus vesimaksut.  
+> Hanna: Ohhoh, hirveän kallis!  
+> Pedro: Niin on, mutta mennäänkö silti katsomaan?  
+> Hanna: Mennään vaan. Milloin siellä on näyttö?  
+> Pedro: En minä tiedä. Tässä on vain sähköpostiosoite.  
 > Hanna: Okei, no täytyy sitten kirjoitta ja kysyä.
 
 ## s. 148
@@ -52,111 +51,96 @@
 >
 > Nainen kantaa laatikot kadulta sisään taloon. Emma ja Kalle menevät ulos. He haluavat nähdä, mita pihalla tapahtuu.
 
-> Kalle: Hei, kuka sinä olet?
->
-> Pedro: Hei, minä olen Pedro. Muutan tänään asuntoon numero 5.
->
-> Kalle: Minä olen Kalle ja tässä on Emma. Me asumme numerossa 6. Sinä olet meidän uusi naapuri.
->
-> Pedro: Hauska tavata!
->
-> Emma: Tarvitsetko apua?
->
-> Pedro: Joo, kiitos.
->
-> Emma: Mitä minä voin tehdä?
->
-> Pedro: Vie vaikka tämä lamppu pöydälle olohuoneeseen.
->
-> Kalle: Entä minä?
->
-> Pedro: No, ota tuo pieni laatikko ja vie se keittiöön. Minä kannan nämä tuolit. Käyn ensin kellarissa ja tulen sitten.
->
-> Emma: Okei. Me menemme jo ylös. Onko ovi auki?
->
+> Kalle: Hei, kuka sinä olet?  
+> Pedro: Hei, minä olen Pedro. Muutan tänään asuntoon numero 5.  
+> Kalle: Minä olen Kalle ja tässä on Emma. Me asumme numerossa 6. Sinä olet meidän uusi naapuri.  
+> Pedro: Hauska tavata!  
+> Emma: Tarvitsetko apua?  
+> Pedro: Joo, kiitos.  
+> Emma: Mitä minä voin tehdä?  
+> Pedro: Vie vaikka tämä lamppu pöydälle olohuoneeseen.  
+> Kalle: Entä minä?  
+> Pedro: No, ota tuo pieni laatikko ja vie se keittiöön. Minä kannan nämä tuolit. Käyn ensin kellarissa ja tulen sitten.  
+> Emma: Okei. Me menemme jo ylös. Onko ovi auki?  
 > Pedro: Ei, mutta minun tyttöystävä Hanna on kotona.
 
 ## s. 150
 
-```
-ylös <-> alas
-ylhäällä <-> alhaalla
+> ylös <-> alas  
+> ylhäällä <-> alhaalla  
 
-auki <-> kiinni
+> auki <-> kiinni
 
-ulos <-> sisään
-ulkona <-> sisällä
+> ulos <-> sisään  
+> ulkona <-> sisällä  
 
-korkea >-< matala
-leveä >-<kapea
-pehmeä >-< kova
-viihtyisä, kodikas, siisti >-< sotkuinen
-likainen >-< puhdas
-ruhallinen >-< rauhaton
-hyväkontoinen >-< huonokontoinen
-```
+> korkea >-< matala  
+> leveä >-<kapea  
+> pehmeä >-< kova  
+> viihtyisä, kodikas, siisti >-< sotkuinen  
+> likainen >-< puhdas  
+> ruhallinen >-< rauhaton  
+> hyväkontoinen >-< huonokontoinen  
 
 ## s. 151
 
-```
-Talossa
-lattia
-katto
-seinä
-ovi
-ikkuna
-portaat
+- Talossa
+> lattia  
+> katto  
+> seinä  
+> ovi  
+> ikkuna  
+> portaat  
 
-Keittiö
-rukapöytä
-tuoli
-astianpesukone
-jääkappi
-pakastin
-hella ja uuni
-mikroaaltouuni
-kahvinkeitin
-vedenkeitin
-leivänpaahdin
+- Keittiö
+> rukapöytä  
+> tuoli  
+> astianpesukone  
+> jääkappi  
+> pakastin  
+> hella ja uuni  
+> mikroaaltouuni  
+> kahvinkeitin  
+> vedenkeitin  
+> leivänpaahdin  
 
-Olohuone
-sohva
-sohvapöytä
-nojatuoli
-televisio
-kaukosäädin
-tv-taso
-taulu
+- Olohuone
+> sohva  
+> sohvapöytä  
+> nojatuoli  
+> televisio  
+> kaukosäädin  
+> tv-taso  
+> taulu  
 
-Työhuone
-työtuoli
-työpöytä
-laatikko
-kirjahylly
-tietokone
-verhot
+- Työhuone
+> työtuoli 
+> työpöytä 
+> laatikko 
+> kirjahylly 
+> tietokone 
+> verhot 
 
-Makuuhuone
-sänky
-yöpöytä
-kaappi
-lamppu
+- Makuuhuone
+> sänky  
+> yöpöytä  
+> kaappi  
+> lamppu  
 
-Kylpyhuone/vessa
-suihku
-kylpyamme
-pesuallas
-wc-pönttö
-peili
-pesukone
+- Kylpyhuone/vessa
+> suihku  
+> kylpyamme  
+> pesuallas  
+> wc-pönttö  
+> peili  
+> pesukone  
 
-Eteinen
-naulakko
-matto
+- Eteinen
+> naulakko  
+> matto  
 
-Vintti
-Lastenhuone
-```
+- Vintti
+- Lastenhuone
 
 ## s. 152
 
@@ -229,25 +213,23 @@ sisälta
 
 ## s. 153
 
-```
 Pedro soittaa huoltoyhtiöön.
 
-Huoltomies: Huoltoyhtiö Jokinen.
-Pedro: Huomenta. Täällä on Pedro Riberio. Mä oon uusi asukas Puistotie 4:ssä.
-Huoltomies: Hei.
-Pedro: Tota... Mä haluaisin varata saunavuoron.
-Huoltomies: Selvä. Mikä teiän asunnon numero on?
-Pedro: C 32.
-Huoltomies: Okei, joo, Lahtinen ja Ribeiro?
-Pedro: Joo.
-Huoltomies: Hetkinen... Joo, teiän talon saunassa on vapaata vielä tiistaina kello 17 ja perjantaina kello 21. Kaikki muut vuorot on varattu.
-Pedro: Ahaa.... No, mä luulen, että me otetaan perjantai. Onks se tunnin vuoro?
-Huoltomies: Joo, kello 21-22. Se on sit 12 euroa kuussa.
-Pedro: Okei. Miten se maksetaan?
-Huoltomies: Lasku tulee postissa. Ja vuoro alkaa jo tällä viikolla.
-Pedro: Hienoa, kiitos paljon!
-Huoltomies: Kiitos ja hei.
-```
+> Huoltomies: Huoltoyhtiö Jokinen.  
+> Pedro: Huomenta. Täällä on Pedro Riberio. Mä oon uusi asukas Puistotie 4:ssä.  
+> Huoltomies: Hei.  
+> Pedro: Tota... Mä haluaisin varata saunavuoron.  
+> Huoltomies: Selvä. Mikä teiän asunnon numero on?  
+> Pedro: C 32.  
+> Huoltomies: Okei, joo, Lahtinen ja Ribeiro?  
+> Pedro: Joo.  
+> Huoltomies: Hetkinen... Joo, teiän talon saunassa on vapaata vielä tiistaina kello 17 ja perjantaina kello 21. Kaikki muut vuorot on varattu.  
+> Pedro: Ahaa.... No, mä luulen, että me otetaan perjantai. Onks se tunnin vuoro?  
+> Huoltomies: Joo, kello 21-22. Se on sit 12 euroa kuussa.  
+> Pedro: Okei. Miten se maksetaan?  
+> Huoltomies: Lasku tulee postissa. Ja vuoro alkaa jo tällä viikolla.  
+> Pedro: Hienoa, kiitos paljon!  
+> Huoltomies: Kiitos ja hei.  
 
 ## s. 154
 
