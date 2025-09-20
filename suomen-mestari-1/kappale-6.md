@@ -1,6 +1,6 @@
 # Kappale 6
 
-> Pedro ja Hanna etsivät asuntoa, Muutto
+> Pedro ja Hanna etsivät asuntoa, Muutto  
 > - asuminen
 > - paikansijat
 > - Huoneessa on...
@@ -10,8 +10,8 @@
 
 ## s. 147
 
-> Pedro ja Hanna etsivät asuntoa
-
+> Pedro ja Hanna etsivät asuntoa  
+>
 > Asuntoilmoitus
 >
 > VUOKRALLE ANNETAAN
@@ -30,7 +30,7 @@
 >
 > Vuokranantaja Heikki Jussila, hpjussila@netbox.fi
 
-> Pedro: Hanna, katso, tämä näyttää hyvältä!
+> Pedro: Hanna, katso, tämä näyttää hyvältä!  
 > Hanna: Onko se kaksio?  
 > Pedro: Joo, on. 45 neliötä.  
 > Hanna: Missä päin se on?  
@@ -144,27 +144,34 @@
 
 ## s. 152
 
-```
-Kerrostalo
-Rivitalo
-Omakotitalo
+- Kerrostalo
+- Rivitalo
+- Omakotitalo
 
-Asunto
+- Asunto
+
+```
 yksiö, kaksio, kolmio
 vuokra-asunto
 omistusasunto
 opiskelija-asunto
 asukas
+```
 
-Asua Vuokralla
+- Asua Vuokralla
+
+```
 vuokrata (4) -> (vuokraan, vuokraat, vuokraa, vuokraamme, vuokraatte, vuokraavat)
 vuokra
 vuokrasopimus
 vuokranantaja
 vuokralainen
 takuuvuokra
+```
 
-Asuntoilmoitus
+- Asuntoilmoitus
+
+```
 2h = 2 huonetta
 oh = olohuone
 mh = makuuhuone
@@ -178,8 +185,10 @@ et = eteinen
 m2 = neliömetri
 kk = kuukausi
 näyttö
+```
 
-Talossa
+- Talossa
+```
 kerros
 ensimmäinen kerros
 toinen kerros
@@ -194,22 +203,22 @@ vinttikomero
 ulkoiluvälinevarasto
 pyörävarasto
 pesutupa
-
-Mihin?
-kotiin
-ulos
-sisään
-
-Missä?
-kotona
-ulkona
-sisällä
-
-Mistä?
-kotoa
-ulkoa
-sisälta
 ```
+
+- Mihin?
+> kotiin  
+> ulos  
+> sisään  
+
+- Missä?
+> kotona  
+> ulkona  
+> sisällä  
+
+- Mistä?
+> kotoa  
+> ulkoa  
+> sisälta  
 
 ## s. 153
 
@@ -233,8 +242,9 @@ Pedro soittaa huoltoyhtiöön.
 
 ## s. 154
 
-```
 Paikansijojen käyttö
+
+```
 sisällä
 Mies on autossa.
 He istuvat saunassa.
@@ -320,32 +330,31 @@ Minä asun vihreässä talossa.
 
 ## s. 156
 
-```
-mennä + mihin
-Hän menee kauppaan.
-Hän menee torille.
+- mennä + mihin
 
-Käydä + missä
-Hän käy kaupassa.
-Hän käy torilla.
+> Hän menee kauppaan.  
+> Hän menee torille.  
 
-Huoneessa on...
-Keittiössä on iso pöytä.
-Lattialla on matto.
-Honeessa on sohva, pöytä ja hylly.
-Suomessa on 5,5 miljoonaa ihmistä.
+- Käydä + missä
+> Hän käy kaupassa.  
+> Hän käy torilla.  
 
-Huoneessa ei ole + partitiivi
-Keittiössä ei ole isoa pöytä.
-Lattialla ei ole mattoa.
-Suomessa ei ole kuningasta.
-```
+- Huoneessa on...
+> Keittiössä on iso pöytä.  
+> Lattialla on matto.  
+> Honeessa on sohva, pöytä ja hylly.  
+> Suomessa on 5,5 miljoonaa ihmistä.  
+
+- Huoneessa ei ole + partitiivi
+> Keittiössä ei ole isoa pöytä.  
+> Lattialla ei ole mattoa.  
+> Suomessa ei ole kuningasta.  
 
 ## s. 157
 
-```
-Demonstratiivipronominit
+- Demonstratiivipronominit
 
+```
 tämä -> tää
 Tämä talo on minun kotitalo.
 
@@ -365,9 +374,9 @@ ne -> ne
 Ne maksavat 79 euroa.
 ```
 
-```
-Käskymuoto: sinä-persoona
+- Käskymuoto: sinä-persoona
 
+```
 luen -> Lue sivu 35! -> Älä lue ruokapöydässä.
 syön -> Syö hitaasti! -> Älä syö sokeria!
 tulen -> Tule kotiin! -> Älä tule viela!
@@ -377,24 +386,22 @@ valitsen -> Valitse väri! -> Älä valitse vihreä!
 
 ## Harjoitus 1
 
-```
-ai → Aina kun aivastan, kaipaan valppaita taistelutaitoja.
-ei → Hei Eine. Ei meillä ole teidän keiloja eikä eineksiä.
-oi → Voi miten hoikkia koiria! Voivatko ne saada poikasia?
-ui → Tuija oli uimassa. Nyt hän kuivaa tukkaa hiustenkuivaajalla.
-yi → On paljon syitä miksi minä inhoan kyitä. Hyi!
-äi → Äiti säikähti, kun näissä häissä näkyi mäkäräisiä.
-öi → Öisin he istuvat töissä ja tekstaavat kännyköillä.
-au → Kun aukaisen vetolaatikon, näen kauhoja, kaulimia ja jauhoja.
-eu → Europarlamentin keulakuva Teuvo Seuranen tulee Keuruulta.
-iu → Tiukennan viulun kielet ja viuhautan kiulusta vettä kiukaalle.
-ou → Toukokuussa koulussa opitaan joutavia outoja juttuja.
-äy → Käytetään äyskäriä ja täytetään amme käyttöä varten.
-öy → Köyhä töyhtöhyyppä tapasi pöyhkeän tukaanin.
-ie → Kielo ei vielä tiedä, mitä kieltä kievarissa puhutaan.
-uo → Tuohon tuodaan huomenna huokeita tuoretuotteita.
-yö → Älä lyö lyötyä vaan syö hyviä lihapyöryköitä.
-```
+> ai → Aina kun aivastan, kaipaan valppaita taistelutaitoja.  
+> ei → Hei Eine. Ei meillä ole teidän keiloja eikä eineksiä.  
+> oi → Voi miten hoikkia koiria! Voivatko ne saada poikasia?  
+> ui → Tuija oli uimassa. Nyt hän kuivaa tukkaa hiustenkuivaajalla.  
+> yi → On paljon syitä miksi minä inhoan kyitä. Hyi!  
+> äi → Äiti säikähti, kun näissä häissä näkyi mäkäräisiä.  
+> öi → Öisin he istuvat töissä ja tekstaavat kännyköillä.  
+> au → Kun aukaisen vetolaatikon, näen kauhoja, kaulimia ja jauhoja.  
+> eu → Europarlamentin keulakuva Teuvo Seuranen tulee Keuruulta.  
+> iu → Tiukennan viulun kielet ja viuhautan kiulusta vettä kiukaalle.  
+> ou → Toukokuussa koulussa opitaan joutavia outoja juttuja.  
+> äy → Käytetään äyskäriä ja täytetään amme käyttöä varten.  
+> öy → Köyhä töyhtöhyyppä tapasi pöyhkeän tukaanin.  
+> ie → Kielo ei vielä tiedä, mitä kieltä kievarissa puhutaan.  
+> uo → Tuohon tuodaan huomenna huokeita tuoretuotteita.  
+> yö → Älä lyö lyötyä vaan syö hyviä lihapyöryköitä.  
 
 ## Harjoitus 2
 
@@ -427,63 +434,54 @@ mennään → katsomaan
 
 ## Harjoitus 4
 
-```
-Missä Mäkelät syövät lounasta?
-Mäkelät syövät lounasta keittiössä.
+> Missä Mäkelät syövät lounasta?  
+> Mäkelät syövät lounasta keittiössä.  
 
-Mitä mies tekee pihalla?
-Hän nostaa monta ruskea laatikkoa autosta.
+> Mitä mies tekee pihalla?  
+> Hän nostaa monta ruskea laatikkoa autosta.  
 
-Miksi Emma ja Kalle menevät ulos?
-Koska he haluavat nähdä, mitä pihalla tapahtuu.
+> Miksi Emma ja Kalle menevät ulos?  
+> Koska he haluavat nähdä, mitä pihalla tapahtuu.  
 
-Mitä Pedro kantaa ylös?
-Hän kantaa tuolit ylös.
+> Mitä Pedro kantaa ylös?  
+> Hän kantaa tuolit ylös.  
 
-Onko Pedron asunnon ovi auki?
-Ei, asunnon ovi ei ole auki mutta hänen tyttöystävä on kotona.
-```
+> Onko Pedron asunnon ovi auki?  
+> Ei, asunnon ovi ei ole auki mutta hänen tyttöystävä on kotona.  
 
 ## Harjoitus 5
 
-```
-1. Pedro ja Hanna muuttavat uuteen asuntoon Puistotielle.
-2. Asunnossa 45 neliötä ja melko kallis vuokra.
-3. Mäkelän perhe asuu heidän naapurissa.
-4. Lapset auttavat Pedroa.
-5. Pedro kantaa tuolit kellariin.
-```
+> 1. Pedro ja Hanna muuttavat uuteen asuntoon Puistotielle.  
+> 2. Asunnossa 45 neliötä ja melko kallis vuokra.  
+> 3. Mäkelän perhe asuu heidän naapurissa.  
+> 4. Lapset auttavat Pedroa.  
+> 5. Pedro kantaa tuolit kellariin.  
 
 ## Harjoitus 6
 
-```
-Tässä talossa on kahdeksan kerrosta. Me menemme hissillä ylös.
-Tämä kauppaa on auki ma-pe klo 9-20.
-Tule sisään! Ovi on auki!
-Meidän sauna on kellarissa. Kun menen saunaan, menen alas.
-Kun sataa ja tulee, meidän ikkunat ovat kiinni.
-Kun on lämmin ilma, haluan mennä ulos ja istua auringossa.
-```
+> Tässä talossa on kahdeksan kerrosta. Me menemme hissillä **ylös**.  
+> Tämä kauppaa on **auki** ma-pe klo 9-20.  
+> Tule **sisään**! Ovi on auki!  
+> Meidän sauna on kellarissa. Kun menen saunaan, menen **alas**.  
+> Kun sataa ja tulee, meidän ikkunat ovat **kiinni**.  
+> Kun on lämmin ilma, haluan mennä **ulos** ja istua auringossa.  
 
 ## Harjoitus 7
 
-```
-A. Minä haluan syödä jotain hyvää.
-B. Niin minäkin. Ostetaanko jäätelöä?
-A. Hmm, minä en halua jäätelöä. Haluan pullaa.
-B. No, mennään sitten kahvilaan. Siellä sinä saat pullaa ja minä jäätelöä.
-A. Joo, mennään vaan.
+> A. Minä haluan syödä jotain hyvää.  
+> B. **Niin** minäkin. Ostetaanko jäätelöä?  
+> A. Hmm, minä en halua jäätelöä. Haluan pullaa.  
+> B. **No**, mennään sitten kahvilaan. Siellä sinä saat pullaa ja minä jäätelöä.  
+> A. Joo, mennään vaan.  
 
-A. Hei Elina, tiedätkö sinä, missä päin Katja asuu?
-B. En tiedä, mutta luulen että hän asuu Lehtelässä.
-A. Ahaa! Lehtelään on ihan lyhyt matka, vain 1,5 km.
-B. Niin on. Voimme kävellä.
-A. Kävellä? Mutta nyt sataa...
-B. Ei se mitään! Kävellään silti.
-```
+> A. Hei Elina, tiedätkö sinä, **missä päin** Katja asuu?  
+> B. En tiedä, mutta luulen että hän asuu Lehtelässä.  
+> A. Ahaa! Lehtelään on **ihan** lyhyt matka, **vain** 1,5 km.  
+> B. **Niin** on. Voimme kävellä.  
+> A. Kävellä? Mutta nyt sataa...  
+> B. Ei se mitään! Kävellään **silti**.  
 
 ## Harjoitus 8
-
 
 ```
 tuoli → j
@@ -502,26 +500,50 @@ kylpyamme → g
 
 ## Harjoitus 9
 
-```
-1. Hän asuu asunnossa ja maksaa vuokraa. → c. vuokralainen
-2. Vuokralainen maksaa 2 kk vuokran, kun hän muuttaa asuontoon. Hän saa rahat takaisin, kun hän muuttaa pois. → g. takuuvuokra
-3. Tosi pieni keittiö. → h. keittokomeri
-4. Täällä voit käydä suihkussa. → m. kylpyhuone
-5. Kerrostalon portaat. Esimerkiksi A, B ja C. → a. rappu
-6. Asunnossa on kolme huonetta. → b. kolmio
-7. Kuuma huone. → l. sauna
-8. Asunto on hänen ja vuokralainen maksaa hänelle vuokraa. → d. vuokranantaja
-9. Auton paikka pihalla. → e. parkkipaikka
-10. Jos talo on korkea, siinä on monta ... → f. kerros
-11. Pieni huone talon kellarissa. Siellä ei voi asua. → i. kellarikomero
-12. Asunnon hinta joka kuukausi. → j. vuokra
-13. 1 m pitkä ja 1 m leveä. → k. neliömetri
-```
+1. Hän asuu asunnossa ja maksaa vuokraa.
+c. vuokralainen
+
+2. Vuokralainen maksaa 2 kk vuokran, kun hän muuttaa asuontoon. Hän saa rahat takaisin, kun hän muuttaa pois.
+g. takuuvuokra
+
+3. Tosi pieni keittiö.  
+h. keittokomeri
+
+4. Täällä voit käydä suihkussa.  
+m. kylpyhuone
+
+5. Kerrostalon portaat. Esimerkiksi A, B ja C.  
+a. rappu
+
+6. Asunnossa on kolme huonetta.  
+b. kolmio
+
+7. Kuuma huone.  
+l. sauna
+
+8. Asunto on hänen ja vuokralainen maksaa hänelle vuokraa.  
+d. vuokranantaja
+
+9. Auton paikka pihalla.  
+e. parkkipaikka
+
+10. Jos talo on korkea, siinä on monta ...  
+f. kerros
+
+11. Pieni huone talon kellarissa. Siellä ei voi asua.  
+i. kellarikomero
+
+12. Asunnon hinta joka kuukausi.  
+j. vuokra
+
+13. 1 m pitkä ja 1 m leveä.  
+k. neliömetri
 
 ## Harjoitus 10
 
-```
-1. Minä olen Tiina ja asun vanhassa keltaisessa kerrostalossa Helsingin keskustassa. Minun asunto on pieni kaksio. Minä en asu yksin vaan Kaapon koiran kanssa. Kaapolla ei ole omaa huonetta vaan se nukkuu olohuoneessa matolla. Koska asunnossa ei ole parveketta, minä ja Kaapo menemme usein puistoon. Makuuhuone on aika iso mutta keittiö on pieni. Asunnossa ei ole työhuonetta mutta minä en tarvitse sitä. Olen töissä aina pitkään ja teen kaikki työt toimistossa. Joskus kirjoitan kotona sähköpostia ystäville ja siksi tietokone on keittiössä pienellä työpöydällä. Olohuoneessa on vain pieni punainen sohva ja kaksi pehmeää nojatuolia. Niin, ja tietysti myös sohvapöytä. Ruokapöytä on keittiössä ja kirjahylly makuuhuoneessa. Kylpyhuoneessa ei ole kylpyammetta, siellä on vain suihku. Pesukonetta minulla ei ole.
+> Minä olen Tiina ja asun vanhassa keltaisessa kerrostalossa Helsingin keskustassa. Minun asunto on pieni kaksio. Minä en asu yksin vaan Kaapon-koiran kanssa. Kaapolla ei ole omaa huonetta, vaan se nukkuu olohuoneessa matolla. Koska asunnossa ei ole parveketta, minä ja Kaapo menemme usein puistoon. Makuuhuone on aika iso, mutta keittiö on pieni. Asunnossa ei ole työhuonetta, mutta minä en tarvitse sitä. Olen töissä aina pitkään ja teen kaikki työt toimistossa. Joskus kirjoitan kotona sähköpostia ystäville ja siksi tietokone on keittiössä pienellä työpöydällä.
+>
+> Olohuoneessa on vain pieni punainen sohva ja kaksi pehmeää nojatuolia. Niin ja tietysti myös sohvapöytä. Ruokapöytä on keittiössä ja kirjahylly makuuhuoneessa. Kylpyhuoneessa ei ole kylpyammetta, siellä on vain suihku. Pesukonetta minulla ei ole.
 
 1. Tiina asuu vanhassa kerrostalossa. → Oikein
 2. Kaapo nukku makuuhuoneessa. → Väärin
@@ -529,110 +551,102 @@ kylpyamme → g
 4. Tietokone on keittiössä. → Oikein
 5. Olohuoneessa on vain sohva ja sohvapöytä. → Väärin
 6. Kylpyhuoneessa on suihku ja pesukone. → Väärin
-```
 
 ## Harjoitus 11
 
-```
-Mäkelän perhe asuu Puistotiellä, Helsingissä. Heidän koti on korkeassa harmaassa kerrostalossa. Valoisassa asunnossa on kolme huonetta, keittiö ja parveke. Asunnossa ei ole saunaa.
+> Mäkelän perhe asuu Puistotiellä, Helsingissä. Heidän koti on korkeassa harmaassa kerrostalossa. Valoisassa asunnossa on kolme huonetta, keittiö ja parveke. Asunnossa ei ole saunaa.
 
-Isossa lastenhuoneessa on kaksi sänkyä, vaatekaappi ja suuri vaaleanpunainen lelulaatikko. Emman lelut ovat laatikossa. Huoneessa on myös kirjoituspöytä ja työtuoli, koska Kalle on jo koulussa. Lattialla on pehmeä matto. Emma istuu usein matolla ja lukee kirjaa.
+> Isossa lastenhuoneessa on kaksi sänkyä, vaatekaappi ja suuri vaaleanpunainen lelulaatikko. Emman lelut ovat laatikossa. Huoneessa on myös kirjoituspöytä ja työtuoli, koska Kalle on jo koulussa. Lattialla on pehmeä matto. Emma istuu usein matolla ja lukee kirjaa.
 
-Isän ja äidin makuuhuoneessa on vain leveä sänky ja kaksi matalaa yöpöytää, koska huone on aika pieni. Seinällä on Emman ja Kallen valokuvat.
+> Isän ja äidin makuuhuoneessa on vain leveä sänky ja kaksi matalaa yöpöytää, koska huone on aika pieni. Seinällä on Emman ja Kallen valokuvat.
 
-Olohuone on valoisa ja viihtyisä. Siellä on ruskea sohva, kaksi vanhaa nojatuolia ja sohvapöytä. Televisio on isossa kirjahyllyssä. Mäkelät istuvat usein illalla sohvalla ja katsovat televisiota.
-```
+> Olohuone on valoisa ja viihtyisä. Siellä on ruskea sohva, kaksi vanhaa nojatuolia ja sohvapöytä. Televisio on isossa kirjahyllyssä. Mäkelät istuvat usein illalla sohvalla ja katsovat televisiota.
 
 ## Harjoitus 11-A
 
-```
 1. Missä Mäkelän perhe asuu?
-a. Poustitiellä, Espoossa
-b. mustassa kerrostalossa
-✓ c. valoisassa asunnossa
+> a. Poustitiellä, Espoossa  
+> b. mustassa kerrostalossa  
+> ✓ c. valoisassa asunnossa  
 
 2. Millainen asunto heillä on?
-a. yksiö
-b. kaksio
-✓ c. kolmio
+> a. yksiö  
+> b. kaksio  
+> ✓ c. kolmio  
 
 3. Mitä lastenhuoneessa on?
-✓ a. vaatekaappi
-b. sohva
-✓ c. matto
+> ✓ a. vaatekaappi  
+> b. sohva  
+> ✓ c. matto  
 
 4. Miksi lastenhuoneessa on kirjoituspöytä?
-a. Koska Emman lelut ovat pöydällä.
-✓ b. Koska Kalle on jo koulussa.
-c. Koska Emma lukee kirjaa.
+> a. Koska Emman lelut ovat pöydällä.  
+> ✓ b. Koska Kalle on jo koulussa.  
+> c. Koska Emma lukee kirjaa.  
 
 5. Mitä makuuhuoneessa on?
-a. vaatekaappi
-b. hylly
-✓ c. kaksi yöpöytää
+> a. vaatekaappi  
+> b. hylly  
+> ✓ c. kaksi yöpöytää  
 
 6. Millainen olohuone on?
-a. pimeä
-✓ b. vaolisa ja viihtyisä
-c. iso ja sotkuinen
-```
+> a. pimeä  
+> ✓ b. vaolisa ja viihtyisä  
+> c. iso ja sotkuinen  
 
 ## Harjoitus 11-B
 
-```
-1. Missä Mäkelän perhe asuu?
+1. Missä Mäkelän perhe asuu?  
 Mäkelän perhe asuu Puistotiellä.
 
-2. Onko asunnossa sauna?
+2. Onko asunnossa sauna?  
 Asunnossa ei ole saunaa.
 
-3. Miksi lastenhuoneessa on kirjoituspöytä ja työtuoli?
+3. Miksi lastenhuoneessa on kirjoituspöytä ja työtuoli?  
 Koska Kalle on jo koulussa.
 
-4. Missä Emma usein lukee kirjaa?
+4. Missä Emma usein lukee kirjaa?  
 Matolla.
 
-5. Mitä isän ja äidin makuuhoneen seinällä on?
+5. Mitä isän ja äidin makuuhoneen seinällä on?  
 Seinällä on Emman ja Kallen valokuvat.
 
-6. Millainen olohuone on?
+6. Millainen olohuone on?  
 Olohuone on valoisa ja viihtyisä.
 
-7. Missä televisio on?
+7. Missä televisio on?  
 Se on tv-tasossa.
-```
 
 ## Harjoitus 12
 
-```
 Malli:
-- Millainen nalle on?
-- Se on pieni, pehmeä, söpö ja vaaleanpunainen. Se on ihana!
 
-- Millainen timantti on?
-- Se on valoisa, iso, kova, kallis ja valkoinen. Se on ihana!
+> - Millainen nalle on?  
+> - Se on pieni, pehmeä, söpö ja vaaleanpunainen. Se on ihana!  
 
-- Millainen kynä on?
-- Se on lyhyt, vanha, huonokuntoinen, rikkinäinen ja punainen.
+> - Millainen timantti on?  
+> - Se on valoisa, iso, kova, kallis ja valkoinen. Se on ihana!  
 
-- Millainen vuori on?
-- Se on korkea, kylmä, suuri, ruskea ja valkoinen. Se on ihana!
+> - Millainen kynä on?  
+> - Se on lyhyt, vanha, huonokuntoinen, rikkinäinen ja punainen.  
 
-- Millainen mäyräkoira on?
-- Se on puhdas, leveä mutta lyhyt, ruskea ja kaunis.
+> - Millainen vuori on?  
+> - Se on korkea, kylmä, suuri, ruskea ja valkoinen. Se on ihana!  
 
-- Millainen aurinko on?
-- Se on pyöreä, valoisa, kuuma, kaunis, erittäin iso ja keltainen.
+> - Millainen mäyräkoira on?  
+> - Se on puhdas, leveä mutta lyhyt, ruskea ja kaunis.  
 
-- Millainen tunneli on?
-- Se on pimeä, pitkä ja hyväkuntoinen.
+> - Millainen aurinko on?  
+> - Se on pyöreä, valoisa, kuuma, kaunis, erittäin iso ja keltainen.  
 
-- Millainen sänky on?
-- Se on pehmeä, uusi, kallis, leveä, iso ja sininen.
+> - Millainen tunneli on?  
+> - Se on pimeä, pitkä ja hyväkuntoinen.  
 
-- Millainen juna on?
-- Se on tumman vihreä ja pitkä.
-```
+> - Millainen sänky on?  
+> - Se on pehmeä, uusi, kallis, leveä, iso ja sininen.  
+
+> - Millainen juna on?  
+> - Se on tumman vihreä ja pitkä.  
 
 ```
 hyvä ↔ huono
@@ -653,153 +667,142 @@ hyväkuntoinen ↔ huonokuntoinen
 
 ## Harjoitus 13
 
-```
-keittiö
-1. Aamulla, ei ole yleensä paljon aikaa, mutta isä herää aina kuudelta ja tekee aamupalaa. Hän ottaa ruokaa jääkaapista ja keittaa kahvia. Kun aamupala on valmis, koko perhe tule pöytään ja syö.
+1. Aamulla, ei ole yleensä paljon aikaa, mutta isä herää aina kuudelta ja tekee aamupalaa. Hän ottaa ruokaa jääkaapista ja keittaa kahvia. Kun aamupala on valmis, koko perhe tule pöytään ja syö.  
+**keittiö**
 
-työhuone
-2. Sirkka on opettaja. Hän opetta päivällä englantia ja illalla hän teke töitä kotona. Kaikki työpaperit ovat yhdessä huoneessa. Missä?
+2. Sirkka on opettaja. Hän opetta päivällä englantia ja illalla hän teke töitä kotona. Kaikki työpaperit ovat yhdessä huoneessa. Missä?  
+**työhuone**
 
-olohuone
-3. Syksyllä ja talvella on kiva istua kotona ja katsoa televisiota tai elokuvaa. Kaikki istuvat sohvalla. Kirjahyllyssä on paljon kirjoja. Joskus äiti ja isä lukevat kirjaa ja joskus koko perhe pelaa jotain lautapeliä.
+3. Syksyllä ja talvella on kiva istua kotona ja katsoa televisiota tai elokuvaa. Kaikki istuvat sohvalla. Kirjahyllyssä on paljon kirjoja. Joskus äiti ja isä lukevat kirjaa ja joskus koko perhe pelaa jotain lautapeliä.  
+**olohuone**
 
-eteinen
-4. Kun äiti tulee töistä kotiin, hän avaa oven ja näkee lattialla kaikki kengät ja kassit. Hän sanoo lapsille tämä ei ole kellari. Nyt heti kengät kaappiin.
+4. Kun äiti tulee töistä kotiin, hän avaa oven ja näkee lattialla kaikki kengät ja kassit. Hän sanoo lapsille tämä ei ole kellari. Nyt heti kengät kaappiin.  
+**eteinen**
 
-kylpyhuone
-5. Tero pelaa aina tiistaina jalkapalloa. Kello on jo paljon, kun hän tulee kotiin, joten hän menee heti suihkuun ja laittaa vaatteet pesukoneeseen. Sitten Tero pesee hampaat.
-```
+5. Tero pelaa aina tiistaina jalkapalloa. Kello on jo paljon, kun hän tulee kotiin, joten hän menee heti suihkuun ja laittaa vaatteet pesukoneeseen. Sitten Tero pesee hampaat.  
+**kylpyhuone**
 
 ## Harjoitus 14
 
-```
-Missä sinä asut?
-Minä asun Tampereella perheeni kanssa.
+> Missä sinä asut?  
+> Minä asun Tampereella perheeni kanssa.  
 
-Millä kadulla sinä asut?
-Minä asun Takamaanrinnella.
+> Millä kadulla sinä asut?  
+> Minä asun Takamaanrinnella.  
 
-Millaisessa talossa asut?
-Minä asun rivitalossa.
+> Millaisessa talossa asut?  
+> Minä asun rivitalossa.  
 
-Asutko kerrostalossa?
-Ei, asun rivitalossa.
+> Asutko kerrostalossa?  
+> Ei, asun rivitalossa.  
 
-Onko talossa hissi? Entä autotalli?
-Ei, minun talossani ei ole hissiä tai autotallia. Mutta minulla on autopaikka etupihällä.
+> Onko talossa hissi? Entä autotalli?  
+> Ei, minun talossani ei ole hissiä tai autotallia. Mutta minulla on autopaikka etupihällä.  
 
-Millainen asunto sinulla on?
-Minulla on valoisa mutta pieni neliö.
+> Millainen asunto sinulla on?  
+> Minulla on valoisa mutta pieni neliö.  
 
-Kuinka monta huonetta sinulla on?
-Minulla on neljä huonetta.
+> Kuinka monta huonetta sinulla on?  
+> Minulla on neljä huonetta.  
 
-Asutko yksin?
-Ei, asun perheeni kanssa.
+> Asutko yksin?  
+> Ei, asun perheeni kanssa.  
 
-Kenen kanssa sinä asut?
-Minä asun vaimon ja kahden lapsen kanssa.
+> Kenen kanssa sinä asut?  
+> Minä asun vaimon ja kahden lapsen kanssa.  
 
-Onko sinulla koira tai kissa?
-Ei, minulla ei ole koiraa tai kissaa.
+> Onko sinulla koira tai kissa?  
+> Ei, minulla ei ole koiraa tai kissaa.  
 
-Onko sinulla sauna?
-Kyllä, minulla on pieni sauna.
+> Onko sinulla sauna?  
+> Kyllä, minulla on pieni sauna.  
 
-Onko asunnossa parveke tai terassi?
-Joo, minun asunnossani on parveke mutta ei terassia.
+> Onko asunnossa parveke tai terassi?  
+> Joo, minun asunnossani on parveke mutta ei terassia.  
 
-Mitä sinun olohuoneessa on?
-Minun olohuoneessani on televisio, yksi sohva ja nojatuoli, ruokapöytä ja kirjakaappi.
+> Mitä sinun olohuoneessa on?  
+> Minun olohuoneessani on televisio, yksi sohva ja nojatuoli, ruokapöytä ja kirjakaappi.  
 
-Kuka on sinun naapuri?
-Minun naapuri on perhe, isä, äiti ja heidän tyttö.
-```
+> Kuka on sinun naapuri?  
+> Minun naapuri on perhe, isä, äiti ja heidän tyttö.  
 
 ## Harjoitus 15
 
-```
-A.
-1. Tyttö istuu bussissa.
-2. Pizza on uunissa.
-3. Vaatteet ovat vaattekaapissa.
-4. Radio on hyllyllä.
-5. Silmälasit ovat yöpöydällä.
-6. Ville ja Liisa kävelät kadulla.
+- A.
+> 1. Tyttö istuu **bussissa**.  
+> 2. Pizza on **uunissa**.  
+> 3. Vaatteet ovat **vaattekaapissa**.  
+> 4. Radio on **hyllyllä**.  
+> 5. Silmälasit ovat **yöpöydällä**.  
+> 6. Ville ja Liisa kävelät **kadulla**.  
 
-B.
-1. Maio on jäälaapissa.
-2. Isä on jääkaapilla.
-3. Naula on seinässä.
-4. Taulu on seinällä.
-5. Mikko ui uimahallissa.
-6. Äiti odottaa Mikko uimahallilla.
-```
+- B.
+> 1. Maio on **jäälaapissa**.  
+> 2. Isä on **jääkaapilla**.  
+> 3. Naula on **seinässä**.  
+> 4. Taulu on **seinällä**.  
+> 5. Mikko ui **uimahallissa**.  
+> 6. Äiti odottaa Mikko **uimahallilla**.  
 
 ## Harjoitus 16
 
-```
 A. Missä puhelin voi olla?
-kassissa
-hyllyllä
-lattialla
-pöydällä
-pussissa
+> kassissa  
+> hyllyllä  
+> lattialla  
+> pöydällä  
+> pussissa  
 
 B. Missä Matias voi olla?
-uimahallilla
-kurssilla
-Kuopiossa
-torilla
-asemalla
-```
+> uimahallilla  
+> kurssilla  
+> Kuopiossa  
+> torilla  
+> asemalla  
 
 ## Harjoitus 17
 
-```
-Missä pallo on?
-Pallo on matolla.
+> Missä pallo on?  
+> Pallo on matolla.  
 
-Missä kissa on?
-Kissa on ikkunan edessä.
+> Missä kissa on?  
+> Kissa on ikkunan edessä.  
 
-Missä on poika?
-Poika on ovella ja tulossa huoneeseen.
+> Missä on poika?  
+> Poika on ovella ja tulossa huoneeseen.  
 
-Missä on televisio?
-Televisio on tv-tasolla.
+> Missä on televisio?  
+> Televisio on tv-tasolla.  
 
-Missä on isoisä?
-Isoisä istuu sohvalla.
+> Missä on isoisä?  
+> Isoisä istuu sohvalla.  
 
-Missä on kahvikuppi?
-Kahvikuppi on pöydällä.
+> Missä on kahvikuppi?  
+> Kahvikuppi on pöydällä.  
 
-Missä on koira?
-Koira nukkuu nojatuolilla.
+> Missä on koira?  
+> Koira nukkuu nojatuolilla.  
 
-Missä on vauva?
-Vauva leikkii matolla.
+> Missä on vauva?  
+> Vauva leikkii matolla.  
 
-Missä on kenkä?
-Kenkä on huoneessa.
+> Missä on kenkä?  
+> Kenkä on huoneessa.  
 
-Missä on kissa?
-Kissa on laatikossa.
+> Missä on kissa?  
+> Kissa on laatikossa.  
 
-Missä on kamera?
-Kamera on kirjahyllyssä.
+> Missä on kamera?  
+> Kamera on kirjahyllyssä.  
 
-Missä silmälasit ovat?
-Silmälasit ovat kirjahyllyllä.
+> Missä silmälasit ovat?  
+> Silmälasit ovat kirjahyllyllä.  
 
-Missä radio on?
-Radio on hyllyllä.
-```
+> Missä radio on?  
+> Radio on hyllyllä.  
 
 ## Harjoitus 18
 
-```
 - Kuvassa 1 roskakorissa on paperi. Kuvassa 2 roskakorissa ei ole paperia.
 - Kuvassa 1 banaani ei ole pöydällä mutta kuvassa 2 banaani on pöydällä.
 - Kuvassa 1 yksi kynä on laatikossa mutta kuvassa 2 neljä kynää on laatikossa.
@@ -810,21 +813,18 @@ Radio on hyllyllä.
 - Kuvassa 1 valokuvat ovat kirjahyllyssä mutta kuvassa 2 valokuvat eivät ole kirjahyllyssä.
 - Kuvassa 1 taulu on seinällä mutta kuvassa 2 taulu ei ole seinällä.
 - Kuvassa 1 ovi on huoneessa mutta kuvassa 2 ovi ei ole huoneessa.
-```
 
 ## Harjoitus 19
 
-```
-Minun kotini on rivitalo Tampereella, kaksi kerrosta ja se on neliö. Kodissa on keittiö, olohuone, makuuhuone ja kaksi lastenhuonetta. Kodissa ei ole hissiä.
+> Minun kotini on rivitalo Tampereella, kaksi kerrosta ja se on neliö. Kodissa on keittiö, olohuone, makuuhuone ja kaksi lastenhuonetta. Kodissa ei ole hissiä.
 
-Olohuoneessa on televisio tv-tasolla, sohva, kirjakaappi ja nojatuoli. Keittiö on melko pieni. Siellä on ruokapöytä, astianpesukone, jääkaappi, hella ja uuni. Siellä on myös kahvinkeitin ja vedenkeitin.
+> Olohuoneessa on televisio tv-tasolla, sohva, kirjakaappi ja nojatuoli. Keittiö on melko pieni. Siellä on ruokapöytä, astianpesukone, jääkaappi, hella ja uuni. Siellä on myös kahvinkeitin ja vedenkeitin.
 
-Makuuhuone ja lastenhuoneet ovat yläkerrassa. Makuuhuoneessa on sänky ja kaappi. Siellä on myös lamppu yöpöydällä.
+> Makuuhuone ja lastenhuoneet ovat yläkerrassa. Makuuhuoneessa on sänky ja kaappi. Siellä on myös lamppu yöpöydällä.
 
-Kylpyhuone on yläkerrassa myös ja pesukone on kylpyhuoneessa. Siellä on myös peili, pesuallas ja suihku.
+> Kylpyhuone on yläkerrassa myös ja pesukone on kylpyhuoneessa. Siellä on myös peili, pesuallas ja suihku.
 
-Lastenhuone on melko pieni mutta siellä on lasten sänky, kirjahylly ja työpöytä koska lapset menevät kouluun. Lattialla on matto.
-```
+> Lastenhuone on melko pieni mutta siellä on lasten sänky, kirjahylly ja työpöytä koska lapset menevät kouluun. Lattialla on matto.
 
 ## Harjoitus 20
 
@@ -875,132 +875,119 @@ bussipysäkkiltä
 
 ## Harjoitus 21
 
-```
-1.
-Hän menee ravintolaan.
-Hän on ravintolassa.
-Hän tulee ravintolasta.
+1. Hän menee ravintolaan.  
+Hän on ravintolassa.  
+Hän tulee ravintolasta.  
 
-2.
-Hän menee suihkuun.
-Hän on suihkussa.
-Hän tulee suihkusta.
+2. Hän menee suihkuun.  
+Hän on suihkussa.  
+Hän tulee suihkusta.  
 
-3.
-Hän menee kadulle.
-Hän on kadulla.
-Hän tulee kadulta.
+3. Hän menee kadulle.  
+Hän on kadulla.  
+Hän tulee kadulta.  
 
-4.
-Hän menee torille.
-Hän on torilla.
-Hän tulee torilta.
+4. Hän menee torille.  
+Hän on torilla.  
+Hän tulee torilta.  
 
-5.
-Hän menee Helsinkiin.
-Hän on Helsingissä.
-Hän tulee Helsingistä.
+5. Hän menee Helsinkiin.  
+Hän on Helsingissä.  
+Hän tulee Helsingistä.  
 
-6.
-Hän menee kassalle.
-Hän on kassalla.
-Hän tulee kassalta.
-```
+6. Hän menee kassalle.  
+Hän on kassalla.  
+Hän tulee kassalta.  
 
 ## Harjoitus 22-A
 
-```
-Jani ja Jussi matkustavat Suomesta Ranskaan.
-Ranskasta he matkustavat Egyptiin.
-Egyptistä he matkustavat Intiaan.
-Intiasta he matkustavat Kiinaan.
-Kiinasta he matkustavat Australiaan.
-Australiasta he matkustavat Tansaniaan.
-Tansaniasta he matkustavat Marokkoon.
-Marokosta he matkustavat Argentiinaan.
-Argentiinasta he matkustavat Ecuadoroon.
-Ecuadorosta he matkustavat Meksikoon.
-Meksikosta he matkustavat Kanadaan.
-Kanadasta he matkustavat Suomeen.
-```
+Jani ja Jussi matkustavat Suomesta Ranskaan.  
+Ranskasta he matkustavat Egyptiin.  
+Egyptistä he matkustavat Intiaan.  
+Intiasta he matkustavat Kiinaan.  
+Kiinasta he matkustavat Australiaan.  
+Australiasta he matkustavat Tansaniaan.  
+Tansaniasta he matkustavat Marokkoon.  
+Marokosta he matkustavat Argentiinaan.  
+Argentiinasta he matkustavat Ecuadoroon.  
+Ecuadorosta he matkustavat Meksikoon.  
+Meksikosta he matkustavat Kanadaan.  
+Kanadasta he matkustavat Suomeen.  
 
 ## Harjoitus 22-b
 
-```
-Kissa hyppää hyllyltä nojatuolille.
-Nojatuolilta se hyppää mattolle.
-Mattolta se hyppää tuolille.
-Tuolilta se hyppää sohvapöydälle.
-Sohvapöydältä se hyppää ruokapöydälle.
-Ruokapöydältä se hyppää sohvalle.
-Sohvalta se hyppää sängylle.
-Sängyltä se hyppää hyllylle.
-```
+Kissa hyppää hyllyltä nojatuolille.  
+Nojatuolilta se hyppää mattolle.  
+Mattolta se hyppää tuolille.  
+Tuolilta se hyppää sohvapöydälle.  
+Sohvapöydältä se hyppää ruokapöydälle.  
+Ruokapöydältä se hyppää sohvalle.  
+Sohvalta se hyppää sängylle.  
+Sängyltä se hyppää hyllylle.  
 
 ## Harjoitus 23
 
-```
-Mihin?
-1. Äiti ja Emma menevät moderniin uimahalliin.
-2. Me menemme viihtyisälle terassille.
-3. Perhe menee kuumaan saunaan.
-4. Alex menee isolle lentoasemalle.
+**Mihin?**
 
-Missä?
-5. Kukka on matalalla pöydällä.
-6. Perhe istuu valoisassa keittiössä.
-7. Me asumme isossa kaupungissa.
-8. Autot ajavat kapealla kadulla.
+1. Äiti ja Emma menevät **moderniin uimahalliin**.
+2. Me menemme **viihtyisälle terassille**.
+3. Perhe menee **kuumaan saunaan**.
+4. Alex menee **isolle lentoasemalle**.
 
-Mistä?
-9. He tulevat hyvästä ravintolasta.
-10. Äiti tulee isolta torilta.
-11. Albert on kotoisin Göteborgista.
-12. Opiskelijat tulevat kotiin kivalta kurssilta.
-```
+**Missä?**
+
+5. Kukka on **matalalla pöydällä**.
+6. Perhe istuu **valoisassa keittiössä**.
+7. Me asumme **isossa kaupungissa**.
+8. Autot ajavat **kapealla kadulla**.
+
+**Mistä?**
+
+9. He tulevat **hyvästä ravintolasta**.
+10. Äiti tulee **isolta torilta**.
+11. Albert on kotoisin **Göteborgista**.
+12. Opiskelijat tulevat kotiin **kivalta kurssilta**.
 
 ## Harjoitus 24
 
-```
-1. Missä Pedro, Hanna ja Makelät asuvat?
-He asuvat Puistokadulla.
+1. Missä Pedro, Hanna ja Makelät asuvat?  
+He asuvat **Puistotiellä**.
 
-2. Mihin Hanna menee aamulla?
-Hän menee suihkuun.
+2. Mihin Hanna menee aamulla?  
+Hän menee **suihkuun**.
 
-3. Mihin Hanna menee, kun hän lähtee junalla keskustaan?
-Hän kävelee Lehtelän asemalle.
+3. Mihin Hanna menee, kun hän lähtee junalla keskustaan?  
+Hän kävelee Lehtelän **asemalle**.
 
-4. Mistä Pedro tulee illalla?
-Hän tulee kurssilta.
+4. Mistä Pedro tulee illalla?  
+Hän tulee **kurssilta**.
 
-5. Missä Makelän perhe syö aamupalaa?
-He syövät aamupalaa keittiössä.
+5. Missä Makelän perhe syö aamupalaa?  
+He syövät aamupalaa **keittiössä**.
 
-6. Mihin Kalle menee aamulla?
-Hän menee kouluun.
+6. Mihin Kalle menee aamulla?  
+Hän menee **kouluun**.
 
-7. Mistä Kalle tulee pyörällä?
-Hän tulee koulusta.
+7. Mistä Kalle tulee pyörällä?  
+Hän tulee **koulusta**.
 
-8. Mihin isä kävelee ensin, kun hän lähtee töihin bussilla?
-Hän kävelee bussipysäkkille.
+8. Mihin isä kävelee ensin, kun hän lähtee töihin bussilla?  
+Hän kävelee **bussipysäkkille**.
 
-9. Missä Emman ja Kallen isä on töissä?
-Hän on töissä ravintolassa.
+9. Missä Emman ja Kallen isä on töissä?  
+Hän on töissä **ravintolassa**.
 
-10. Mistä Emma ja äiti tulevat?
-He tulevat kaupasta.
+10. Mistä Emma ja äiti tulevat?  
+He tulevat **kaupasta**.
 
-11. Missä kauppa on?
-Se on Merikadulla.
+11. Missä kauppa on?  
+Se on **Merikadulla**.
 
-12. Mistä Kalle tulee jalkapallon kanssa?
-Hän tulee pihalta.
+12. Mistä Kalle tulee jalkapallon kanssa?  
+Hän tulee **pihalta**.
 
-13. Missä perhe istuu illalla?
-He istuvat sohvalla.
-```
+13. Missä perhe istuu illalla?  
+He istuvat **sohvalla**.
 
 ## Harjoitus 25
 
