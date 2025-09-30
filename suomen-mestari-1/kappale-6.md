@@ -451,11 +451,11 @@ mennään → katsomaan
 
 ## Harjoitus 5
 
-> 1. Pedro ja Hanna muuttavat uuteen asuntoon Puistotielle.  
-> 2. Asunnossa 45 neliötä ja melko kallis vuokra.  
-> 3. Mäkelän perhe asuu heidän naapurissa.  
-> 4. Lapset auttavat Pedroa.  
-> 5. Pedro kantaa tuolit kellariin.  
+1. Pedro ja Hanna muuttavat uuteen asuntoon Puistotielle.  
+2. Asunnossa 45 neliötä ja melko kallis vuokra.  
+3. Mäkelän perhe asuu heidän naapurissa.  
+4. Lapset auttavat Pedroa.  
+5. Pedro kantaa tuolit kellariin.  
 
 ## Harjoitus 6
 
@@ -500,10 +500,10 @@ kylpyamme → g
 
 ## Harjoitus 9
 
-1. Hän asuu asunnossa ja maksaa vuokraa.
+1. Hän asuu asunnossa ja maksaa vuokraa.  
 c. vuokralainen
 
-2. Vuokralainen maksaa 2 kk vuokran, kun hän muuttaa asuontoon. Hän saa rahat takaisin, kun hän muuttaa pois.
+2. Vuokralainen maksaa 2 kk vuokran, kun hän muuttaa asuontoon. Hän saa rahat takaisin, kun hän muuttaa pois.  
 g. takuuvuokra
 
 3. Tosi pieni keittiö.  
@@ -804,15 +804,15 @@ B. Missä Matias voi olla?
 ## Harjoitus 18
 
 - Kuvassa 1 roskakorissa on paperi. Kuvassa 2 roskakorissa ei ole paperia.
-- Kuvassa 1 banaani ei ole pöydällä mutta kuvassa 2 banaani on pöydällä.
-- Kuvassa 1 yksi kynä on laatikossa mutta kuvassa 2 neljä kynää on laatikossa.
-- Kuvassa 1 paljon kirjoja on hyllyllä mutta kuvassa 2 kirjoja ei ole hyllyllä.
-- Kuvassa 1 pallo ei ole kaapissa mutta kuvassa 2 pallo on kaapissa.
-- Kuvassa 1 kissa on sängyllä mutta kuvassa 2 kissa ei ole sängyllä.
-- Kuvassa 1 herätyskello on yöpöydällä mutta kuvassa 2 herätyskello ei ole yöpöydällä.
-- Kuvassa 1 valokuvat ovat kirjahyllyssä mutta kuvassa 2 valokuvat eivät ole kirjahyllyssä.
-- Kuvassa 1 taulu on seinällä mutta kuvassa 2 taulu ei ole seinällä.
-- Kuvassa 1 ovi on huoneessa mutta kuvassa 2 ovi ei ole huoneessa.
+- Kuvassa 1 pöydällä ei ole banaania, mutta kuvassa 2 pöydällä on banaani.
+- Kuvassa 1 laatikossa on yksi kynä, mutta kuvassa 2 laatikossa on neljä kynää.
+- Kuvassa 1 hyllyllä on paljon kirjoja, mutta kuvassa 2 hyllyllä ei ole kirjoja.
+- Kuvassa 1 kaapissa ei ole palloa, mutta kuvassa 2 kaapissa on pallo.
+- Kuvassa 1 sängyllä on kissa, mutta kuvassa 2 sängyllä ei ole kissaa.
+- Kuvassa 1 yöpöydällä on herätyskello, mutta kuvassa 2 yöpöydällä ei ole herätyskelloa.
+- Kuvassa 1 kirjahyllyssä on valokuvia, mutta kuvassa 2 kirjahyllyssä ei ole valokuvia.
+- Kuvassa 1 seinällä on taulu, mutta kuvassa 2 seinällä ei ole taulua.
+- Kuvassa 1 huoneessa on ovi, mutta kuvassa 2 huoneessa ei ole ovea.
 
 ## Harjoitus 19
 
