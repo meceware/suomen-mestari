@@ -991,151 +991,137 @@ He istuvat **sohvalla**.
 
 ## Harjoitus 25
 
-```
-1. Missä sinä olet?
+1. Missä sinä olet?  
 Olen kahvilassa.
 
-2. Missä sinä olet?
+2. Missä sinä olet?  
 Olen kadulla.
 
-3. Mihin sinä olet?
+3. Mihin sinä olet?  
 Olen kouluun.
 
-4. Mistä sinä tulet?
+4. Mistä sinä tulet?  
 Tulen isolta torilta.
 
-5. Mihin sinä menet?
+5. Mihin sinä menet?  
 Menen rannalle.
 
-6. Mistä sinä tulet?
+6. Mistä sinä tulet?  
 Tulen apteekista.
 
-7. Mistä sinä tulet?
+7. Mistä sinä tulet?  
 Tulen kurssilta.
 
-8. Missä sinä olet?
+8. Missä sinä olet?  
 Olen isossa ravintolassa.
 
-9. Missä sinä olet?
+9. Missä sinä olet?  
 Olen pitkällä matkalla.
 
-10. Mihin sinä menet?
+10. Mihin sinä menet?  
 Menen kivalle kurssille.
 
-11. Mihin sinä menet?
+11. Mihin sinä menet?  
 Menen mukavaan ravintolaan.
 
-12. Mistä sinä tulet?
+12. Mistä sinä tulet?  
 Tulen kylmästä maasta.
 
-13. Mistä sinä tulet?
+13. Mistä sinä tulet?  
 Tulen kuumasta saunasta.
 
-14. Mihin sinä menet?
+14. Mihin sinä menet?  
 Menen teatteriin.
-```
 
 ## Harjoitus 26-A
 
-```
-Rouva Anneli Wigren on eläkkeellä. Hän asuu 1. *Turussa* (TURKU). Koska hänellä on paljon aikaa, hän matkustaa paljon. Kesällä hän on yleensä 2. *lomalla* (LOMA) Italiassa ja talvella 3. *Lapissa* (LAPPI).
+Rouva Anneli Wigren on eläkkeellä. Hän asuu *1.* **Turussa** (TURKU). Koska hänellä on paljon aikaa, hän matkustaa paljon. Kesällä hän on yleensä *2.* **lomalla** (LOMA) Italiassa ja talvella *3.* **Lapissa** (LAPPI).
 
-Tänä viikonloppuna hän matkustaa 4. *Turusta* (TURKU) 5. *Helsinkiin* (HELSINKI) junalla. Matka kestää 2 tuntia. 6. *Matkalla* (MATKA) Anneli lukee kirjaa.
+Tänä viikonloppuna hän matkustaa *4.* **Turusta** (TURKU) *5.* **Helsinkiin** (HELSINKI) junalla. Matka kestää 2 tuntia. *6.* **Matkalla** (MATKA) Anneli lukee kirjaa.
 
-7. *Helsingissä* (HELSINKI) hän kävelee ensin 8. *isolla kauppakadulla* (ISO KAUPPAKATU) ja ostaa pari vaatetta. Koska on hyvä ilma, hän menee kahvilan 9. *terasille* (TERASSI) ja juo kahvia ja syö suklaakakkua.
+*7.* **Helsingissä** (HELSINKI) hän kävelee ensin *8.* **isolla kauppakadulla** (ISO KAUPPAKATU) ja ostaa pari vaatetta. Koska on hyvä ilma, hän menee kahvilan *9.* **terasille** (TERASSI) ja juo kahvia ja syö suklaakakkua.
 
-Iltapäivällä Annelin ystävä Marica tulee 10. *keskutaan* (KESKUSTA) ja he menevät yhdessä 11. *hyvään ravintolaan* (HYVÄ RAVINTOLA). He syövät ja juovat hyvin. Illalla he menevät 12. *oopperaan* (OOPPERA). Oopperatalo on 13. *Mannerheimintiellä* (MANNERHEIMINTIE). Kun ooppera loppuu, Anneli lähtee 14. *Opperatalolta* (OOPPERATALO) taksilla Lehtelään. Hän yöpyy siellä Pedron ja Hannan kotona. Hanna on Annelin lapsenlapsi.
-```
+Iltapäivällä Annelin ystävä Marica tulee *10.* **keskutaan** (KESKUSTA) ja he menevät yhdessä *11.* **hyvään ravintolaan** (HYVÄ RAVINTOLA). He syövät ja juovat hyvin. Illalla he menevät *12.* **oopperaan** (OOPPERA). Oopperatalo on *13.* **Mannerheimintiellä** (MANNERHEIMINTIE). Kun ooppera loppuu, Anneli lähtee *14.* **Opperatalolta** (OOPPERATALO) taksilla Lehtelään. Hän yöpyy siellä Pedron ja Hannan kotona. Hanna on Annelin lapsenlapsi.
 
 ## Harjoitus 26-B
 
-```
-Anneli nukkuu Hannan ja Pedron olohuoneessa 1. *pehmeällä sohvalla* (PEHMEÄ SOHVA). Aamulla Anneli, Hanna ja Pedro syövät aamupalaa 2. *keittiössä* (KEITTIÖ). Sitten Hanna lähtee töihin.
+Anneli nukkuu Hannan ja Pedron olohuoneessa *1.* **pehmeällä sohvalla** (PEHMEÄ SOHVA). Aamulla Anneli, Hanna ja Pedro syövät aamupalaa *2.* **keittiössä** (KEITTIÖ). Sitten Hanna lähtee töihin.
 
-Anneli ja Pedro menevät 3. *pihalle* (PIHA), koska on hyvä ilma. He istuvat 4. *penkillä* (PENKKI) ja puhuvat. Pedro tekee kotitehtäviä, koska hän on suomen 5. *kurssilla* (KURSSI). Anneli auttaa häntä.
+Anneli ja Pedro menevät *3.* **pihalle** (PIHA), koska on hyvä ilma. He istuvat *4.* **penkillä** (PENKKI) ja puhuvat. Pedro tekee kotitehtäviä, koska hän on suomen *5.* **kurssilla** (KURSSI). Anneli auttaa häntä.
 
-Sunnuntaina Hannalla on vapaapäivä. Anneli ja Hanna menevät yhdessä museoon 6. *Espooseen* (ESPOO).
-7. *Kotona* (KOTI) Pedro tekee ruokaa. Kun Anneli ja Hanna tulevat 8. *Espoosta* (ESPOO), he syövät spagettia.
+Sunnuntaina Hannalla on vapaapäivä. Anneli ja Hanna menevät yhdessä museoon *6.* **Espooseen** (ESPOO).
+*7.* **Kotona** (KOTI) Pedro tekee ruokaa. Kun Anneli ja Hanna tulevat *8.* **Espoosta** (ESPOO), he syövät spagettia.
 
-Illalla Hanna ja Pedro kävelevät Annelin kanssa 9. *asemalle* (ASEMA). Juna lähtee klo 19.15. Anneli matkustaa takaisin 10. *kotiin* (KOTI) Turkuun. Pedro ja Hanna sanovat Annelille "Hyvää matkaa" ja sitten he kävelevät 11. *asemalta* (ASEMA) takaisin kotiin.
-```
+Illalla Hanna ja Pedro kävelevät Annelin kanssa *9.* **asemalle** (ASEMA). Juna lähtee klo 19.15. Anneli matkustaa takaisin *10.* **kotiin** (KOTI) Turkuun. Pedro ja Hanna sanovat Annelille "Hyvää matkaa" ja sitten he kävelevät *11.* **asemalta** (ASEMA) takaisin kotiin.
 
 ## Harjoitus 26-C
 
-```
-Here's all the text from the image, formatted as it appears:
-
-1. Missä Anneli Wigren on lomalla kesällä?
-  a. Helsingissä
-✓ b. Italiassa
+1. Missä Anneli Wigren on lomalla kesällä?  
+  a. Helsingissä  
+✓ b. Italiassa  
   c. Lapissa
 
-2. Mihin Anneli matkustaa tänä viikonloppuna?
-  a. Turkuun
-✓ b. Helsinkiin
+2. Mihin Anneli matkustaa tänä viikonloppuna?  
+  a. Turkuun  
+✓ b. Helsinkiin  
   c. Italiaan
 
-3. Mitä Anneli tekee isolla kauppakadulla Helsingissä?
-  a. Hän juo kahvia.
-  b. Hän lukee kirjaa.
+3. Mitä Anneli tekee isolla kauppakadulla Helsingissä?  
+  a. Hän juo kahvia.  
+  b. Hän lukee kirjaa.  
 ✓ c. Hän ostaa pari vaatetta.
 
-4. Kuka Marica on?
-  a. Annelin lapsenlapsi
-✓ b. Annelin ystävä
+4. Kuka Marica on?  
+  a. Annelin lapsenlapsi  
+✓ b. Annelin ystävä  
   c. Pedron ystävä.
 
-5. Missä Anneli yöpyy?
-✓ a. Sohvalla olohuoneessa.
-  b. Marican kotona.
+5. Missä Anneli yöpyy?  
+✓ a. Sohvalla olohuoneessa.  
+  b. Marican kotona.  
   c. Oopperassa.
 
-6. Miksi Anneli auttaa Pedroa?
-  a. Koska on hyvä ilma.
-  b. Koska he tekevät ruokaa.
+6. Miksi Anneli auttaa Pedroa?  
+  a. Koska on hyvä ilma.  
+  b. Koska he tekevät ruokaa.  
 ✓ c. Koska Pedro tekee suomen kurssin kotitehtäviä.
 
-7. Mihin Anneli ja Hanna menevät sunnuntaina?
-  a. töihin
-  b. kauppaan
+7. Mihin Anneli ja Hanna menevät sunnuntaina?  
+  a. töihin  
+  b. kauppaan  
 ✓ c. museoon.
-```
 
 ## Harjoitus 27
 
-```
-- Mistä sinä tulet nyt?
-- Tulen Brysselistä, Belgiasta.
-- Aha! Minä tulen Roomasta.
-- Ai! Roomasta, voi! Rooma on niin kaunis vanha kaupunki.
-- Joo, onhan se! Mutta täällä Frankfurtissa ei ole nyt ollenkaan kaunista kun sataa ja on sumuista. Tulitko sinä tänne lomalle?
-- En, minä jatkan matkaa illalla, entä sinä?
-- Minä olen Frankfurtissa työmatkalla. Olen täällä yhdessä konferenssissä.
-- Aha!
-- Mutta sinä matkustat eteenpäin. Mihin sinä lennät illalla?
-- Lennän ensin Helsingiin ja siellä olemme pari tuntia. Sitten lentokone jatkaa Tokioon Japaniin.
-- Oi! Sinulla on sitten kaksi pitkää lentoa.
-- Niin on! Mutta entä sinä kun konferenssi loppuu, matkustatko takaisin Italiaan?
-- Ei, en palaa vielä Roomaan, vaan jatkan täältä perjantaina Pariisiin. Se on onneksi tosi lyhyt lento. Vain puoli tuntia.
-- Joo, niin on!
-```
+`Mies:` Mistä sinä tulet nyt?  
+`Nainen:` Tulen Brysselistä, Belgiasta.  
+`Mies:` Aha! Minä tulen Roomasta.  
+`Nainen:` Ai! Roomasta, voi! Rooma on niin kaunis vanha kaupunki.  
+`Mies:` Joo, onhan se! Mutta täällä Frankfurtissa ei ole nyt ollenkaan kaunista kun sataa ja on sumuista. Tulitko sinä tänne lomalle?  
+`Nainen:` En, minä jatkan matkaa illalla, entä sinä?  
+`Mies:` Minä olen Frankfurtissa työmatkalla. Olen täällä yhdessä konferenssissä.  
+`Nainen:` Aha!  
+`Mies:` Mutta sinä matkustat eteenpäin. Mihin sinä lennät illalla?  
+`Nainen:` Lennän ensin Helsingiin ja siellä olemme pari tuntia. Sitten lentokone jatkaa Tokioon Japaniin.  
+`Mies:` Oi! Sinulla on sitten kaksi pitkää lentoa.  
+`Nainen:` Niin on! Mutta entä sinä kun konferenssi loppuu, matkustatko takaisin Italiaan?  
+`Mies:` Ei, en palaa vielä Roomaan, vaan jatkan täältä perjantaina Pariisiin. Se on onneksi tosi lyhyt lento. Vain puoli tuntia.  
+`Nainen:` Joo, niin on!  
 
-```
-1. Mistä mies tulee?
+1. Mistä mies tulee?  
 Mies tulee Roomasta.
 
-2. Mistä nainen tulee?
+2. Mistä nainen tulee?  
 Nainen tulee Brysselistä, Belgiasta.
 
-3. Missä he ovat?
+3. Missä he ovat?  
 He ovat nyt Frankfurtissa.
 
-4. Mihin mies lentää?
+4. Mihin mies lentää?  
 Mies lentää Pariisiin.
 
-5. Mihin nainen lentää?
+5. Mihin nainen lentää?  
 Nainen lentää ensin Helsinkiin ja sitten Tokioon Japaniin.
-```
 
 ## Harjoitus 28
 
@@ -1154,156 +1140,135 @@ Nainen lentää ensin Helsinkiin ja sitten Tokioon Japaniin.
 
 ## Harjoitus 29
 
-```
-1. Minä tykkään lukea. Menen usein kirjastoon.
-2. Minä olen astronautti. Lennän kuuhun.
-3. James on kotoisin Iso-Britanniasta. Tänään hän matkustaa kotiin Lontooseen.
-4. Erik ja Senja rakastavat lunta ja pakkasta. Talvella he matkustavat aina Lappiin.
-5. Haluatko teehen maitoa?
-6. Meillä on jano. Me menemme baariin.
-7. Minun äiti rakastaa taidetta. Hän matkustaa usein Firenzeen, Italiaan.
-```
+1. Minä tykkään lukea. Menen usein **kirjastoon**.
+2. Minä olen astronautti. Lennän **kuuhun**.
+3. James on kotoisin Iso-Britanniasta. Tänään hän matkustaa kotiin **Lontooseen**.
+4. Erik ja Senja rakastavat lunta ja pakkasta. Talvella he matkustavat aina **Lappiin**.
+5. Haluatko **teehen** maitoa?
+6. Meillä on jano. Me menemme **baariin**.
+7. Minun äiti rakastaa taidetta. Hän matkustaa usein Firenzeen, **Italiaan**.
 
 ## Harjoitus 30
 
-```
-- Mihin Maija menee?
-- Hän menee tuohon kahvilaan.
+> - Mihin Maija menee?
+> - Hän menee **tuohon kahvilaan**.
 
-- Mihin Ulla menee?
-- Hän menee harmaaseen kerrostaloon.
+> - Mihin Ulla menee?
+> - Hän menee **harmaaseen kerrostaloon**.
 
-- Mihin Jaakko menee?
-- Hän menee valoisaan keittiöön.
+> - Mihin Jaakko menee?
+> - Hän menee **valoisaan keittiöön**.
 
-- Mihin Mervi menee?
-- Hän menee vapaaseen pöytään.
+> - Mihin Mervi menee?
+> - Hän menee **vapaaseen pöytään**.
 
-- Mihin Api menee?
-- Hän menee korkeaan puuhun.
+> - Mihin Api menee?
+> - Hän menee **korkeaan puuhun**.
 
-- Mihin Riku menee?
-- Hän menee isoon marketiin.
+> - Mihin Riku menee?
+> - Hän menee **isoon marketiin**.
 
-- Mihin Essi menee?
-- Hän menee kuumaan maahan.
-```
+> - Mihin Essi menee?
+> - Hän menee **kuumaan maahan**.
 
 ## Harjoitus 31
 
-```
-Pedro ja Hanna muuttavat tänään 1. *Helsinkiin* (HELSINKI). Uusi koti on korkeassa 2. *harmaassa kerrostalossa* (HARMAA KERROSTALO), Puistotiellä. He ajavat autolla 3. *pihaan* (PIHA).
+Pedro ja Hanna muuttavat tänään *1.* **Helsinkiin** (HELSINKI). Uusi koti on korkeassa *2.* **harmaassa kerrostalossa** (HARMAA KERROSTALO), Puistotiellä. He ajavat autolla *3.* **pihaan** (PIHA).
 
-Pedro vie monta isoa laatikkoa 4. *pihalta* (PIHA) ylös uuteen asuntoon. Hanna ottaa tavarat 5. *ruskeasta* (RUSKEA) laatikosta ja panee ne sitten isoon 6. *kaappiin* (KAAPPI).
+Pedro vie monta isoa laatikkoa *4.* **pihalta** (PIHA) ylös uuteen asuntoon. Hanna ottaa tavarat *5.* **ruskeasta** (RUSKEA) laatikosta ja panee ne sitten isoon *6.* **kaappiin** (KAAPPI).
 
-Pedro vie kirjahyllyn, television ja sohvapöydän 7. *isoon* (ISO) olohuoneeseen. Hän panee lampun matalalle 8. *pöydälle* (PÖYTÄ) ja kirjat korkeaan 9. *harmaaseen* (HARMAA) hyllyyn. Sitten Pedro ja Hanna vievät sängyt ja yöpöydät 10. *valoisaan* (VALOISA) makuuhuoneeseen. Makuuhuoneessa matto on jo 11. *lattialla* (LATTIA) ja lamppu on 12. *katossa* (KATTO). Sitten Hanna menee 13. *pihalle* (PIHA) ja ajaa auton 14. *atuotalliin* (AUTOTALLI).
-```
+Pedro vie kirjahyllyn, television ja sohvapöydän *7.* **isoon** (ISO) olohuoneeseen. Hän panee lampun matalalle *8.* **pöydälle** (PÖYTÄ) ja kirjat korkeaan *9.* **harmaaseen** (HARMAA) hyllyyn. Sitten Pedro ja Hanna vievät sängyt ja yöpöydät *10.* **valoisaan** (VALOISA) makuuhuoneeseen. Makuuhuoneessa matto on jo *11.* **lattialla** (LATTIA) ja lamppu on *12.* **katossa** (KATTO). Sitten Hanna menee *13.* **pihalle** (PIHA) ja ajaa auton *14.* **atuotalliin** (AUTOTALLI).
 
 ## Harjoitus 32
 
-```
-A: Minä menen kurssilta bussipysäkille.
-B: Minä menen bussipysäkiltä toimistoon.
+A: Minä menen kurssilta bussipysäkille.  
+B: Minä menen bussipysäkiltä toimistoon.  
 
-A: Minä menen toimistosta x-markettiin.
-B: Minä menen x-markettista torille.
+A: Minä menen toimistosta x-markettiin.  
+B: Minä menen x-markettista torille.  
 
-A: Minä menen torilta apteekkiin.
-B: Minä menen apteekista kahville.
+A: Minä menen torilta apteekkiin.  
+B: Minä menen apteekista kahville.  
 
-A: Minä menen kahvilta urheilupuistolle.
-B: Minä menen urheilupuistolta kouluun.
+A: Minä menen kahvilta urheilupuistolle.  
+B: Minä menen urheilupuistolta kouluun.  
 
-A: Minä menen koulusta pankkiin.
-B: Minä menen pankista lentoasemalle.
-```
+A: Minä menen koulusta pankkiin.  
+B: Minä menen pankista lentoasemalle.  
 
 ## Harjoitus 33-A
 
-```
-Katariina: Hei Julia, mihin sinä menet?
-Julia: Ai hei Katariina, menen ensin tuohon 1. *pankkiin* (PANKKI) ja sitten 2. *uimahalliin* (UIMAHALLI).
-Katariina: Käytkö joka päivä 3. *uimahallissa* (UIMAHALLI)?
-Julia: En, vain maanantaisin ja torstaisin. Mihin sinä menet?
-Katariina: Minä menen nyt 4. *kotiin* (KOTI). Käyn siellä kuumassa 5. *suihkussa* (SUIHKU), koska minulla on tosi kylmä. Sitten menen 6. *keskustaan* (KESKUSTA) Kaisan kanssa.
-Julia: Ai jaa. Mitä te teette keskustassa?
-Katariina: Käymme ainakin 7. *tavaratalossa* (TAVARATALO) ja 8. *kahvilassa* (KAHVILA). Menemme myös varmasti illalla 9. *ravintolaan* (RAVINTOLA).
-Julia: Kuulostaa hyvältä!
-```
+`Katariina:` Hei Julia, mihin sinä menet?  
+`Julia:` Ai hei Katariina, menen ensin tuohon *1.* **pankkiin** (PANKKI) ja sitten *2.* **uimahalliin** (UIMAHALLI).   
+`Katariina:` Käytkö joka päivä *3.* **uimahallissa** (UIMAHALLI)?  
+`Julia:` En, vain maanantaisin ja torstaisin. Mihin sinä menet?  
+`Katariina:` Minä menen nyt *4.* **kotiin** (KOTI). Käyn siellä kuumassa *5.* **suihkussa** (SUIHKU), koska minulla on tosi kylmä. Sitten menen *6.* **keskustaan** (KESKUSTA) Kaisan kanssa.  
+`Julia:` Ai jaa. Mitä te teette keskustassa?  
+`Katariina:` Käymme ainakin *7.* **tavaratalossa** (TAVARATALO) ja *8.* **kahvilassa** (KAHVILA). Menemme myös varmasti illalla *9.* **ravintolaan** (RAVINTOLA).  
+`Julia:` Kuulostaa hyvältä!  
 
 ## Harjoitus 33-B
 
-```
-Toni: Moi Mika!
-Mika: Ai moi! Mitä kuuluu?
-Toni: Hyvää, kiitos. Menen tänään laivalla 1. *Tukholmaan* (TUKHOLMA).
-Mika: Menetkö 2. *työmatkalle* (TYÖMATKA)?
-Toni: En. Tämä on lomamatka. Käyn 3. *Tukholmassa* (TUKHOLMA) joka vuosi. Se on hieno kaupunki! Käyn aina 4. *Vasa-museossa* (VASA-MUSEO) ja vanhassakaupungissa. Mitä sinä teet viikonloppuna?
-Mika: Minä käyn aina lauantaina Erikan ja Sofian kanssa 5. *kirjastossa* (KIRJASTO). Tytöt lukevat satukirjaa ja minä lehteä. Illalla menen Juuson kanssa 6. *terassille* (TERASSI). Juuso on minun työkaveri. Käymme varmasti myös 7. *baarissa* (BAARI) Uudenmaankadulla.
-```
+`Toni:` Moi Mika!  
+`Mika:` Ai moi! Mitä kuuluu?  
+`Toni:` Hyvää, kiitos. Menen tänään laivalla *1.* **Tukholmaan** (TUKHOLMA).  
+`Mika:` Menetkö *2.* **työmatkalle** (TYÖMATKA)?  
+`Toni:` En. Tämä on lomamatka. Käyn *3.* **Tukholmassa** (TUKHOLMA) joka vuosi. Se on hieno kaupunki! Käyn aina *4.* **Vasa-museossa** (VASA-MUSEO) ja vanhassakaupungissa. Mitä sinä teet viikonloppuna?  
+`Mika:` Minä käyn aina lauantaina Erikan ja Sofian kanssa *5.* **kirjastossa** (KIRJASTO). Tytöt lukevat satukirjaa ja minä lehteä. Illalla menen Juuson kanssa *6.* **terassille** (TERASSI). Juuso on minun työkaveri. Käymme varmasti myös *7.* **baarissa** (BAARI) Uudenmaankadulla.  
 
 ## Harjoitus 34
 
-```
-Aamulla kello soi seitsemältä. Nousen 1. *sängystä* (SÄNKY) ja menen kylpyhuoneeseen. Käyn nopeasti kuumassa 2. *suihkussa* (SUIHKU). Sitten menen 3. *keittiöön* (KEITTIÖ). 4. *Pöydällä* (PÖYTÄ) on lehti ja kahvikuppi. Istun 5. *keittiössä* (KEITTIÖ) ja syön aamupalaa.
+Aamulla kello soi seitsemältä. Nousen *1.* **sängystä** (SÄNKY) ja menen kylpyhuoneeseen. Käyn nopeasti kuumassa *2.* **suihkussa** (SUIHKU). Sitten menen *3.* **keittiöön** (KEITTIÖ). *4.* **Pöydällä** (PÖYTÄ) on lehti ja kahvikuppi. Istun *5.* **keittiössä** (KEITTIÖ) ja syön aamupalaa.
 
-Kahdeksalta lähden kotoa 6. *keskustaan* (KESKUSTA) töihin. Istun 7. *kuumassa bussissa* (KUUMA BUSSI) 20 minuuttia. Minun pysäkki on 8. *Hämeentiellä* (HÄMEENTIE). Nousen pois 9. *bussista* (BUSSI).
+Kahdeksalta lähden kotoa *6.* **keskustaan** (KESKUSTA) töihin. Istun *7.* **kuumassa bussissa** (KUUMA BUSSI) 20 minuuttia. Minun pysäkki on *8.* **Hämeentiellä** (HÄMEENTIE). Nousen pois *9.* **bussista** (BUSSI).
 
-Töissä puhun puhelimessa ja käytän tietokonetta. Päivällä käyn 10. *torilla* (TORI) ja syön vähän. Sitten menen taas töihin 11. *toimistoon* (TOIMISTO). Työpäivä loppuu viideltä ja ajan bussilla 12. *kotiin* (KOTI).
+Töissä puhun puhelimessa ja käytän tietokonetta. Päivällä käyn *10.* **torilla** (TORI) ja syön vähän. Sitten menen taas töihin *11.* **toimistoon** (TOIMISTO). Työpäivä loppuu viideltä ja ajan bussilla *12.* **kotiin** (KOTI).
 
-Olen 13. *kotona* (KOTI) puoli kuudelta. Teen ruokaa, syön ja katson uutiset. Sitten menen englannin 14. *kurssille* (KURSSI). Kun kurssi loppuu, käyn vielä nopeasti 15. *apteekkissa* (APTEEKKI) ja kaupassa. Sitten menen kotiin.
-```
+Olen *13.* **kotona** (KOTI) puoli kuudelta. Teen ruokaa, syön ja katson uutiset. Sitten menen englannin *14.* **kurssille** (KURSSI). Kun kurssi loppuu, käyn vielä nopeasti *15.* **apteekkissa** (APTEEKKI) ja kaupassa. Sitten menen kotiin.
 
 ## Harjoitus 35
 
-```
 1.
-- Onko tuo talo tuolla sairaala?
-- Ei, se on koulu.
+- Onko *tuo* talo tuolla sairaala?
+- Ei, *se* on koulu.
 
 2.
-- Mikä tamä on?
-- Etkö sinä tiedä, se on lamppu!
+- Mikä *tamä* on?
+- Etkö sinä tiedä, *se* on lamppu!
 
 3.
-- Minä otan nämä kirjat.
-- Mihin sinä viet ne?
+- Minä otan *nämä* kirjat.
+- Mihin sinä viet *ne*?
 
 4.
-- Ostatko sinä nuo kengät?
-- Ostan. Ne ovat kauniit.
-```
+- Ostatko sinä *nuo* kengät?
+- Ostan. *Ne* ovat kauniit.
 
 ## Harjoitus 36
 
-```
-1. Mitä sairaalassa lukee odotushuoneen seinällä?
+1. Mitä sairaalassa lukee odotushuoneen seinällä?  
 Ilmoittaudu ensin! Älä häiritse! Odotta lääkäria! Maksa kassalle! Älä polta tupakka.
 
-2. Teillä on juhlat kotona illalla. Päivällä sinä olet töissä ja sinun poikaystävä siivoa kotona. Mitä sanot hänelle?
+2. Teillä on juhlat kotona illalla. Päivällä sinä olet töissä ja sinun poikaystävä siivoa kotona. Mitä sanot hänelle?  
 Siivoa olohuone. Pese lattia. Tiskaa astiat. Leivo kakku ja tee ruokaa. Käy kaupassa.
 
-3. Sinun ystävä on sairas. Hänellä on influenssa. Mitä sanot hänelle?
+3. Sinun ystävä on sairas. Hänellä on influenssa. Mitä sanot hänelle?  
 Juo paljon ja nukku. Soita töihin. Älä urheile! Älä mene töihin.
-```
 
 ## Harjoitus 37
 
-```
-1. Lapsi on yksin kotona. Äiti soittaa hänelle. Mitä äiti sanoo?
-Älä avaa ovea! Älä mene ulos! Tee läksyt! Soita minulle, jos tarvitset apua!
+1. Lapsi on yksin kotona. Äiti soittaa hänelle. Mitä äiti sanoo?  
+Älä avaa ovea! Älä mene ulos! Tee läksyt! Soita minulle, jos tarvitset apua!  
 
-2. Mitä suomen opettaja sanoo opiskelijoille?
-Lukekaa teksti ja kirjoittakaa tehtävä.
+2. Mitä suomen opettaja sanoo opiskelijoille?  
+Lukekaa teksti ja kirjoittakaa tehtävä.  
 
-3. Sinun ystävä ei tiedä, mitä hän haluaisi tehdä viikonloppuna. Onko sinulla hyvä idea?
-Mennään elokuviin ja kahvilaan. Käydään uimassa.
-```
+3. Sinun ystävä ei tiedä, mitä hän haluaisi tehdä viikonloppuna. Onko sinulla hyvä idea?  
+Mennään elokuviin ja kahvilaan. Käydään uimassa.  
 
 ## Harjoitus 38
 
-```
-Kotikatu 28
+**Kotikatu 28**
 
 Niko Syrjänen asuu osoitteessa Kotikatu 28 B 8.
 
@@ -1323,64 +1288,67 @@ Onneksi talossa on vapaa asunto 1. kerroksessa. Asunnossa on myös terassi. Vuor
 
 Talossa asuu myös Karl Bengtsson. Hän asuu yksin, mutta hänellä on tosi iso asunto ja parveke. Bengtssonilla on talossa myös toinen asunto. Se on pieni vuokra-asunto. Asunnossa asuu nuori opiskelija Siiri Muttilainen.
 
-A1 - Petteri Saranen
-A2 - Kioski
-A3 - Lissun perhe -> Alman ystävä Lissu ja hänen perhe
-A4 - Tauno ja Taunon vaimo
-A5 - Maija ja Lasse Vuorela
-B6 - Siiri Muttilainen
-B7 - Vapaa
-B8 - Niko Syrjänen
-B9 - Emmi, Janne ja Alma Toivio
-B10 - Karl Bengtsson
-```
+* A1 - Petteri Saranen
+* A2 - Kioski
+* A3 - Lissun perhe -> Alman ystävä Lissu ja hänen perhe
+* A4 - Tauno ja Taunon vaimo
+* A5 - Maija ja Lasse Vuorela
+* B6 - Siiri Muttilainen
+* B7 - Vapaa
+* B8 - Niko Syrjänen
+* B9 - Emmi, Janne ja Alma Toivio
+* B10 - Karl Bengtsson
 
 ## Harjoitus 39
 
-```
 1. Pirjo soittaa huoltomiehelle.
 
-- Huoltoyhtiö Jokinen!
-- Täällä on Pirjo Kuusinen, hei!
-- Päivää, miten voin auttaa?
-- No mä tulin just kotiin, mut mä oon nyt rappukäytävässä. Mä en pääse kotiin koska mulla ei oo avainta. Mä en löydä avainta mistään.
-- Jaa, vain niin!
-- Voitteks te tulla ja avata oven? Onks teillä avain kaikkiin asuntoihin?
-- Kyllä on, mutta avaaminen maksaa. Nyt on sunnuntai joten hinta on kuuskyt euroa.
-- Kuuskyt euroa! Huh, se on tosi paljon. Sit mä luulen että mä odotan mieluummin että mun poikaystävä tulee kotiin. Se tulee yleensä viidelta.
-- Selvä!
-- Kiitos kuitenkin ja hei hei.
-- Hei.
+`A:` Huoltoyhtiö Jokinen!  
+`B:` Täällä on Pirjo Kuusinen, hei!  
+`A:` Päivää, miten voin auttaa?  
+`B:` No mä tulin just kotiin, mut mä oon nyt rappukäytävässä. Mä en pääse kotiin koska mulla ei oo avainta. Mä en löydä avainta mistään.  
+`A:` Jaa, vain niin!  
+`B:` Voitteks te tulla ja avata oven? Onks teillä avain kaikkiin asuntoihin?  
+`A:` Kyllä on, mutta avaaminen maksaa. Nyt on sunnuntai joten hinta on kuuskyt euroa.  
+`B:` Kuuskyt euroa! Huh, se on tosi paljon. Sit mä luulen että mä odotan mieluummin että mun poikaystävä tulee kotiin. Se tulee yleensä viidelta.  
+`A:` Selvä!  
+`B:` Kiitos kuitenkin ja hei hei.  
+`A:` Hei.  
 
-Ongelma: Pirjolla ei ole avainta.
-Ratkaisu: Hän odottaa että poikaystävä tulee kotiin.
+`Ongelma:` Pirjolla ei ole avainta.  
+`Ratkaisu:` Hän odottaa että poikaystävä tulee kotiin.  
 
 2. On ilta. Kello on jo paljon. Elli ja Aki ovat kotona ja keskustelevat.
 
-- Voi ei! Naapurissa on taas juhlat.
-- Niin on! Miten voi olla että ne juhlii joka viikonloppu.
-- Sitä paitsi nyt ei edes oo viikonloppu. Vaan torstai.
-- Niin, ja toi musiikki on niin kovalla että mä en voi nukkua.
-- Joo, toi musiikki häiritsee muakin.
-- Mitähän me voidaan tehdä?
-- En mä tiedä. Noh, jos mä meen niiden ovelle ja soitan ovikelloa. Mä sanon että juhlat häiritsee meitä.
-- Ei, älä mee, ei se varmasti auta mitään. Ei yöllä kannata keskustella. Soitetaanks poliisille?
-- No ei! Ei tää niin iso asia ole. Mitä jos puhutaan huomenna naapuraninen kanssa. Kuninen juhlat on ohi. Odotetaan aamu.
-- Okei, tehdään niin. Ja nyt mennään nukkumaan.
+`A:` Voi ei! Naapurissa on taas juhlat.  
+`B:` Niin on! Miten voi olla että ne juhlii joka viikonloppu.  
+`A:` Sitä paitsi nyt ei edes oo viikonloppu. Vaan torstai.  
+`B:` Niin, ja toi musiikki on niin kovalla että mä en voi nukkua.  
+`A:` Joo, toi musiikki häiritsee muakin.  
+`B:` Mitähän me voidaan tehdä?  
+`A:` En mä tiedä. Noh, jos mä meen niiden ovelle ja soitan ovikelloa. Mä sanon että juhlat häiritsee meitä.  
+`B:` Ei, älä mee, ei se varmasti auta mitään. Ei yöllä kannata keskustella. Soitetaanks poliisille?  
+`A:` No ei! Ei tää niin iso asia ole. Mitä jos puhutaan huomenna naapuraninen kanssa. Kuninen juhlat on ohi. Odotetaan aamu.  
+`B:` Okei, tehdään niin. Ja nyt mennään nukkumaan.  
+
+`Ongelma:` Naapurissa on juhlat ja musiikki häiritsee Elliä ja Akia. He eivät voi nukkua.  
+`Ratkaisu:` He odottavat aamuun ja puhuvat huomenna naapurin kanssa sitten.
 
 3. Kari Suominen asuu vuokra-asunnossa. Hän soittaa Anneli Wigrenille. Anneli omistaa asunnon.
 
-- Täällä on Kari Suominen. Päivää! Mä olen teidän vuokralainen Mäkitie kahdeksasta.
-- Päivää!
-- Tota, mulla on pieni ongelma. Mun pitäis maksaa vuokra huomenna. Mutta mulla ei oo rahaa.
-- Vai niin!
-- Niin, katsokaas kun mulla ei oo enää töitä. Mä oon nyt työtön.
-- Jaa-ha, mutta milloin sitten saatte rahaa? Ette te voi asua asunnossa jos ette maksa vuokraa.
-- Niin, tietysti. Mutta voisinks mä maksaa kesäkuussa? Silloin mulla on rahaa, koska mun uusi työ alkaa perjantaina.
-- Hmm, hetkinen. Minä mietin. Tehdäänkö nyt kompromissi? Te maksatte huomenna 200 euroa ja sitten loput 300 euroa kesäkuussa.
-- Okei, sopii. Kiitos paljon.
-- Selvä! Kuulemiin.
-```
+`A:` Täällä on Kari Suominen. Päivää! Mä olen teidän vuokralainen Mäkitie kahdeksasta.  
+`A:` Päivää!  
+`A:` Tota, mulla on pieni ongelma. Mun pitäis maksaa vuokra huomenna. Mutta mulla ei oo rahaa.  
+`A:` Vai niin!  
+`A:` Niin, katsokaas kun mulla ei oo enää töitä. Mä oon nyt työtön.  
+`A:` Jaa-ha, mutta milloin sitten saatte rahaa? Ette te voi asua asunnossa jos ette maksa vuokraa.  
+`A:` Niin, tietysti. Mutta voisinks mä maksaa kesäkuussa? Silloin mulla on rahaa, koska mun uusi työ alkaa perjantaina.  
+`A:` Hmm, hetkinen. Minä mietin. Tehdäänkö nyt kompromissi? Te maksatte huomenna 200 euroa ja sitten loput 300 euroa kesäkuussa.  
+`A:` Okei, sopii. Kiitos paljon.  
+`A:` Selvä! Kuulemiin.  
+
+`Ongelma:` Karilla ei ole rahaa maksaa vuokraa.  
+`Ratkaisu:` Kari maksaa huomenna 200 euroa ja kesäkuussa 300 euroa.  
 
 ## Useful phrases
 
